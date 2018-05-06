@@ -5,7 +5,7 @@ aList = [random.randint(0,100) for i in range(20)]
 print(aList)
 front = sorted(aList[0:10])
 print(front)
-back = sorted(aList[11:20],reverse = True)
+back = sorted(aList[10:20],reverse = True)
 print(back)
 #print(front.extend(back)) output None consider WHY???
 front.extend(back)
