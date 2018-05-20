@@ -18,11 +18,14 @@ else:
 #这是深度优先遍历，第一次迭代，得到一个filelist,包含当前目录下的所有文件
 #第二次迭代，这是filelist是当前目录下第一个文件夹下的所有文件
 #以此类推
+flag = 0
 for pathlist,direcotrylist,filelist in os.walk(direcotry):
     print(filelist)
     if filename in filelist:
-        print('Exsits!')
-        break;
-    else:
-        print('Can not find!')
+        flag = 1
+        break
+if(flag ==1):
+    print('Exsits!')
+else:
+    print('Cannot find!')
 

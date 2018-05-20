@@ -9,8 +9,7 @@ with open('score.dat','wb') as wfp:
 with open('score.dat','rb') as rfp:
     readname = pickle.load(rfp)
     readdata = pickle.load(rfp)
-print('文件头信息(表名为:')
-print(readname)
-print('表格信息为:')
-print(readdata)
+print('文件头信息(表名为:',readname)
+print('表格信息为:',readdata)
+
 
