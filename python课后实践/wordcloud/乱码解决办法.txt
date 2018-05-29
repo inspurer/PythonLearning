@@ -1,0 +1,4 @@
+﻿把系统自带字库复制到E:\Python\installdirectory\Lib\site-packages\wordcloud里去
+同时在该目录下打开worldcloud.py文件
+在第28行做如下修改
+FONT_PATH = os.environ.get('FONT_PATH', os.path.join(FILE, 'DroidSansMono.ttf'))修改DroidSansMono.ttf为你自己的字体文件名
