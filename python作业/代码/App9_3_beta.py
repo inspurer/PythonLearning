@@ -1,13 +1,12 @@
+#模拟Tim登录界面，账号为‘123456’，密码为‘654321’正确
 import wx
-from PIL import Image
 class App9_3(wx.Frame):
     #初始化上半部分Bar
     def topPanelInit(self):
         self.timPic = wx.Image("Tim.png", wx.BITMAP_TYPE_ANY).ConvertToBitmap()
-        self.timButton = wx.BitmapButton(self.mainPanel, -1, self.timPic, pos=(0,0),size = (420,140))
+        self.timButton = wx.BitmapButton(self.mainPanel, -1, self.timPic, pos=(0,0),size = (420,125))
     #加载头像
     def imageLoader(self,supervison):
-        #image = Image.open(self.filename)
         self.pic = wx.Image(self.filename, wx.BITMAP_TYPE_ANY).ConvertToBitmap()
         self.button = wx.BitmapButton(supervison, -1, self.pic, pos=(40, 150))
     #初始化下半部分bar

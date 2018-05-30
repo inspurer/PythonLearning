@@ -1,3 +1,4 @@
+#设置一个窗体,并放置一个按钮，单击按钮后弹出颜色对话框，关闭后提示选中的颜色
 import wx
 class App9_1(wx.Frame):
     def __init__(self,superion):
