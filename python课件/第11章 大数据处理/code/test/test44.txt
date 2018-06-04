@@ -1,0 +1,2000 @@
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.421 [41116]: 1> while resolving 0xa001032 - Microsoft.SqlServer.Management.Smo.DataType.get_MaximumLength.
+02/12/2014 08:33:40.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.437 [41116]: 1> while resolving 0xa00103d - Microsoft.SqlServer.Management.Smo.DataType.get_Name.
+02/12/2014 08:33:40.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.437 [41116]: 1> while resolving 0xa00103e - Microsoft.SqlServer.Management.Smo.DataType.get_SqlDataType.
+02/12/2014 08:33:40.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.437 [41116]: 1> while resolving 0xa001043 - Microsoft.VisualStudio.TeamSystem.Data.DataGenerator.DatabaseHandler.SqlTypeConversion.GetSqlDataType.
+02/12/2014 08:33:40.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.453 [41116]: 1> while resolving 0xa001053 - Microsoft.SqlServer.Management.UI.Grid.GridControl.DeleteColumn.
+02/12/2014 08:33:40.453 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.453 [41116]: 1> while resolving 0xa001058 - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.BackgroundColor.
+02/12/2014 08:33:40.484 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.484 [41116]: 1> while resolving 0xa00105a - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_HeaderFont.
+02/12/2014 08:33:40.484 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.500 [41116]: 1> while resolving 0xa00105c - Microsoft.SqlServer.Management.UI.Grid.GridColumn.CELL_CONTENT_OFFSET.
+02/12/2014 08:33:40.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.500 [41116]: 1> while resolving 0xa00105f - Microsoft.VisualStudio.TeamSystem.Data.DataGenerator.TableConfig.get_Table.
+02/12/2014 08:33:40.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.500 [41116]: 1> while resolving 0xa001063 - Microsoft.SqlServer.Management.UI.Grid.GridControl.set_BorderStyle.
+02/12/2014 08:33:40.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.500 [41116]: 1> while resolving 0xa001065 - Microsoft.VisualStudio.TeamSystem.Data.DataGenerator.DatabaseConfig.get_Database.
+02/12/2014 08:33:40.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.515 [41116]: 1> while resolving 0xa001075 - Microsoft.SqlServer.Management.UI.Grid.TooltipDataNeededEventHandler..ctor.
+02/12/2014 08:33:40.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.515 [41116]: 1> while resolving 0xa001076 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_TooltipDataNeeded.
+02/12/2014 08:33:40.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.515 [41116]: 1> while resolving 0xa001077 - Microsoft.SqlServer.Management.UI.Grid.MouseButtonClickedEventHandler..ctor.
+02/12/2014 08:33:40.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.531 [41116]: 1> while resolving 0xa001078 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_MouseButtonClicked.
+02/12/2014 08:33:40.546 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.546 [41116]: 1> while resolving 0xa001079 - Microsoft.SqlServer.Management.UI.Grid.GridControl.UpdateGrid.
+02/12/2014 08:33:40.546 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.546 [41116]: 1> while resolving 0xa00107a - Microsoft.SqlServer.Management.UI.Grid.TooltipDataNeededEventArgs.get_RowIndex.
+02/12/2014 08:33:40.562 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.562 [41116]: 1> while resolving 0xa00107b - Microsoft.SqlServer.Management.UI.Grid.TooltipDataNeededEventArgs.get_ColumnIndex.
+02/12/2014 08:33:40.562 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.562 [41116]: 1> while resolving 0xa00107c - Microsoft.SqlServer.Management.UI.Grid.TooltipDataNeededEventArgs.set_TooltipText.
+02/12/2014 08:33:40.578 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.578 [41116]: 1> while resolving 0xa00107d - Microsoft.SqlServer.Management.UI.Grid.MouseButtonClickedEventArgs.get_Button.
+02/12/2014 08:33:40.578 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.593 [41116]: 1> while resolving 0xa0010de - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.IsWithRightGridLine.
+02/12/2014 08:33:40.593 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.593 [41116]: 1> while resolving 0xa0010df - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.IsHeaderMergedWithRight.
+02/12/2014 08:33:40.593 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.593 [41116]: 1> while resolving 0xa001104 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_SelectedCells.
+02/12/2014 08:33:40.593 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.593 [41116]: 1> while resolving 0xa001105 - Microsoft.SqlServer.Management.UI.Grid.SelectionChangedEventArgs..ctor.
+02/12/2014 08:33:40.609 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.609 [41116]: 1> while resolving 0xa001108 - Microsoft.SqlServer.Management.UI.Grid.GridControl.StartCellEdit.
+02/12/2014 08:33:40.609 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.609 [41116]: 1> while resolving 0xa001109 - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.IsWithSelectionBackground.
+02/12/2014 08:33:40.609 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.640 [41116]: 1> while resolving 0xa00113d - Microsoft.WizardFramework.WizardPage.set_Cancellable.
+02/12/2014 08:33:40.640 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.640 [41116]: 1> while resolving 0xa001197 - Microsoft.WizardFramework.WizardPage.EnableStep.
+02/12/2014 08:33:40.640 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.640 [41116]: 1> while resolving 0xa00119b - Microsoft.WizardFramework.WizardForm.OnNext.
+02/12/2014 08:33:40.640 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.656 [41116]: 1> while resolving 0xa00119c - Microsoft.WizardFramework.WizardForm.Dispose.
+02/12/2014 08:33:40.671 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.671 [41116]: 1> while resolving 0xa0011b9 - Microsoft.SqlServer.Management.UI.Grid.GridControl.ResizeColumnToShowAllContents.
+02/12/2014 08:33:40.671 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.671 [41116]: 1> while resolving 0xa0011ba - Microsoft.SqlServer.Management.UI.Grid.GridControl.WndProc.
+02/12/2014 08:33:40.671 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.671 [41116]: 1> while resolving 0xa0011bb - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetDataObject.
+02/12/2014 08:33:40.687 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.687 [41116]: 1> while resolving 0xa0011bd - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.set_Width.
+02/12/2014 08:33:40.687 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.687 [41116]: 1> while resolving 0xa0011be - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.set_Height.
+02/12/2014 08:33:40.687 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.687 [41116]: 1> while resolving 0xa0011bf - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.get_Height.
+02/12/2014 08:33:40.703 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.718 [41116]: 1> while resolving 0xa0011c0 - Microsoft.SqlServer.Management.UI.Grid.SelectionManager.get_SelectedBlocks.
+02/12/2014 08:33:40.718 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.718 [41116]: 1> while resolving 0xa0011c2 - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.get_Bottom.
+02/12/2014 08:33:40.718 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.734 [41116]: 1> while resolving 0xa0011c3 - Microsoft.SqlServer.Management.UI.Grid.SelectionManager.IsCellSelected.
+02/12/2014 08:33:40.750 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.750 [41116]: 1> while resolving 0xa0011c4 - Microsoft.SqlServer.Management.UI.Grid.GridControl.OnMouseButtonClicking.
+02/12/2014 08:33:40.750 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.750 [41116]: 1> while resolving 0xa0011c6 - Microsoft.SqlServer.Management.UI.Grid.GridControl.Dispose.
+02/12/2014 08:33:40.750 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.750 [41116]: 1> while resolving 0xa0011c7 - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.TextBmpHeaderLayout.
+02/12/2014 08:33:40.750 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.765 [41116]: 1> while resolving 0xa0011c8 - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetCellGDIObjects.
+02/12/2014 08:33:40.765 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.765 [41116]: 1> while resolving 0xa0011c9 - Microsoft.SqlServer.Management.UI.Grid.GridColumn.get_ColumnIndex.
+02/12/2014 08:33:40.765 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.765 [41116]: 1> while resolving 0xa0011cd - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetCellFont.
+02/12/2014 08:33:40.765 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.765 [41116]: 1> while resolving 0xa0012a5 - Microsoft.SqlServer.Management.UI.Grid.GridControl.ResetGrid.
+02/12/2014 08:33:40.781 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.781 [41116]: 1> while resolving 0xa001344 - Microsoft.SqlServer.Management.UI.Grid.GridBitmapColumn..ctor.
+02/12/2014 08:33:40.781 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.796 [41116]: 1> while resolving 0xa001345 - Microsoft.SqlServer.Management.UI.Grid.GridBitmapColumn..ctor.
+02/12/2014 08:33:40.796 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.796 [41116]: 1> while resolving 0xa001346 - Microsoft.SqlServer.Management.UI.Grid.GridColumn.m_myColumnIndex.
+02/12/2014 08:33:40.796 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.812 [41116]: 1> while resolving 0xa001347 - Microsoft.SqlServer.Management.UI.Grid.IGridStorage.GetCellDataAsString.
+02/12/2014 08:33:40.828 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.843 [41116]: 1> while resolving 0xa001348 - Microsoft.SqlServer.Management.UI.Grid.GridColumn.m_myAlign.
+02/12/2014 08:33:40.843 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.859 [41116]: 1> while resolving 0xa00134a - Microsoft.SqlServer.Management.UI.Grid.GridBitmapColumn.m_isRTL.
+02/12/2014 08:33:40.859 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.859 [41116]: 1> while resolving 0xa001382 - Microsoft.VisualStudio.Data.DataProviderManager.GetDataProvider.
+02/12/2014 08:33:40.859 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.875 [41116]: 1> while resolving 0xa001383 - Microsoft.VisualStudio.Data.DataProvider.GetProperty.
+02/12/2014 08:33:40.875 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.875 [41116]: 1> while resolving 0xa001384 - Microsoft.VisualStudio.Data.DataConnection.get_Source.
+02/12/2014 08:33:40.890 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.890 [41116]: 1> while resolving 0xa001385 - Microsoft.VisualStudio.Data.DataConnectionDialogFactory.CreateConnectionDialog.
+02/12/2014 08:33:40.890 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.890 [41116]: 1> while resolving 0xa001386 - Microsoft.VisualStudio.Data.DataConnectionDialog.AddSources.
+02/12/2014 08:33:40.890 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.890 [41116]: 1> while resolving 0xa001387 - Microsoft.VisualStudio.Data.DataConnectionDialog.LoadSourceSelection.
+02/12/2014 08:33:40.906 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.906 [41116]: 1> while resolving 0xa001388 - Microsoft.VisualStudio.Data.DataConnectionDialog.LoadProviderSelections.
+02/12/2014 08:33:40.906 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.906 [41116]: 1> while resolving 0xa001389 - Microsoft.VisualStudio.Data.DataConnectionDialog.get_AvailableSources.
+02/12/2014 08:33:40.906 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.906 [41116]: 1> while resolving 0xa00138a - Microsoft.VisualStudio.Data.DataConnectionDialog.set_SelectedSource.
+02/12/2014 08:33:40.921 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.921 [41116]: 1> while resolving 0xa00138b - Microsoft.VisualStudio.Data.DataConnectionDialog.ShowDialog.
+02/12/2014 08:33:40.921 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.921 [41116]: 1> while resolving 0xa00138c - Microsoft.VisualStudio.Data.DataConnectionDialog.get_SaveSelection.
+02/12/2014 08:33:40.921 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.921 [41116]: 1> while resolving 0xa00138d - Microsoft.VisualStudio.Data.DataConnectionDialog.SaveSourceSelection.
+02/12/2014 08:33:40.921 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.937 [41116]: 1> while resolving 0xa00138e - Microsoft.VisualStudio.Data.DataConnectionDialog.SaveProviderSelections.
+02/12/2014 08:33:40.937 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.937 [41116]: 1> while resolving 0xa00138f - Microsoft.VisualStudio.Data.DataConnectionDialog.get_SelectedProvider.
+02/12/2014 08:33:40.953 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.968 [41116]: 1> while resolving 0xa001390 - Microsoft.VisualStudio.Data.DataConnectionDialog.get_EncryptedConnectionString.
+02/12/2014 08:33:40.968 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.968 [41116]: 1> while resolving 0xa001391 - Microsoft.VisualStudio.Data.DataProviderManager.GetDataProviders.
+02/12/2014 08:33:40.968 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.968 [41116]: 1> while resolving 0xa001392 - Microsoft.VisualStudio.Data.DataConnectionDialog.get_AvailableProviders.
+02/12/2014 08:33:40.984 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.984 [41116]: 1> while resolving 0xa001393 - Microsoft.VisualStudio.Data.DataConnectionDialog.LoadExistingConfiguration.
+02/12/2014 08:33:40.984 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.984 [41116]: 1> while resolving 0xa001394 - Microsoft.VisualStudio.Data.DataExplorerConnectionManager.SelectConnection.
+02/12/2014 08:33:40.984 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.000 [41116]: 1> while resolving 0xa0013dd - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetHeaderInfo.
+02/12/2014 08:33:41.000 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.000 [41116]: 1> while resolving 0xa0013de - Microsoft.SqlServer.Management.UI.Grid.IGridStorage.GetCellDataAsBitmap.
+02/12/2014 08:33:41.000 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.000 [41116]: 1> while resolving 0xa0013e6 - Microsoft.SqlServer.Management.UI.Grid.GridHyperlinkColumn..ctor.
+02/12/2014 08:33:41.000 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.000 [41116]: 1> while resolving 0xa0013ea - Microsoft.SqlServer.Management.UI.Grid.GridTextColumn.m_textFormat.
+02/12/2014 08:33:41.015 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.015 [41116]: 1> while resolving 0xa0013ee - Microsoft.SqlServer.Management.UI.Grid.GridTextColumn.m_myStringFormat.
+02/12/2014 08:33:41.015 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.015 [41116]: 1> while resolving 0xa001419 - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_SelectionType.
+02/12/2014 08:33:41.015 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.015 [41116]: 1> while resolving 0xa00141a - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_WithHeader.
+02/12/2014 08:33:41.031 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.031 [41116]: 1> while resolving 0xa00141b - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_AlwaysHighlightSelection.
+02/12/2014 08:33:41.046 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.046 [41116]: 1> while resolving 0xa00141c - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_FirstScrollableColumn.
+02/12/2014 08:33:41.046 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.046 [41116]: 1> while resolving 0xa00141d - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_ColumnsReorderableByDefault.
+02/12/2014 08:33:41.046 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.046 [41116]: 1> while resolving 0xa00141e - Microsoft.SqlServer.Management.UI.Grid.IGridControl.get_GridStorage.
+02/12/2014 08:33:41.078 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.078 [41116]: 1> while resolving 0xa00141f - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_SelectedCells.
+02/12/2014 08:33:41.078 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.078 [41116]: 1> while resolving 0xa001420 - Microsoft.SqlServer.Management.UI.Grid.GridControl.OnMouseDown.
+02/12/2014 08:33:41.093 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.093 [41116]: 1> while resolving 0xa001425 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_RowHeight.
+02/12/2014 08:33:41.093 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.093 [41116]: 1> while resolving 0xa001426 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_BorderStyle.
+02/12/2014 08:33:41.093 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.093 [41116]: 1> while resolving 0xa00142a - Microsoft.SqlServer.Management.UI.Grid.GridColumn.set_TextBrush.
+02/12/2014 08:33:41.093 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.109 [41116]: 1> while resolving 0xa00142b - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetCellStringForResizeToShowAll.
+02/12/2014 08:33:41.156 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.156 [41116]: 1> while resolving 0xa00142c - Microsoft.SqlServer.Management.UI.Grid.GridControl.m_Columns.
+02/12/2014 08:33:41.171 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.171 [41116]: 1> while resolving 0xa00142d - Microsoft.SqlServer.Management.UI.Grid.GridColumnCollection.get_Item.
+02/12/2014 08:33:41.171 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.171 [41116]: 1> while resolving 0xa00142e - Microsoft.SqlServer.Management.UI.Grid.GridColumn.get_ColumnType.
+02/12/2014 08:33:41.171 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.187 [41116]: 1> while resolving 0xa00142f - HeaderItem.get_Text.
+02/12/2014 08:33:41.187 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.187 [41116]: 1> while resolving 0xa001430 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_ColumnsSeparator.
+02/12/2014 08:33:41.203 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.218 [41116]: 1> while resolving 0xa001431 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_NewLineCharacters.
+02/12/2014 08:33:41.218 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.218 [41116]: 1> while resolving 0xa001433 - Microsoft.SqlServer.Management.UI.Grid.GridControl.SelectedCellsInternal.
+02/12/2014 08:33:41.218 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.234 [41116]: 1> while resolving 0xa001434 - Microsoft.SqlServer.Management.UI.Grid.SelectionManager.SetCurrentCell.
+02/12/2014 08:33:41.234 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.250 [41116]: 1> while resolving 0xa001435 - Microsoft.SqlServer.Management.UI.Grid.SelectionManager.get_CurrentSelectionBlockIndex.
+02/12/2014 08:33:41.250 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.250 [41116]: 1> while resolving 0xa001439 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine..ctor.
+02/12/2014 08:33:41.250 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.250 [41116]: 1> while resolving 0xa00143c - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.add_BatchParserExecutionStart.
+02/12/2014 08:33:41.250 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.265 [41116]: 1> while resolving 0xa00143e - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.add_BatchParserExecutionFinished.
+02/12/2014 08:33:41.265 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.265 [41116]: 1> while resolving 0xa001440 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.add_BatchParserExecutionError.
+02/12/2014 08:33:41.265 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.328 [41116]: 1> while resolving 0xa001441 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.add_ScriptExecutionFinished.
+02/12/2014 08:33:41.328 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.328 [41116]: 1> while resolving 0xa001444 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.Dispose.
+02/12/2014 08:33:41.328 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.328 [41116]: 1> while resolving 0xa001455 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.ExecuteScript.
+02/12/2014 08:33:41.343 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.343 [41116]: 1> while resolving 0xa001468 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.Close.
+02/12/2014 08:33:41.343 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.343 [41116]: 1> while resolving 0xa001469 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.CancelCurrentBatch.
+02/12/2014 08:33:41.343 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.343 [41116]: 1> while resolving 0xa00146e - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.Close.
+02/12/2014 08:33:41.343 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.375 [41116]: 1> while resolving 0xa00146f - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.Close.
+02/12/2014 08:33:41.375 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.375 [41116]: 1> while resolving 0xa00147b - Microsoft.SqlServer.Management.UI.Grid.GridControl.set_AlwaysHighlightSelection.
+02/12/2014 08:33:41.390 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.390 [41116]: 1> while resolving 0xa00147c - Microsoft.SqlServer.Management.UI.Grid.GridControl.set_GridLineType.
+02/12/2014 08:33:41.406 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.406 [41116]: 1> while resolving 0xa00147d - Microsoft.SqlServer.Management.UI.Grid.GridControl.set_WithHeader.
+02/12/2014 08:33:41.406 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.421 [41116]: 1> while resolving 0xa001482 - Microsoft.SqlServer.Management.UI.Grid.HeaderButtonClickedEventHandler..ctor.
+02/12/2014 08:33:41.421 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.421 [41116]: 1> while resolving 0xa001483 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_HeaderButtonClicked.
+02/12/2014 08:33:41.421 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.421 [41116]: 1> while resolving 0xa001484 - Microsoft.SqlServer.Management.UI.Grid.GridSpecialEventHandler..ctor.
+02/12/2014 08:33:41.421 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.437 [41116]: 1> while resolving 0xa001485 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_GridSpecialEvent.
+02/12/2014 08:33:41.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.437 [41116]: 1> while resolving 0xa001486 - Microsoft.SqlServer.Management.UI.Grid.KeyPressedOnCellEventHandler..ctor.
+02/12/2014 08:33:41.468 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.468 [41116]: 1> while resolving 0xa001487 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_KeyPressedOnCell.
+02/12/2014 08:33:41.484 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.484 [41116]: 1> while resolving 0xa00148b - Microsoft.SqlServer.Management.UI.Grid.HeaderButtonClickedEventArgs.get_Button.
+02/12/2014 08:33:41.484 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.500 [41116]: 1> while resolving 0xa00148d - Microsoft.SqlServer.Management.UI.Grid.HeaderButtonClickedEventArgs.get_ColumnIndex.
+02/12/2014 08:33:41.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.500 [41116]: 1> while resolving 0xa00148e - Microsoft.SqlServer.Management.UI.Grid.IGridControl.GetUIColumnIndexByStorageIndex.
+02/12/2014 08:33:41.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.500 [41116]: 1> while resolving 0xa00148f - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.get_IsEmpty.
+02/12/2014 08:33:41.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.515 [41116]: 1> while resolving 0xa001490 - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.get_OriginalX.
+02/12/2014 08:33:41.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.515 [41116]: 1> while resolving 0xa001491 - Microsoft.SqlServer.Management.UI.Grid.GridSpecialEventArgs.get_EventType.
+02/12/2014 08:33:41.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.531 [41116]: 1> while resolving 0xa001492 - Microsoft.SqlServer.Management.UI.Grid.MouseButtonDoubleClickedEventArgs.get_RowIndex.
+02/12/2014 08:33:41.531 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.546 [41116]: 1> while resolving 0xa001493 - Microsoft.SqlServer.Management.UI.Grid.MouseButtonDoubleClickedEventArgs.get_ColumnIndex.
+02/12/2014 08:33:41.546 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.421 [41116]: 1> while resolving 0xa001032 - Microsoft.SqlServer.Management.Smo.DataType.get_MaximumLength.
+02/12/2014 08:33:40.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.437 [41116]: 1> while resolving 0xa00103d - Microsoft.SqlServer.Management.Smo.DataType.get_Name.
+02/12/2014 08:33:40.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.437 [41116]: 1> while resolving 0xa00103e - Microsoft.SqlServer.Management.Smo.DataType.get_SqlDataType.
+02/12/2014 08:33:40.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.437 [41116]: 1> while resolving 0xa001043 - Microsoft.VisualStudio.TeamSystem.Data.DataGenerator.DatabaseHandler.SqlTypeConversion.GetSqlDataType.
+02/12/2014 08:33:40.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.453 [41116]: 1> while resolving 0xa001053 - Microsoft.SqlServer.Management.UI.Grid.GridControl.DeleteColumn.
+02/12/2014 08:33:40.453 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.453 [41116]: 1> while resolving 0xa001058 - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.BackgroundColor.
+02/12/2014 08:33:40.484 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.484 [41116]: 1> while resolving 0xa00105a - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_HeaderFont.
+02/12/2014 08:33:40.484 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.500 [41116]: 1> while resolving 0xa00105c - Microsoft.SqlServer.Management.UI.Grid.GridColumn.CELL_CONTENT_OFFSET.
+02/12/2014 08:33:40.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.500 [41116]: 1> while resolving 0xa00105f - Microsoft.VisualStudio.TeamSystem.Data.DataGenerator.TableConfig.get_Table.
+02/12/2014 08:33:40.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.500 [41116]: 1> while resolving 0xa001063 - Microsoft.SqlServer.Management.UI.Grid.GridControl.set_BorderStyle.
+02/12/2014 08:33:40.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.500 [41116]: 1> while resolving 0xa001065 - Microsoft.VisualStudio.TeamSystem.Data.DataGenerator.DatabaseConfig.get_Database.
+02/12/2014 08:33:40.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.515 [41116]: 1> while resolving 0xa001075 - Microsoft.SqlServer.Management.UI.Grid.TooltipDataNeededEventHandler..ctor.
+02/12/2014 08:33:40.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.515 [41116]: 1> while resolving 0xa001076 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_TooltipDataNeeded.
+02/12/2014 08:33:40.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.515 [41116]: 1> while resolving 0xa001077 - Microsoft.SqlServer.Management.UI.Grid.MouseButtonClickedEventHandler..ctor.
+02/12/2014 08:33:40.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.531 [41116]: 1> while resolving 0xa001078 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_MouseButtonClicked.
+02/12/2014 08:33:40.546 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.546 [41116]: 1> while resolving 0xa001079 - Microsoft.SqlServer.Management.UI.Grid.GridControl.UpdateGrid.
+02/12/2014 08:33:40.546 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.546 [41116]: 1> while resolving 0xa00107a - Microsoft.SqlServer.Management.UI.Grid.TooltipDataNeededEventArgs.get_RowIndex.
+02/12/2014 08:33:40.562 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.562 [41116]: 1> while resolving 0xa00107b - Microsoft.SqlServer.Management.UI.Grid.TooltipDataNeededEventArgs.get_ColumnIndex.
+02/12/2014 08:33:40.562 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.562 [41116]: 1> while resolving 0xa00107c - Microsoft.SqlServer.Management.UI.Grid.TooltipDataNeededEventArgs.set_TooltipText.
+02/12/2014 08:33:40.578 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.578 [41116]: 1> while resolving 0xa00107d - Microsoft.SqlServer.Management.UI.Grid.MouseButtonClickedEventArgs.get_Button.
+02/12/2014 08:33:40.578 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.593 [41116]: 1> while resolving 0xa0010de - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.IsWithRightGridLine.
+02/12/2014 08:33:40.593 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.593 [41116]: 1> while resolving 0xa0010df - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.IsHeaderMergedWithRight.
+02/12/2014 08:33:40.593 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.593 [41116]: 1> while resolving 0xa001104 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_SelectedCells.
+02/12/2014 08:33:40.593 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.593 [41116]: 1> while resolving 0xa001105 - Microsoft.SqlServer.Management.UI.Grid.SelectionChangedEventArgs..ctor.
+02/12/2014 08:33:40.609 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.609 [41116]: 1> while resolving 0xa001108 - Microsoft.SqlServer.Management.UI.Grid.GridControl.StartCellEdit.
+02/12/2014 08:33:40.609 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.609 [41116]: 1> while resolving 0xa001109 - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.IsWithSelectionBackground.
+02/12/2014 08:33:40.609 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.640 [41116]: 1> while resolving 0xa00113d - Microsoft.WizardFramework.WizardPage.set_Cancellable.
+02/12/2014 08:33:40.640 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.640 [41116]: 1> while resolving 0xa001197 - Microsoft.WizardFramework.WizardPage.EnableStep.
+02/12/2014 08:33:40.640 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.640 [41116]: 1> while resolving 0xa00119b - Microsoft.WizardFramework.WizardForm.OnNext.
+02/12/2014 08:33:40.640 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.656 [41116]: 1> while resolving 0xa00119c - Microsoft.WizardFramework.WizardForm.Dispose.
+02/12/2014 08:33:40.671 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.671 [41116]: 1> while resolving 0xa0011b9 - Microsoft.SqlServer.Management.UI.Grid.GridControl.ResizeColumnToShowAllContents.
+02/12/2014 08:33:40.671 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.671 [41116]: 1> while resolving 0xa0011ba - Microsoft.SqlServer.Management.UI.Grid.GridControl.WndProc.
+02/12/2014 08:33:40.671 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.671 [41116]: 1> while resolving 0xa0011bb - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetDataObject.
+02/12/2014 08:33:40.687 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.687 [41116]: 1> while resolving 0xa0011bd - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.set_Width.
+02/12/2014 08:33:40.687 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.687 [41116]: 1> while resolving 0xa0011be - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.set_Height.
+02/12/2014 08:33:40.687 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.687 [41116]: 1> while resolving 0xa0011bf - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.get_Height.
+02/12/2014 08:33:40.703 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.718 [41116]: 1> while resolving 0xa0011c0 - Microsoft.SqlServer.Management.UI.Grid.SelectionManager.get_SelectedBlocks.
+02/12/2014 08:33:40.718 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.718 [41116]: 1> while resolving 0xa0011c2 - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.get_Bottom.
+02/12/2014 08:33:40.718 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.734 [41116]: 1> while resolving 0xa0011c3 - Microsoft.SqlServer.Management.UI.Grid.SelectionManager.IsCellSelected.
+02/12/2014 08:33:40.750 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.750 [41116]: 1> while resolving 0xa0011c4 - Microsoft.SqlServer.Management.UI.Grid.GridControl.OnMouseButtonClicking.
+02/12/2014 08:33:40.750 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.750 [41116]: 1> while resolving 0xa0011c6 - Microsoft.SqlServer.Management.UI.Grid.GridControl.Dispose.
+02/12/2014 08:33:40.750 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.750 [41116]: 1> while resolving 0xa0011c7 - Microsoft.SqlServer.Management.UI.Grid.GridColumnInfo.TextBmpHeaderLayout.
+02/12/2014 08:33:40.750 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.765 [41116]: 1> while resolving 0xa0011c8 - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetCellGDIObjects.
+02/12/2014 08:33:40.765 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.765 [41116]: 1> while resolving 0xa0011c9 - Microsoft.SqlServer.Management.UI.Grid.GridColumn.get_ColumnIndex.
+02/12/2014 08:33:40.765 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.765 [41116]: 1> while resolving 0xa0011cd - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetCellFont.
+02/12/2014 08:33:40.765 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.765 [41116]: 1> while resolving 0xa0012a5 - Microsoft.SqlServer.Management.UI.Grid.GridControl.ResetGrid.
+02/12/2014 08:33:40.781 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.781 [41116]: 1> while resolving 0xa001344 - Microsoft.SqlServer.Management.UI.Grid.GridBitmapColumn..ctor.
+02/12/2014 08:33:40.781 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.796 [41116]: 1> while resolving 0xa001345 - Microsoft.SqlServer.Management.UI.Grid.GridBitmapColumn..ctor.
+02/12/2014 08:33:40.796 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.796 [41116]: 1> while resolving 0xa001346 - Microsoft.SqlServer.Management.UI.Grid.GridColumn.m_myColumnIndex.
+02/12/2014 08:33:40.796 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.812 [41116]: 1> while resolving 0xa001347 - Microsoft.SqlServer.Management.UI.Grid.IGridStorage.GetCellDataAsString.
+02/12/2014 08:33:40.828 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.843 [41116]: 1> while resolving 0xa001348 - Microsoft.SqlServer.Management.UI.Grid.GridColumn.m_myAlign.
+02/12/2014 08:33:40.843 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.859 [41116]: 1> while resolving 0xa00134a - Microsoft.SqlServer.Management.UI.Grid.GridBitmapColumn.m_isRTL.
+02/12/2014 08:33:40.859 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.859 [41116]: 1> while resolving 0xa001382 - Microsoft.VisualStudio.Data.DataProviderManager.GetDataProvider.
+02/12/2014 08:33:40.859 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.875 [41116]: 1> while resolving 0xa001383 - Microsoft.VisualStudio.Data.DataProvider.GetProperty.
+02/12/2014 08:33:40.875 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.875 [41116]: 1> while resolving 0xa001384 - Microsoft.VisualStudio.Data.DataConnection.get_Source.
+02/12/2014 08:33:40.890 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.890 [41116]: 1> while resolving 0xa001385 - Microsoft.VisualStudio.Data.DataConnectionDialogFactory.CreateConnectionDialog.
+02/12/2014 08:33:40.890 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.890 [41116]: 1> while resolving 0xa001386 - Microsoft.VisualStudio.Data.DataConnectionDialog.AddSources.
+02/12/2014 08:33:40.890 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.890 [41116]: 1> while resolving 0xa001387 - Microsoft.VisualStudio.Data.DataConnectionDialog.LoadSourceSelection.
+02/12/2014 08:33:40.906 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.906 [41116]: 1> while resolving 0xa001388 - Microsoft.VisualStudio.Data.DataConnectionDialog.LoadProviderSelections.
+02/12/2014 08:33:40.906 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.906 [41116]: 1> while resolving 0xa001389 - Microsoft.VisualStudio.Data.DataConnectionDialog.get_AvailableSources.
+02/12/2014 08:33:40.906 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.906 [41116]: 1> while resolving 0xa00138a - Microsoft.VisualStudio.Data.DataConnectionDialog.set_SelectedSource.
+02/12/2014 08:33:40.921 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.921 [41116]: 1> while resolving 0xa00138b - Microsoft.VisualStudio.Data.DataConnectionDialog.ShowDialog.
+02/12/2014 08:33:40.921 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.921 [41116]: 1> while resolving 0xa00138c - Microsoft.VisualStudio.Data.DataConnectionDialog.get_SaveSelection.
+02/12/2014 08:33:40.921 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.921 [41116]: 1> while resolving 0xa00138d - Microsoft.VisualStudio.Data.DataConnectionDialog.SaveSourceSelection.
+02/12/2014 08:33:40.921 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.937 [41116]: 1> while resolving 0xa00138e - Microsoft.VisualStudio.Data.DataConnectionDialog.SaveProviderSelections.
+02/12/2014 08:33:40.937 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.937 [41116]: 1> while resolving 0xa00138f - Microsoft.VisualStudio.Data.DataConnectionDialog.get_SelectedProvider.
+02/12/2014 08:33:40.953 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.968 [41116]: 1> while resolving 0xa001390 - Microsoft.VisualStudio.Data.DataConnectionDialog.get_EncryptedConnectionString.
+02/12/2014 08:33:40.968 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.968 [41116]: 1> while resolving 0xa001391 - Microsoft.VisualStudio.Data.DataProviderManager.GetDataProviders.
+02/12/2014 08:33:40.968 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.968 [41116]: 1> while resolving 0xa001392 - Microsoft.VisualStudio.Data.DataConnectionDialog.get_AvailableProviders.
+02/12/2014 08:33:40.984 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.984 [41116]: 1> while resolving 0xa001393 - Microsoft.VisualStudio.Data.DataConnectionDialog.LoadExistingConfiguration.
+02/12/2014 08:33:40.984 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.Data, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:40.984 [41116]: 1> while resolving 0xa001394 - Microsoft.VisualStudio.Data.DataExplorerConnectionManager.SelectConnection.
+02/12/2014 08:33:40.984 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.000 [41116]: 1> while resolving 0xa0013dd - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetHeaderInfo.
+02/12/2014 08:33:41.000 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.000 [41116]: 1> while resolving 0xa0013de - Microsoft.SqlServer.Management.UI.Grid.IGridStorage.GetCellDataAsBitmap.
+02/12/2014 08:33:41.000 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.000 [41116]: 1> while resolving 0xa0013e6 - Microsoft.SqlServer.Management.UI.Grid.GridHyperlinkColumn..ctor.
+02/12/2014 08:33:41.000 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.000 [41116]: 1> while resolving 0xa0013ea - Microsoft.SqlServer.Management.UI.Grid.GridTextColumn.m_textFormat.
+02/12/2014 08:33:41.015 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.015 [41116]: 1> while resolving 0xa0013ee - Microsoft.SqlServer.Management.UI.Grid.GridTextColumn.m_myStringFormat.
+02/12/2014 08:33:41.015 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.015 [41116]: 1> while resolving 0xa001419 - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_SelectionType.
+02/12/2014 08:33:41.015 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.015 [41116]: 1> while resolving 0xa00141a - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_WithHeader.
+02/12/2014 08:33:41.031 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.031 [41116]: 1> while resolving 0xa00141b - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_AlwaysHighlightSelection.
+02/12/2014 08:33:41.046 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.046 [41116]: 1> while resolving 0xa00141c - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_FirstScrollableColumn.
+02/12/2014 08:33:41.046 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.046 [41116]: 1> while resolving 0xa00141d - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_ColumnsReorderableByDefault.
+02/12/2014 08:33:41.046 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.046 [41116]: 1> while resolving 0xa00141e - Microsoft.SqlServer.Management.UI.Grid.IGridControl.get_GridStorage.
+02/12/2014 08:33:41.078 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.078 [41116]: 1> while resolving 0xa00141f - Microsoft.SqlServer.Management.UI.Grid.IGridControl.set_SelectedCells.
+02/12/2014 08:33:41.078 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.078 [41116]: 1> while resolving 0xa001420 - Microsoft.SqlServer.Management.UI.Grid.GridControl.OnMouseDown.
+02/12/2014 08:33:41.093 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.093 [41116]: 1> while resolving 0xa001425 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_RowHeight.
+02/12/2014 08:33:41.093 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.093 [41116]: 1> while resolving 0xa001426 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_BorderStyle.
+02/12/2014 08:33:41.093 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.093 [41116]: 1> while resolving 0xa00142a - Microsoft.SqlServer.Management.UI.Grid.GridColumn.set_TextBrush.
+02/12/2014 08:33:41.093 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.109 [41116]: 1> while resolving 0xa00142b - Microsoft.SqlServer.Management.UI.Grid.GridControl.GetCellStringForResizeToShowAll.
+02/12/2014 08:33:41.156 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.156 [41116]: 1> while resolving 0xa00142c - Microsoft.SqlServer.Management.UI.Grid.GridControl.m_Columns.
+02/12/2014 08:33:41.171 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.171 [41116]: 1> while resolving 0xa00142d - Microsoft.SqlServer.Management.UI.Grid.GridColumnCollection.get_Item.
+02/12/2014 08:33:41.171 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.171 [41116]: 1> while resolving 0xa00142e - Microsoft.SqlServer.Management.UI.Grid.GridColumn.get_ColumnType.
+02/12/2014 08:33:41.171 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.187 [41116]: 1> while resolving 0xa00142f - HeaderItem.get_Text.
+02/12/2014 08:33:41.187 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.187 [41116]: 1> while resolving 0xa001430 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_ColumnsSeparator.
+02/12/2014 08:33:41.203 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.218 [41116]: 1> while resolving 0xa001431 - Microsoft.SqlServer.Management.UI.Grid.GridControl.get_NewLineCharacters.
+02/12/2014 08:33:41.218 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.218 [41116]: 1> while resolving 0xa001433 - Microsoft.SqlServer.Management.UI.Grid.GridControl.SelectedCellsInternal.
+02/12/2014 08:33:41.218 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.234 [41116]: 1> while resolving 0xa001434 - Microsoft.SqlServer.Management.UI.Grid.SelectionManager.SetCurrentCell.
+02/12/2014 08:33:41.234 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.250 [41116]: 1> while resolving 0xa001435 - Microsoft.SqlServer.Management.UI.Grid.SelectionManager.get_CurrentSelectionBlockIndex.
+02/12/2014 08:33:41.250 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.250 [41116]: 1> while resolving 0xa001439 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine..ctor.
+02/12/2014 08:33:41.250 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.250 [41116]: 1> while resolving 0xa00143c - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.add_BatchParserExecutionStart.
+02/12/2014 08:33:41.250 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.265 [41116]: 1> while resolving 0xa00143e - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.add_BatchParserExecutionFinished.
+02/12/2014 08:33:41.265 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.265 [41116]: 1> while resolving 0xa001440 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.add_BatchParserExecutionError.
+02/12/2014 08:33:41.265 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.328 [41116]: 1> while resolving 0xa001441 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.add_ScriptExecutionFinished.
+02/12/2014 08:33:41.328 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.328 [41116]: 1> while resolving 0xa001444 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.Dispose.
+02/12/2014 08:33:41.328 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.328 [41116]: 1> while resolving 0xa001455 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.ExecuteScript.
+02/12/2014 08:33:41.343 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.343 [41116]: 1> while resolving 0xa001468 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.Close.
+02/12/2014 08:33:41.343 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.343 [41116]: 1> while resolving 0xa001469 - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.CancelCurrentBatch.
+02/12/2014 08:33:41.343 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.343 [41116]: 1> while resolving 0xa00146e - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.Close.
+02/12/2014 08:33:41.343 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.SqlServer.BatchParser, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.375 [41116]: 1> while resolving 0xa00146f - Microsoft.VisualStudio.TeamSystem.Data.Common.ExecutionEngine.ExecutionEngine.Close.
+02/12/2014 08:33:41.375 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.375 [41116]: 1> while resolving 0xa00147b - Microsoft.SqlServer.Management.UI.Grid.GridControl.set_AlwaysHighlightSelection.
+02/12/2014 08:33:41.390 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.390 [41116]: 1> while resolving 0xa00147c - Microsoft.SqlServer.Management.UI.Grid.GridControl.set_GridLineType.
+02/12/2014 08:33:41.406 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.406 [41116]: 1> while resolving 0xa00147d - Microsoft.SqlServer.Management.UI.Grid.GridControl.set_WithHeader.
+02/12/2014 08:33:41.406 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.421 [41116]: 1> while resolving 0xa001482 - Microsoft.SqlServer.Management.UI.Grid.HeaderButtonClickedEventHandler..ctor.
+02/12/2014 08:33:41.421 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.421 [41116]: 1> while resolving 0xa001483 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_HeaderButtonClicked.
+02/12/2014 08:33:41.421 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.421 [41116]: 1> while resolving 0xa001484 - Microsoft.SqlServer.Management.UI.Grid.GridSpecialEventHandler..ctor.
+02/12/2014 08:33:41.421 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.437 [41116]: 1> while resolving 0xa001485 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_GridSpecialEvent.
+02/12/2014 08:33:41.437 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.437 [41116]: 1> while resolving 0xa001486 - Microsoft.SqlServer.Management.UI.Grid.KeyPressedOnCellEventHandler..ctor.
+02/12/2014 08:33:41.468 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.468 [41116]: 1> while resolving 0xa001487 - Microsoft.SqlServer.Management.UI.Grid.GridControl.add_KeyPressedOnCell.
+02/12/2014 08:33:41.484 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.484 [41116]: 1> while resolving 0xa00148b - Microsoft.SqlServer.Management.UI.Grid.HeaderButtonClickedEventArgs.get_Button.
+02/12/2014 08:33:41.484 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.500 [41116]: 1> while resolving 0xa00148d - Microsoft.SqlServer.Management.UI.Grid.HeaderButtonClickedEventArgs.get_ColumnIndex.
+02/12/2014 08:33:41.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.500 [41116]: 1> while resolving 0xa00148e - Microsoft.SqlServer.Management.UI.Grid.IGridControl.GetUIColumnIndexByStorageIndex.
+02/12/2014 08:33:41.500 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.500 [41116]: 1> while resolving 0xa00148f - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.get_IsEmpty.
+02/12/2014 08:33:41.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.515 [41116]: 1> while resolving 0xa001490 - Microsoft.SqlServer.Management.UI.Grid.BlockOfCells.get_OriginalX.
+02/12/2014 08:33:41.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.515 [41116]: 1> while resolving 0xa001491 - Microsoft.SqlServer.Management.UI.Grid.GridSpecialEventArgs.get_EventType.
+02/12/2014 08:33:41.515 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.531 [41116]: 1> while resolving 0xa001492 - Microsoft.SqlServer.Management.UI.Grid.MouseButtonDoubleClickedEventArgs.get_RowIndex.
+02/12/2014 08:33:41.531 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+02/12/2014 08:33:41.546 [41116]: 1> while resolving 0xa001493 - Microsoft.SqlServer.Management.UI.Grid.MouseButtonDoubleClickedEventArgs.get_ColumnIndex.
+02/12/2014 08:33:41.546 [41116]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.VisualStudio.vspGridControl, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91”

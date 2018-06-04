@@ -1,0 +1,2000 @@
+02/12/2014 09:20:55.140 [41116]: Deleting native image for assembly Microsoft.Internal.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:55.296 [41116]: Deleting native image for assembly Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:55.406 [41116]: Deleting native image for assembly Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:55.531 [41116]: Deleting native image for assembly Microsoft.PowerShell.Commands.Management.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:55.656 [41116]: Deleting native image for assembly Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:55.765 [41116]: Deleting native image for assembly Microsoft.PowerShell.Commands.Utility.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:55.921 [41116]: Deleting native image for assembly Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:56.031 [41116]: Deleting native image for assembly Microsoft.PowerShell.ConsoleHost.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:56.156 [41116]: Deleting native image for assembly Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:56.296 [41116]: Deleting native image for assembly Microsoft.PowerShell.Security.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:56.421 [41116]: Deleting native image for assembly Microsoft.Transactions.Bridge, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:56.546 [41116]: Deleting native image for assembly Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:56.687 [41116]: Deleting native image for assembly Microsoft.Transactions.Bridge.Dtc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.109 [41116]: Deleting native image for assembly Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.265 [41116]: Service worker shutting down. Dependency walks performed: 0. Compilations performed: 0
+02/12/2014 09:20:57.312 [41116]: Deleting native image for assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.500 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.671 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Designer.Interfaces, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.875 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Editors, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.078 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.265 [41116]: Deleting native image for assembly SdmCore, Version=1.0.50000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:58.437 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.593 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.750 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.968 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.140 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.328 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.468 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.609 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.781 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.984 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.125 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.250 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.359 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.500 [41116]: Deleting native image for assembly Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.625 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.734 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.906 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.046 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.187 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.328 [41116]: Deleting native image for assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.453 [41116]: Deleting native image for assembly Microsoft.VisualStudio.TeamSystem.Data.Tasks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.578 [41116]: Deleting native image for assembly Microsoft.VisualStudio.TeamSystem.Data.UnitTesting, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.687 [41116]: Deleting native image for assembly Microsoft.VisualStudio.TextTemplating, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.890 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.046 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.BuildTasks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.218 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.359 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.515 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.625 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.ProgrammingModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.734 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.906 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.062 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.171 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.312 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.421 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.546 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.671 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.ProgrammingModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.796 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Word.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.984 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.109 [41116]: Deleting native image for assembly Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.234 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.375 [41116]: Deleting native image for assembly Microsoft.Windows.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.546 [41116]: Deleting native image for assembly Microsoft.Windows.Design.Developer, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.687 [41116]: Deleting native image for assembly Microsoft.Windows.Design.Host, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.875 [41116]: Deleting native image for assembly Microsoft.Windows.Design.Markup, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:05.046 [41116]: Deleting native image for assembly SMDiagnostics, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:05.250 [41116]: Deleting native image for assembly System.AddIn.Contract, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:05.375 [41116]: Deleting native image for assembly System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:05.500 [41116]: Deleting native image for assembly System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:05.625 [41116]: Deleting native image for assembly System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:05.765 [41116]: Deleting native image for assembly System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:05.968 [41116]: Deleting native image for assembly System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:06.125 [41116]: Deleting native image for assembly System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:06.250 [41116]: Deleting native image for assembly System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:06.390 [41116]: Deleting native image for assembly System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:06.515 [41116]: Deleting native image for assembly System.DirectoryServices.Protocols, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:06.656 [41116]: Deleting native image for assembly System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:06.765 [41116]: Deleting native image for assembly System.IdentityModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:06.953 [41116]: Deleting native image for assembly System.IdentityModel.Selectors, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:07.140 [41116]: Deleting native image for assembly System.Management.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:07.312 [41116]: Deleting native image for assembly System.Management.Automation.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:07.484 [41116]: Deleting native image for assembly Microsoft.Vsa, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:07.625 [41116]: Deleting native image for assembly Microsoft.JScript, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:07.781 [41116]: Deleting native image for assembly System.Management, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:07.968 [41116]: Deleting native image for assembly System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:08.078 [41116]: Deleting native image for assembly Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:08.265 [41116]: Deleting native image for assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:08.453 [41116]: Deleting native image for assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:08.625 [41116]: Deleting native image for assembly System.Runtime.Serialization.Formatters.Soap, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:08.812 [41116]: Deleting native image for assembly System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:09.062 [41116]: Deleting native image for assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:09.234 [41116]: Deleting native image for assembly System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:09.390 [41116]: Deleting native image for assembly System.Configuration.Install, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:09.531 [41116]: Deleting native image for assembly System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:09.687 [41116]: Deleting native image for assembly System.Net, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:09.906 [41116]: Deleting native image for assembly System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:10.046 [41116]: Deleting native image for assembly System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:10.203 [41116]: Deleting native image for assembly System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:10.406 [41116]: Deleting native image for assembly System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:10.515 [41116]: Deleting native image for assembly System.ServiceProcess, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:10.671 [41116]: Deleting native image for assembly System.Transactions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:10.921 [41116]: Deleting native image for assembly System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:11.062 [41116]: Deleting native image for assembly System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:11.218 [41116]: Deleting native image for assembly System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:11.343 [41116]: Deleting native image for assembly System.Web.Abstractions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:11.468 [41116]: Deleting native image for assembly System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:11.625 [41116]: Deleting native image for assembly System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:11.734 [41116]: Deleting native image for assembly Microsoft.VisualBasic.Activities.Compiler, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:12.015 [41116]: Deleting native image for assembly System.Web.Mobile, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:12.140 [41116]: Service worker shutting down. Dependency walks performed: 0. Compilations performed: 0
+02/12/2014 09:21:12.171 [41116]: Deleting native image for assembly System.Web.RegularExpressions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:12.328 [41116]: Deleting native image for assembly System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:12.500 [41116]: Deleting native image for assembly System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:12.625 [41116]: Deleting native image for assembly System.Windows.Presentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:12.750 [41116]: Deleting native image for assembly System.Workflow.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:12.937 [41116]: Deleting native image for assembly System.Workflow.ComponentModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:13.062 [41116]: Deleting native image for assembly System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:13.187 [41116]: Deleting native image for assembly System.WorkflowServices, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:13.359 [41116]: Deleting native image for assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:13.484 [41116]: Deleting native image for assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:13.609 [41116]: Deleting native image for assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:13.750 [41116]: Deleting native image for assembly System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:14.015 [41116]: Total number of workers used: 210
+02/12/2014 09:21:14.031 [41116]: Completed all work. Shutting down.
+02/12/2014 09:21:14.031 [41116]: SetServiceStartType(): Setting start type as 3
+02/12/2014 09:21:14.046 [41116]: Service state is now SERVICE_STOP_PENDING
+05/14/2014 11:58:36.046 [1764]: Service state is now SERVICE_START_PENDING
+05/14/2014 11:58:36.125 [1764]: Service state is now SERVICE_RUNNING
+05/14/2014 11:58:36.125 [1764]: SetServiceStartType(): Setting start type as 2
+05/14/2014 11:58:47.640 [1764]: Processing work for priority 1
+05/14/2014 11:58:47.640 [1764]: Assemblies to compile: 47
+05/14/2014 11:58:51.718 [1764]: 1>Began compiling: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:11.625 [1764]: 1>mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:11.625 [1764]: 1>	Source MVID:	{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+	Source HASH:	3f87628dd776a0e192563562aff6a7d94d5d193e
+	NGen GUID sign:	{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\mscorlib\dae02331a443fb52216ca83292cb2f21\mscorlib.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+
+05/14/2014 11:59:11.640 [1764]: 1>Successfully compiled: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:11.687 [1764]: 1>Began compiling: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:12.531 [1764]: 1>Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 is up to date.
+05/14/2014 11:59:13.015 [1764]: 1>Successfully compiled: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:13.062 [1764]: 1>Began compiling: C:\WINDOWS\Microsoft.Net\Framework\v3.0\WPF\PresentationFontCache.exe
+05/14/2014 11:59:13.687 [1764]: 1>Assembly C:\WINDOWS\Microsoft.Net\Framework\v3.0\WPF\PresentationFontCache.exe is up to date.
+05/14/2014 11:59:13.703 [1764]: 1>Successfully compiled: C:\WINDOWS\Microsoft.Net\Framework\v3.0\WPF\PresentationFontCache.exe
+05/14/2014 11:59:17.109 [1764]: Operation completed. VA Usage: 7667712. Handle count: 125
+05/14/2014 11:59:17.156 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:17.328 [1764]: Operation completed. VA Usage: 7565312. Handle count: 125
+05/14/2014 11:59:17.406 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:22.093 [1764]: Operation completed. VA Usage: 7761920. Handle count: 125
+05/14/2014 11:59:22.156 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:27.468 [1764]: Operation completed. VA Usage: 7946240. Handle count: 125
+05/14/2014 11:59:27.562 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:28.000 [1764]: Operation completed. VA Usage: 7815168. Handle count: 127
+05/14/2014 11:59:28.062 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:28.500 [1764]: Operation completed. VA Usage: 7815168. Handle count: 127
+05/14/2014 11:59:28.578 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:28.781 [1764]: Operation completed. VA Usage: 7827456. Handle count: 126
+05/14/2014 11:59:28.843 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:29.265 [1764]: Operation completed. VA Usage: 7815168. Handle count: 127
+05/14/2014 11:59:29.375 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:29.828 [1764]: Operation completed. VA Usage: 7622656. Handle count: 126
+05/14/2014 11:59:29.906 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:30.031 [1764]: Operation completed. VA Usage: 7639040. Handle count: 126
+05/14/2014 11:59:30.109 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:30.421 [1764]: Operation completed. VA Usage: 7630848. Handle count: 126
+05/14/2014 11:59:30.468 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:31.015 [1764]: Operation completed. VA Usage: 7667712. Handle count: 126
+05/14/2014 11:59:31.125 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:32.609 [1764]: Operation completed. VA Usage: 7692288. Handle count: 126
+05/14/2014 11:59:32.640 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:37.296 [1764]: Operation completed. VA Usage: 7831552. Handle count: 126
+05/14/2014 11:59:37.343 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:37.578 [1764]: Operation completed. VA Usage: 7626752. Handle count: 126
+05/14/2014 11:59:37.625 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:37.859 [1764]: Operation completed. VA Usage: 7651328. Handle count: 126
+05/14/2014 11:59:37.906 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:37.968 [1764]: Operation completed. VA Usage: 7647232. Handle count: 126
+05/14/2014 11:59:38.000 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:38.468 [1764]: Operation completed. VA Usage: 7671808. Handle count: 126
+05/14/2014 11:59:38.515 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:38.843 [1764]: Operation completed. VA Usage: 7618560. Handle count: 126
+05/14/2014 11:59:38.921 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:40.046 [1764]: Operation completed. VA Usage: 7692288. Handle count: 126
+05/14/2014 11:59:40.125 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:40.406 [1764]: Total number of workers used: 50
+05/14/2014 11:59:40.500 [1764]: Total number of workers used: 0
+05/14/2014 12:18:55.609 [1764]: Processing work for priority 3
+05/14/2014 12:18:55.609 [1764]: Assemblies to compile: 245
+05/14/2014 12:18:55.875 [1764]: Operation completed. VA Usage: 7602176. Handle count: 126
+05/14/2014 12:18:55.921 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:18:56.421 [1764]: Operation completed. VA Usage: 7712768. Handle count: 126
+05/14/2014 12:18:56.531 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:00.296 [1764]: Failed to load dependency EnvDTE of assembly WindowsFormsIntegration.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:05.515 [1764]: Failed to load dependency Microsoft.VisualStudio.vspGridControl of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:05.625 [1764]: Failed to load dependency Microsoft.VisualStudio.Data of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:05.781 [1764]: Failed to load dependency Microsoft.WizardFramework of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:05.781 [1764]: Failed to load dependency Microsoft.WizardFrameworkVS of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:06.156 [1764]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:06.234 [1764]: Failed to load dependency Microsoft.SqlServer.ConnectionInfo of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:06.234 [1764]: Failed to load dependency Microsoft.SqlServer.BatchParser of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:08.671 [1764]: Failed to load dependency Microsoft.Web.Administration of assembly ServiceModelReg, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:11.812 [1764]: Operation completed. VA Usage: 7700480. Handle count: 126
+05/14/2014 12:19:11.890 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:11.968 [1764]: Operation completed. VA Usage: 7618560. Handle count: 126
+05/14/2014 12:19:12.031 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:12.609 [1764]: Operation completed. VA Usage: 7770112. Handle count: 127
+05/14/2014 12:19:12.687 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:13.218 [1764]: Operation completed. VA Usage: 7761920. Handle count: 126
+05/14/2014 12:19:13.296 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:13.468 [1764]: Operation completed. VA Usage: 7651328. Handle count: 126
+05/14/2014 12:19:13.515 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:13.859 [1764]: Operation completed. VA Usage: 7598080. Handle count: 126
+05/14/2014 12:19:13.921 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:14.421 [1764]: Operation completed. VA Usage: 7659520. Handle count: 126
+05/14/2014 12:19:14.500 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:14.859 [1764]: Operation completed. VA Usage: 7634944. Handle count: 126
+05/14/2014 12:19:14.921 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:15.031 [1764]: Operation completed. VA Usage: 7655424. Handle count: 126
+05/14/2014 12:19:15.078 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:15.593 [1764]: Operation completed. VA Usage: 7634944. Handle count: 126
+05/14/2014 12:19:15.640 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:16.078 [1764]: Operation completed. VA Usage: 7684096. Handle count: 126
+05/14/2014 12:19:16.125 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:17.750 [1764]: Operation completed. VA Usage: 8101888. Handle count: 126
+05/14/2014 12:19:17.812 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:17.984 [1764]: Operation completed. VA Usage: 7806976. Handle count: 126
+05/14/2014 12:19:18.031 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:18.437 [1764]: Operation completed. VA Usage: 7639040. Handle count: 126
+05/14/2014 12:19:18.484 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:18.546 [1764]: Operation completed. VA Usage: 7647232. Handle count: 126
+05/14/2014 12:19:18.609 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:20.156 [1764]: 1>Began compiling: System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 12:19:21.062 [1764]: 1>System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 12:19:21.062 [1764]: 1>	Source MVID:	{204A7C94-7643-4867-9B91-E3AC66119A2A}
+	Source HASH:	404a0bbe02663c80c891127aa779dd3214c12d9d
+	NGen GUID sign:	{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.AddIn\418ec1f490600da8b7cd63b4f09fc348\System.AddIn.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D38ECBB5-031A-424A-A97B-8035A8F8CE72}
+			Sign:35d83b7722be062e09349938db1d028bd40e9d6f
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+
+05/14/2014 12:19:21.062 [1764]: 1>Successfully compiled: System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 12:19:21.109 [1764]: 1>Began compiling: Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:21.687 [1764]: 1>Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:21.687 [1764]: 1>	Source MVID:	{F59680E5-BC1F-406B-998B-7D907DA9251C}
+	Source HASH:	d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+	NGen GUID sign:	{D6BC8841-8D18-95D0-9542-5D6F365AB525}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Office.To#\4188bcd6188dd09595425d6f365ab525\Microsoft.Office.Tools.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.Office.Tools.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F59680E5-BC1F-406B-998B-7D907DA9251C}
+			Sign:d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+
+05/14/2014 12:19:21.687 [1764]: 1>Successfully compiled: Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:25.015 [1764]: Operation completed. VA Usage: 7782400. Handle count: 126
+05/14/2014 12:19:25.093 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:25.531 [1764]: Failed to find dependencies of image Microsoft.Transactions.Bridge.Dtc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error: 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:19:25.531 [1764]: Operation completed. VA Usage: 7585792. Handle count: 124
+05/14/2014 12:19:25.609 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:26.156 [1764]: Operation completed. VA Usage: 7798784. Handle count: 125
+05/14/2014 12:19:26.203 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:26.421 [1764]: 1>Began compiling: Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:28.734 [1764]: 1>Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:28.734 [1764]: 1>	Source MVID:	{F60D5871-5300-421C-9F58-D7DD79B02CA4}
+	Source HASH:	42e4800e4b8dcade64fe1b2464dc6f20d68824cf
+	NGen GUID sign:	{2169F54E-5BA0-4E6F-A51A-514EE3CAEF4E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualBas#\4ef56921a05b6f4ea51a514ee3caef4e\Microsoft.VisualBasic.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualBasic, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F60D5871-5300-421C-9F58-D7DD79B02CA4}
+			Sign:42e4800e4b8dcade64fe1b2464dc6f20d68824cf
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D38ECBB5-031A-424A-A97B-8035A8F8CE72}
+			Sign:35d83b7722be062e09349938db1d028bd40e9d6f
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+
+05/14/2014 12:19:28.750 [1764]: 1>Successfully compiled: Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:28.984 [1764]: Failed to find dependencies of image Microsoft.VisualBasic.Activities.Compiler, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error: 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:19:28.984 [1764]: Operation completed. VA Usage: 7589888. Handle count: 124
+05/14/2014 12:19:29.046 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:29.296 [1764]: Operation completed. VA Usage: 7815168. Handle count: 126
+05/14/2014 12:19:29.359 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:29.578 [1764]: Operation completed. VA Usage: 7737344. Handle count: 126
+05/14/2014 12:19:29.656 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:29.671 [1764]: Operation completed. VA Usage: 7598080. Handle count: 126
+05/14/2014 12:19:29.750 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:30.312 [1764]: Failed to load dependency Microsoft.WizardFramework of assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:30.312 [1764]: Failed to load dependency Microsoft.WizardFrameworkVS of assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:35.125 [1764]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:37.031 [1764]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+05/14/2014 12:19:37.046 [1764]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+05/14/2014 12:19:37.546 [1764]: 1>Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:37.546 [1764]: 1>	Source MVID:	{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+	Source HASH:	f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+	NGen GUID sign:	{19C04525-E84C-4CEF-5D83-263E81D8F126}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\2545c0194ce8ef4c5d83263e81d8f126\Microsoft.VisualStudio.EnterpriseTools.Shell.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D38ECBB5-031A-424A-A97B-8035A8F8CE72}
+			Sign:35d83b7722be062e09349938db1d028bd40e9d6f
+
+05/14/2014 12:19:37.562 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:37.609 [1764]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:40.609 [1764]: 1>Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:40.609 [1764]: 1>	Source MVID:	{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+	Source HASH:	25481723e60896b93565c80d289d7e50e4bb498f
+	NGen GUID sign:	{772773B5-4FF0-BD1D-F5F4-C03C1113C531}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\b5732777f04f1dbdf5f4c03c1113c531\Microsoft.VisualStudio.EnterpriseTools.ClassDesigner.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+			Sign:25481723e60896b93565c80d289d7e50e4bb498f
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{19C04525-E84C-4CEF-5D83-263E81D8F126}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{9386E90D-DCE4-2B69-1993-828B8C41D472}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+
+05/14/2014 12:19:40.625 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:41.968 [1764]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:55.468 [1764]: 1>Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:55.484 [1764]: 1>	Source MVID:	{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+	Source HASH:	e4e7860af7bf6403e2ca737547419cf68ca834c5
+	NGen GUID sign:	{3587CF5B-4D2C-E9C5-DA01-DF18821A2C48}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\5bcf87352c4dc5e9da01df18821a2c48\Microsoft.VisualStudio.EnterpriseTools.SdmDesigners.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+			Sign:e4e7860af7bf6403e2ca737547419cf68ca834c5
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{19C04525-E84C-4CEF-5D83-263E81D8F126}
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{9386E90D-DCE4-2B69-1993-828B8C41D472}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.WizardFramework, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F95F2C16-C489-4B95-A3C6-9201CD02C0B2}
+			Sign:8b4937e29e8c6c17bc43de4b0f091528b126bc13
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		Microsoft.VisualStudio.Data.Interop, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{46BA0BCB-F085-4EC6-8F24-B018A13EEABB}
+			Sign:6c4e701bcf47114fea7adb1eba2591a31e3eca0e
+		VsWebSite.Interop, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E5A3BF97-C49D-4401-8D1F-8F1E08FC4643}
+			Sign:973602631fec91d8142dc74562fc186d3afdb13e
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		SdmCompile, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C3C4B598-B13C-4A26-AAA4-DD326F042936}
+			Sign:1bbed903c9142731c5641d36e5c52b1d41fade7b
+		SdmCore, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+			Sign:5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+			Hardbound Guid:{33EB035B-2384-E153-EED1-BB4912CFA42F}
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+			Hardbound Guid:{8155A4D7-B594-4BCC-6968-C03FE598AB4B}
+		Microsoft.VisualStudio.Data, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{96BB0E3A-4E89-4DDC-95B0-26AAAED76265}
+			Sign:618f3e242d32a976a81dee2e2e14dbe82d4c1497
+		Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{19EAA005-72CE-437B-9E8D-EE5441E6B8B7}
+			Sign:10d7790d5ed48234273377cb2c8744e136335d77
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.Sdm.Iis, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{FA01E7C3-55FA-45B7-9976-5A16BC5BFFD0}
+			Sign:86c1b4ccefb8dff48d44b4b2ed8011cd673392c9
+		Microsoft.Sdm.System, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B53AFE68-264F-4802-8F79-2C12410C4831}
+			Sign:094e8dc2c1b4581689d8fc536bb7496ebbbe2c8b
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+		System.Web.Mobile, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F18852F6-7AAA-46E2-AED7-F29F20603FBD}
+			Sign:7269a55fd77119e4ba61dc1afde50147e211f9e5
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+
+05/14/2014 12:19:55.500 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:00.953 [1764]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:00.953 [1764]: Failed to load dependency Microsoft.SqlServer.ConnectionInfo of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:00.968 [1764]: Failed to load dependency Microsoft.SqlServer.SqlEnum of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:00.968 [1764]: Failed to load dependency Microsoft.VisualStudio.Data of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:01.281 [1764]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.Data.Tasks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:02.156 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:02.437 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:02.453 [1764]: 1>	Source MVID:	{E6BD16B3-CCE7-40B3-8FF5-3DB633D7E1CC}
+	Source HASH:	602648b68ec6083bb0d9554e554abcd9d0528556
+	NGen GUID sign:	{68DF8EAD-980F-E77E-35AA-11BBF06C8035}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\ad8edf680f987ee735aa11bbf06c8035\Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6BD16B3-CCE7-40B3-8FF5-3DB633D7E1CC}
+			Sign:602648b68ec6083bb0d9554e554abcd9d0528556
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+
+05/14/2014 12:20:02.453 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:03.312 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:03.546 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:03.562 [1764]: 1>	Source MVID:	{EE863C77-9174-42AF-B170-4B8B098C832C}
+	Source HASH:	575cfae372a58971a0a88407a3120c30eb829f85
+	NGen GUID sign:	{501B8B71-32F4-B310-0D3C-150B8452890E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\718b1b50f43210b30d3c150b8452890e\Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EE863C77-9174-42AF-B170-4B8B098C832C}
+			Sign:575cfae372a58971a0a88407a3120c30eb829f85
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+			Sign:a19e33a17b3c5e269b68e9cfe1fb481425db707b
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+
+05/14/2014 12:20:03.562 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:03.812 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:04.312 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:04.312 [1764]: 1>	Source MVID:	{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+	Source HASH:	a19e33a17b3c5e269b68e9cfe1fb481425db707b
+	NGen GUID sign:	{107564BE-F6EC-4FF8-AF6E-2D2A2E33A35C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\be647510ecf6f84faf6e2d2a2e33a35c\Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+			Sign:a19e33a17b3c5e269b68e9cfe1fb481425db707b
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{684A9B15-0088-E34D-46D4-99841EC088A7}
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+
+05/14/2014 12:20:04.328 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:05.281 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:05.531 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:05.546 [1764]: 1>	Source MVID:	{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+	Source HASH:	db5901669afb99d7f96f404f438aa7013d7ecd03
+	NGen GUID sign:	{9A13B769-2E03-0D7B-0583-69C3C60AEEC3}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\69b7139a032e7b0d058369c3c60aeec3\Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+
+05/14/2014 12:20:05.546 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:05.796 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:06.265 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a <debug>
+05/14/2014 12:20:06.265 [1764]: 1>	Source MVID:	{D8CDD417-33BB-4767-9E00-3EF34F8DC413}
+	Source HASH:	b14128c41c123cbe37af791d69c5f85b91658854
+	NGen GUID sign:	{A1BA3E63-5422-52C9-16BA-C39AEA90EE67}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		<debug> 
+	Scenarios:		<debugger> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\633ebaa12254c95216bac39aea90ee67\Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D8CDD417-33BB-4767-9E00-3EF34F8DC413}
+			Sign:b14128c41c123cbe37af791d69c5f85b91658854
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+		Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+			Sign:a19e33a17b3c5e269b68e9cfe1fb481425db707b
+
+02/12/2014 09:20:55.140 [41116]: Deleting native image for assembly Microsoft.Internal.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:55.296 [41116]: Deleting native image for assembly Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:55.406 [41116]: Deleting native image for assembly Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:55.531 [41116]: Deleting native image for assembly Microsoft.PowerShell.Commands.Management.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:55.656 [41116]: Deleting native image for assembly Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:55.765 [41116]: Deleting native image for assembly Microsoft.PowerShell.Commands.Utility.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:55.921 [41116]: Deleting native image for assembly Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:56.031 [41116]: Deleting native image for assembly Microsoft.PowerShell.ConsoleHost.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:56.156 [41116]: Deleting native image for assembly Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:56.296 [41116]: Deleting native image for assembly Microsoft.PowerShell.Security.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:56.421 [41116]: Deleting native image for assembly Microsoft.Transactions.Bridge, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:56.546 [41116]: Deleting native image for assembly Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:56.687 [41116]: Deleting native image for assembly Microsoft.Transactions.Bridge.Dtc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.109 [41116]: Deleting native image for assembly Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.265 [41116]: Service worker shutting down. Dependency walks performed: 0. Compilations performed: 0
+02/12/2014 09:20:57.312 [41116]: Deleting native image for assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.500 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.671 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Designer.Interfaces, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:57.875 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Editors, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.078 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.265 [41116]: Deleting native image for assembly SdmCore, Version=1.0.50000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:20:58.437 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.593 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.750 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:58.968 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.140 [41116]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.328 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.468 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.609 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.781 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:20:59.984 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.125 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.250 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.359 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.500 [41116]: Deleting native image for assembly Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.625 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.734 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:00.906 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.046 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.187 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.328 [41116]: Deleting native image for assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.453 [41116]: Deleting native image for assembly Microsoft.VisualStudio.TeamSystem.Data.Tasks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.578 [41116]: Deleting native image for assembly Microsoft.VisualStudio.TeamSystem.Data.UnitTesting, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.687 [41116]: Deleting native image for assembly Microsoft.VisualStudio.TextTemplating, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:01.890 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.046 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.BuildTasks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.218 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.359 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.515 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.625 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.ProgrammingModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.734 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:02.906 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.062 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.171 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.312 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.421 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.546 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.671 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.ProgrammingModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.796 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Word.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:03.984 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.109 [41116]: Deleting native image for assembly Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.234 [41116]: Deleting native image for assembly Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.375 [41116]: Deleting native image for assembly Microsoft.Windows.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.546 [41116]: Deleting native image for assembly Microsoft.Windows.Design.Developer, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.687 [41116]: Deleting native image for assembly Microsoft.Windows.Design.Host, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:04.875 [41116]: Deleting native image for assembly Microsoft.Windows.Design.Markup, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:05.046 [41116]: Deleting native image for assembly SMDiagnostics, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:05.250 [41116]: Deleting native image for assembly System.AddIn.Contract, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:05.375 [41116]: Deleting native image for assembly System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:05.500 [41116]: Deleting native image for assembly System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:05.625 [41116]: Deleting native image for assembly System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:05.765 [41116]: Deleting native image for assembly System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:05.968 [41116]: Deleting native image for assembly System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:06.125 [41116]: Deleting native image for assembly System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:06.250 [41116]: Deleting native image for assembly System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:06.390 [41116]: Deleting native image for assembly System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:06.515 [41116]: Deleting native image for assembly System.DirectoryServices.Protocols, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:06.656 [41116]: Deleting native image for assembly System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:06.765 [41116]: Deleting native image for assembly System.IdentityModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:06.953 [41116]: Deleting native image for assembly System.IdentityModel.Selectors, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:07.140 [41116]: Deleting native image for assembly System.Management.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:07.312 [41116]: Deleting native image for assembly System.Management.Automation.resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:07.484 [41116]: Deleting native image for assembly Microsoft.Vsa, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:07.625 [41116]: Deleting native image for assembly Microsoft.JScript, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:07.781 [41116]: Deleting native image for assembly System.Management, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:07.968 [41116]: Deleting native image for assembly System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:08.078 [41116]: Deleting native image for assembly Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:08.265 [41116]: Deleting native image for assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:08.453 [41116]: Deleting native image for assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:08.625 [41116]: Deleting native image for assembly System.Runtime.Serialization.Formatters.Soap, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:08.812 [41116]: Deleting native image for assembly System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:09.062 [41116]: Deleting native image for assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:09.234 [41116]: Deleting native image for assembly System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:09.390 [41116]: Deleting native image for assembly System.Configuration.Install, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:09.531 [41116]: Deleting native image for assembly System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:09.687 [41116]: Deleting native image for assembly System.Net, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:09.906 [41116]: Deleting native image for assembly System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:10.046 [41116]: Deleting native image for assembly System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:10.203 [41116]: Deleting native image for assembly System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:10.406 [41116]: Deleting native image for assembly System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:10.515 [41116]: Deleting native image for assembly System.ServiceProcess, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:10.671 [41116]: Deleting native image for assembly System.Transactions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:10.921 [41116]: Deleting native image for assembly System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:11.062 [41116]: Deleting native image for assembly System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:11.218 [41116]: Deleting native image for assembly System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:11.343 [41116]: Deleting native image for assembly System.Web.Abstractions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:11.468 [41116]: Deleting native image for assembly System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:11.625 [41116]: Deleting native image for assembly System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:11.734 [41116]: Deleting native image for assembly Microsoft.VisualBasic.Activities.Compiler, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:12.015 [41116]: Deleting native image for assembly System.Web.Mobile, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:12.140 [41116]: Service worker shutting down. Dependency walks performed: 0. Compilations performed: 0
+02/12/2014 09:21:12.171 [41116]: Deleting native image for assembly System.Web.RegularExpressions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:12.328 [41116]: Deleting native image for assembly System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 09:21:12.500 [41116]: Deleting native image for assembly System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:12.625 [41116]: Deleting native image for assembly System.Windows.Presentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:12.750 [41116]: Deleting native image for assembly System.Workflow.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:12.937 [41116]: Deleting native image for assembly System.Workflow.ComponentModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:13.062 [41116]: Deleting native image for assembly System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:13.187 [41116]: Deleting native image for assembly System.WorkflowServices, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 09:21:13.359 [41116]: Deleting native image for assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:13.484 [41116]: Deleting native image for assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:13.609 [41116]: Deleting native image for assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:13.750 [41116]: Deleting native image for assembly System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+02/12/2014 09:21:14.015 [41116]: Total number of workers used: 210
+02/12/2014 09:21:14.031 [41116]: Completed all work. Shutting down.
+02/12/2014 09:21:14.031 [41116]: SetServiceStartType(): Setting start type as 3
+02/12/2014 09:21:14.046 [41116]: Service state is now SERVICE_STOP_PENDING
+05/14/2014 11:58:36.046 [1764]: Service state is now SERVICE_START_PENDING
+05/14/2014 11:58:36.125 [1764]: Service state is now SERVICE_RUNNING
+05/14/2014 11:58:36.125 [1764]: SetServiceStartType(): Setting start type as 2
+05/14/2014 11:58:47.640 [1764]: Processing work for priority 1
+05/14/2014 11:58:47.640 [1764]: Assemblies to compile: 47
+05/14/2014 11:58:51.718 [1764]: 1>Began compiling: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:11.625 [1764]: 1>mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:11.625 [1764]: 1>	Source MVID:	{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+	Source HASH:	3f87628dd776a0e192563562aff6a7d94d5d193e
+	NGen GUID sign:	{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\mscorlib\dae02331a443fb52216ca83292cb2f21\mscorlib.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+
+05/14/2014 11:59:11.640 [1764]: 1>Successfully compiled: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:11.687 [1764]: 1>Began compiling: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:12.531 [1764]: 1>Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 is up to date.
+05/14/2014 11:59:13.015 [1764]: 1>Successfully compiled: System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 11:59:13.062 [1764]: 1>Began compiling: C:\WINDOWS\Microsoft.Net\Framework\v3.0\WPF\PresentationFontCache.exe
+05/14/2014 11:59:13.687 [1764]: 1>Assembly C:\WINDOWS\Microsoft.Net\Framework\v3.0\WPF\PresentationFontCache.exe is up to date.
+05/14/2014 11:59:13.703 [1764]: 1>Successfully compiled: C:\WINDOWS\Microsoft.Net\Framework\v3.0\WPF\PresentationFontCache.exe
+05/14/2014 11:59:17.109 [1764]: Operation completed. VA Usage: 7667712. Handle count: 125
+05/14/2014 11:59:17.156 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:17.328 [1764]: Operation completed. VA Usage: 7565312. Handle count: 125
+05/14/2014 11:59:17.406 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:22.093 [1764]: Operation completed. VA Usage: 7761920. Handle count: 125
+05/14/2014 11:59:22.156 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:27.468 [1764]: Operation completed. VA Usage: 7946240. Handle count: 125
+05/14/2014 11:59:27.562 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:28.000 [1764]: Operation completed. VA Usage: 7815168. Handle count: 127
+05/14/2014 11:59:28.062 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:28.500 [1764]: Operation completed. VA Usage: 7815168. Handle count: 127
+05/14/2014 11:59:28.578 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:28.781 [1764]: Operation completed. VA Usage: 7827456. Handle count: 126
+05/14/2014 11:59:28.843 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:29.265 [1764]: Operation completed. VA Usage: 7815168. Handle count: 127
+05/14/2014 11:59:29.375 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:29.828 [1764]: Operation completed. VA Usage: 7622656. Handle count: 126
+05/14/2014 11:59:29.906 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:30.031 [1764]: Operation completed. VA Usage: 7639040. Handle count: 126
+05/14/2014 11:59:30.109 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:30.421 [1764]: Operation completed. VA Usage: 7630848. Handle count: 126
+05/14/2014 11:59:30.468 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:31.015 [1764]: Operation completed. VA Usage: 7667712. Handle count: 126
+05/14/2014 11:59:31.125 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:32.609 [1764]: Operation completed. VA Usage: 7692288. Handle count: 126
+05/14/2014 11:59:32.640 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:37.296 [1764]: Operation completed. VA Usage: 7831552. Handle count: 126
+05/14/2014 11:59:37.343 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:37.578 [1764]: Operation completed. VA Usage: 7626752. Handle count: 126
+05/14/2014 11:59:37.625 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:37.859 [1764]: Operation completed. VA Usage: 7651328. Handle count: 126
+05/14/2014 11:59:37.906 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:37.968 [1764]: Operation completed. VA Usage: 7647232. Handle count: 126
+05/14/2014 11:59:38.000 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:38.468 [1764]: Operation completed. VA Usage: 7671808. Handle count: 126
+05/14/2014 11:59:38.515 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:38.843 [1764]: Operation completed. VA Usage: 7618560. Handle count: 126
+05/14/2014 11:59:38.921 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:40.046 [1764]: Operation completed. VA Usage: 7692288. Handle count: 126
+05/14/2014 11:59:40.125 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 11:59:40.406 [1764]: Total number of workers used: 50
+05/14/2014 11:59:40.500 [1764]: Total number of workers used: 0
+05/14/2014 12:18:55.609 [1764]: Processing work for priority 3
+05/14/2014 12:18:55.609 [1764]: Assemblies to compile: 245
+05/14/2014 12:18:55.875 [1764]: Operation completed. VA Usage: 7602176. Handle count: 126
+05/14/2014 12:18:55.921 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:18:56.421 [1764]: Operation completed. VA Usage: 7712768. Handle count: 126
+05/14/2014 12:18:56.531 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:00.296 [1764]: Failed to load dependency EnvDTE of assembly WindowsFormsIntegration.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:05.515 [1764]: Failed to load dependency Microsoft.VisualStudio.vspGridControl of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:05.625 [1764]: Failed to load dependency Microsoft.VisualStudio.Data of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:05.781 [1764]: Failed to load dependency Microsoft.WizardFramework of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:05.781 [1764]: Failed to load dependency Microsoft.WizardFrameworkVS of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:06.156 [1764]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:06.234 [1764]: Failed to load dependency Microsoft.SqlServer.ConnectionInfo of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:06.234 [1764]: Failed to load dependency Microsoft.SqlServer.BatchParser of assembly Microsoft.VisualStudio.TeamSystem.DataPackage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:08.671 [1764]: Failed to load dependency Microsoft.Web.Administration of assembly ServiceModelReg, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:11.812 [1764]: Operation completed. VA Usage: 7700480. Handle count: 126
+05/14/2014 12:19:11.890 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:11.968 [1764]: Operation completed. VA Usage: 7618560. Handle count: 126
+05/14/2014 12:19:12.031 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:12.609 [1764]: Operation completed. VA Usage: 7770112. Handle count: 127
+05/14/2014 12:19:12.687 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:13.218 [1764]: Operation completed. VA Usage: 7761920. Handle count: 126
+05/14/2014 12:19:13.296 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:13.468 [1764]: Operation completed. VA Usage: 7651328. Handle count: 126
+05/14/2014 12:19:13.515 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:13.859 [1764]: Operation completed. VA Usage: 7598080. Handle count: 126
+05/14/2014 12:19:13.921 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:14.421 [1764]: Operation completed. VA Usage: 7659520. Handle count: 126
+05/14/2014 12:19:14.500 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:14.859 [1764]: Operation completed. VA Usage: 7634944. Handle count: 126
+05/14/2014 12:19:14.921 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:15.031 [1764]: Operation completed. VA Usage: 7655424. Handle count: 126
+05/14/2014 12:19:15.078 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:15.593 [1764]: Operation completed. VA Usage: 7634944. Handle count: 126
+05/14/2014 12:19:15.640 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:16.078 [1764]: Operation completed. VA Usage: 7684096. Handle count: 126
+05/14/2014 12:19:16.125 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:17.750 [1764]: Operation completed. VA Usage: 8101888. Handle count: 126
+05/14/2014 12:19:17.812 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:17.984 [1764]: Operation completed. VA Usage: 7806976. Handle count: 126
+05/14/2014 12:19:18.031 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:18.437 [1764]: Operation completed. VA Usage: 7639040. Handle count: 126
+05/14/2014 12:19:18.484 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:18.546 [1764]: Operation completed. VA Usage: 7647232. Handle count: 126
+05/14/2014 12:19:18.609 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:20.156 [1764]: 1>Began compiling: System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 12:19:21.062 [1764]: 1>System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 12:19:21.062 [1764]: 1>	Source MVID:	{204A7C94-7643-4867-9B91-E3AC66119A2A}
+	Source HASH:	404a0bbe02663c80c891127aa779dd3214c12d9d
+	NGen GUID sign:	{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.AddIn\418ec1f490600da8b7cd63b4f09fc348\System.AddIn.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D38ECBB5-031A-424A-A97B-8035A8F8CE72}
+			Sign:35d83b7722be062e09349938db1d028bd40e9d6f
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+
+05/14/2014 12:19:21.062 [1764]: 1>Successfully compiled: System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 12:19:21.109 [1764]: 1>Began compiling: Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:21.687 [1764]: 1>Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:21.687 [1764]: 1>	Source MVID:	{F59680E5-BC1F-406B-998B-7D907DA9251C}
+	Source HASH:	d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+	NGen GUID sign:	{D6BC8841-8D18-95D0-9542-5D6F365AB525}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Office.To#\4188bcd6188dd09595425d6f365ab525\Microsoft.Office.Tools.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.Office.Tools.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F59680E5-BC1F-406B-998B-7D907DA9251C}
+			Sign:d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+
+05/14/2014 12:19:21.687 [1764]: 1>Successfully compiled: Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:25.015 [1764]: Operation completed. VA Usage: 7782400. Handle count: 126
+05/14/2014 12:19:25.093 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:25.531 [1764]: Failed to find dependencies of image Microsoft.Transactions.Bridge.Dtc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error: 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:19:25.531 [1764]: Operation completed. VA Usage: 7585792. Handle count: 124
+05/14/2014 12:19:25.609 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:26.156 [1764]: Operation completed. VA Usage: 7798784. Handle count: 125
+05/14/2014 12:19:26.203 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:26.421 [1764]: 1>Began compiling: Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:28.734 [1764]: 1>Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:28.734 [1764]: 1>	Source MVID:	{F60D5871-5300-421C-9F58-D7DD79B02CA4}
+	Source HASH:	42e4800e4b8dcade64fe1b2464dc6f20d68824cf
+	NGen GUID sign:	{2169F54E-5BA0-4E6F-A51A-514EE3CAEF4E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualBas#\4ef56921a05b6f4ea51a514ee3caef4e\Microsoft.VisualBasic.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualBasic, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F60D5871-5300-421C-9F58-D7DD79B02CA4}
+			Sign:42e4800e4b8dcade64fe1b2464dc6f20d68824cf
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D38ECBB5-031A-424A-A97B-8035A8F8CE72}
+			Sign:35d83b7722be062e09349938db1d028bd40e9d6f
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+
+05/14/2014 12:19:28.750 [1764]: 1>Successfully compiled: Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:28.984 [1764]: Failed to find dependencies of image Microsoft.VisualBasic.Activities.Compiler, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error: 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:19:28.984 [1764]: Operation completed. VA Usage: 7589888. Handle count: 124
+05/14/2014 12:19:29.046 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:29.296 [1764]: Operation completed. VA Usage: 7815168. Handle count: 126
+05/14/2014 12:19:29.359 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:29.578 [1764]: Operation completed. VA Usage: 7737344. Handle count: 126
+05/14/2014 12:19:29.656 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:29.671 [1764]: Operation completed. VA Usage: 7598080. Handle count: 126
+05/14/2014 12:19:29.750 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:19:30.312 [1764]: Failed to load dependency Microsoft.WizardFramework of assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:30.312 [1764]: Failed to load dependency Microsoft.WizardFrameworkVS of assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:19:35.125 [1764]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:37.031 [1764]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+05/14/2014 12:19:37.046 [1764]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+05/14/2014 12:19:37.546 [1764]: 1>Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:37.546 [1764]: 1>	Source MVID:	{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+	Source HASH:	f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+	NGen GUID sign:	{19C04525-E84C-4CEF-5D83-263E81D8F126}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\2545c0194ce8ef4c5d83263e81d8f126\Microsoft.VisualStudio.EnterpriseTools.Shell.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D38ECBB5-031A-424A-A97B-8035A8F8CE72}
+			Sign:35d83b7722be062e09349938db1d028bd40e9d6f
+
+05/14/2014 12:19:37.562 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:37.609 [1764]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:40.609 [1764]: 1>Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:40.609 [1764]: 1>	Source MVID:	{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+	Source HASH:	25481723e60896b93565c80d289d7e50e4bb498f
+	NGen GUID sign:	{772773B5-4FF0-BD1D-F5F4-C03C1113C531}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\b5732777f04f1dbdf5f4c03c1113c531\Microsoft.VisualStudio.EnterpriseTools.ClassDesigner.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+			Sign:25481723e60896b93565c80d289d7e50e4bb498f
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{19C04525-E84C-4CEF-5D83-263E81D8F126}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{9386E90D-DCE4-2B69-1993-828B8C41D472}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+
+05/14/2014 12:19:40.625 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:41.968 [1764]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:55.468 [1764]: 1>Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:19:55.484 [1764]: 1>	Source MVID:	{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+	Source HASH:	e4e7860af7bf6403e2ca737547419cf68ca834c5
+	NGen GUID sign:	{3587CF5B-4D2C-E9C5-DA01-DF18821A2C48}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\5bcf87352c4dc5e9da01df18821a2c48\Microsoft.VisualStudio.EnterpriseTools.SdmDesigners.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+			Sign:e4e7860af7bf6403e2ca737547419cf68ca834c5
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{19C04525-E84C-4CEF-5D83-263E81D8F126}
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{9386E90D-DCE4-2B69-1993-828B8C41D472}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.WizardFramework, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F95F2C16-C489-4B95-A3C6-9201CD02C0B2}
+			Sign:8b4937e29e8c6c17bc43de4b0f091528b126bc13
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		Microsoft.VisualStudio.Data.Interop, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{46BA0BCB-F085-4EC6-8F24-B018A13EEABB}
+			Sign:6c4e701bcf47114fea7adb1eba2591a31e3eca0e
+		VsWebSite.Interop, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E5A3BF97-C49D-4401-8D1F-8F1E08FC4643}
+			Sign:973602631fec91d8142dc74562fc186d3afdb13e
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		SdmCompile, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C3C4B598-B13C-4A26-AAA4-DD326F042936}
+			Sign:1bbed903c9142731c5641d36e5c52b1d41fade7b
+		SdmCore, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+			Sign:5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+			Hardbound Guid:{33EB035B-2384-E153-EED1-BB4912CFA42F}
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+			Hardbound Guid:{8155A4D7-B594-4BCC-6968-C03FE598AB4B}
+		Microsoft.VisualStudio.Data, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{96BB0E3A-4E89-4DDC-95B0-26AAAED76265}
+			Sign:618f3e242d32a976a81dee2e2e14dbe82d4c1497
+		Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{19EAA005-72CE-437B-9E8D-EE5441E6B8B7}
+			Sign:10d7790d5ed48234273377cb2c8744e136335d77
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.Sdm.Iis, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{FA01E7C3-55FA-45B7-9976-5A16BC5BFFD0}
+			Sign:86c1b4ccefb8dff48d44b4b2ed8011cd673392c9
+		Microsoft.Sdm.System, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B53AFE68-264F-4802-8F79-2C12410C4831}
+			Sign:094e8dc2c1b4581689d8fc536bb7496ebbbe2c8b
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+		System.Web.Mobile, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F18852F6-7AAA-46E2-AED7-F29F20603FBD}
+			Sign:7269a55fd77119e4ba61dc1afde50147e211f9e5
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+
+05/14/2014 12:19:55.500 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:00.953 [1764]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:00.953 [1764]: Failed to load dependency Microsoft.SqlServer.ConnectionInfo of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:00.968 [1764]: Failed to load dependency Microsoft.SqlServer.SqlEnum of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:00.968 [1764]: Failed to load dependency Microsoft.VisualStudio.Data of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:01.281 [1764]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.Data.Tasks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+05/14/2014 12:20:02.156 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:02.437 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:02.453 [1764]: 1>	Source MVID:	{E6BD16B3-CCE7-40B3-8FF5-3DB633D7E1CC}
+	Source HASH:	602648b68ec6083bb0d9554e554abcd9d0528556
+	NGen GUID sign:	{68DF8EAD-980F-E77E-35AA-11BBF06C8035}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\ad8edf680f987ee735aa11bbf06c8035\Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6BD16B3-CCE7-40B3-8FF5-3DB633D7E1CC}
+			Sign:602648b68ec6083bb0d9554e554abcd9d0528556
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+
+05/14/2014 12:20:02.453 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:03.312 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:03.546 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:03.562 [1764]: 1>	Source MVID:	{EE863C77-9174-42AF-B170-4B8B098C832C}
+	Source HASH:	575cfae372a58971a0a88407a3120c30eb829f85
+	NGen GUID sign:	{501B8B71-32F4-B310-0D3C-150B8452890E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\718b1b50f43210b30d3c150b8452890e\Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EE863C77-9174-42AF-B170-4B8B098C832C}
+			Sign:575cfae372a58971a0a88407a3120c30eb829f85
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+			Sign:a19e33a17b3c5e269b68e9cfe1fb481425db707b
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+
+05/14/2014 12:20:03.562 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:03.812 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:04.312 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:04.312 [1764]: 1>	Source MVID:	{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+	Source HASH:	a19e33a17b3c5e269b68e9cfe1fb481425db707b
+	NGen GUID sign:	{107564BE-F6EC-4FF8-AF6E-2D2A2E33A35C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\be647510ecf6f84faf6e2d2a2e33a35c\Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+			Sign:a19e33a17b3c5e269b68e9cfe1fb481425db707b
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{684A9B15-0088-E34D-46D4-99841EC088A7}
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+
+05/14/2014 12:20:04.328 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:05.281 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:05.531 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:05.546 [1764]: 1>	Source MVID:	{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+	Source HASH:	db5901669afb99d7f96f404f438aa7013d7ecd03
+	NGen GUID sign:	{9A13B769-2E03-0D7B-0583-69C3C60AEEC3}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\69b7139a032e7b0d058369c3c60aeec3\Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+
+05/14/2014 12:20:05.546 [1764]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:05.796 [1764]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:06.265 [1764]: 1>Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a <debug>
+05/14/2014 12:20:06.265 [1764]: 1>	Source MVID:	{D8CDD417-33BB-4767-9E00-3EF34F8DC413}
+	Source HASH:	b14128c41c123cbe37af791d69c5f85b91658854
+	NGen GUID sign:	{A1BA3E63-5422-52C9-16BA-C39AEA90EE67}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		<debug> 
+	Scenarios:		<debugger> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\633ebaa12254c95216bac39aea90ee67\Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D8CDD417-33BB-4767-9E00-3EF34F8DC413}
+			Sign:b14128c41c123cbe37af791d69c5f85b91658854
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F4C18E41-6090-A80D-B7CD-63B4F09FC348}
+		Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+			Sign:a19e33a17b3c5e269b68e9cfe1fb481425db707b
+

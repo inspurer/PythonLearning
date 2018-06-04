@@ -1,0 +1,2000 @@
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\2f0e7a5109ccfef1ad2e36d4cfc62f9e\Microsoft.VisualStudio.EnterpriseTools.ClassDesigner.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+			Sign:25481723e60896b93565c80d289d7e50e4bb498f
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{8FCFDDAA-E15A-3295-B157-5B5833796004}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{6B7C2502-DB67-C133-94FA-3BECCF977AFB}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{20CB343B-B06A-C6CE-87C3-730B14CDFF57}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{AE8F9F43-3395-3970-4CE5-3EF866BA3E63}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{91652955-168D-6AA1-0503-6D7DBBD9B3F8}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{F4B2D46E-A6EA-D850-F072-C25734F9CAD7}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{59C0363F-A6B0-FAB2-C9C9-AD5196339649}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{462B2DDB-2D47-2930-E691-6FABB050CAE5}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{29A4F6EF-448B-A01C-8881-E5E0D7487089}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{B256BC8A-B912-3662-9DF3-6FB4F378CEB9}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{9A6637D1-41B1-3C4D-C3A5-AE22FBCBA7AE}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{469A798F-3888-2416-DE3C-FB1EDBCCB163}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+
+10/09/2013 12:13:37.875 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:13:39.250 [2036]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:13:51.593 [2036]: 1>Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:13:51.593 [2036]: 1>	Source MVID:	{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+	Source HASH:	e4e7860af7bf6403e2ca737547419cf68ca834c5
+	NGen GUID sign:	{322EB6BB-9CE3-1CE2-FD7E-E6EB15D93533}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\bbb62e32e39ce21cfd7ee6eb15d93533\Microsoft.VisualStudio.EnterpriseTools.SdmDesigners.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+			Sign:e4e7860af7bf6403e2ca737547419cf68ca834c5
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{91652955-168D-6AA1-0503-6D7DBBD9B3F8}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{29A4F6EF-448B-A01C-8881-E5E0D7487089}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{F4B2D46E-A6EA-D850-F072-C25734F9CAD7}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{AE8F9F43-3395-3970-4CE5-3EF866BA3E63}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{6B7C2502-DB67-C133-94FA-3BECCF977AFB}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{20CB343B-B06A-C6CE-87C3-730B14CDFF57}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{59C0363F-A6B0-FAB2-C9C9-AD5196339649}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{462B2DDB-2D47-2930-E691-6FABB050CAE5}
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{8FCFDDAA-E15A-3295-B157-5B5833796004}
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{B256BC8A-B912-3662-9DF3-6FB4F378CEB9}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{9A6637D1-41B1-3C4D-C3A5-AE22FBCBA7AE}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{469A798F-3888-2416-DE3C-FB1EDBCCB163}
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.WizardFramework, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F95F2C16-C489-4B95-A3C6-9201CD02C0B2}
+			Sign:8b4937e29e8c6c17bc43de4b0f091528b126bc13
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		Microsoft.VisualStudio.Data.Interop, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{46BA0BCB-F085-4EC6-8F24-B018A13EEABB}
+			Sign:6c4e701bcf47114fea7adb1eba2591a31e3eca0e
+		VsWebSite.Interop, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E5A3BF97-C49D-4401-8D1F-8F1E08FC4643}
+			Sign:973602631fec91d8142dc74562fc186d3afdb13e
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		SdmCompile, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C3C4B598-B13C-4A26-AAA4-DD326F042936}
+			Sign:1bbed903c9142731c5641d36e5c52b1d41fade7b
+		SdmCore, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+			Sign:5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+			Hardbound Guid:{3F392062-2BBC-735B-7C40-F75EE68D66D6}
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+			Hardbound Guid:{DE04F59E-F945-535C-DF75-6BE067593FCB}
+		Microsoft.VisualStudio.Data, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{96BB0E3A-4E89-4DDC-95B0-26AAAED76265}
+			Sign:618f3e242d32a976a81dee2e2e14dbe82d4c1497
+		Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{19EAA005-72CE-437B-9E8D-EE5441E6B8B7}
+			Sign:10d7790d5ed48234273377cb2c8744e136335d77
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.Sdm.Iis, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{FA01E7C3-55FA-45B7-9976-5A16BC5BFFD0}
+			Sign:86c1b4ccefb8dff48d44b4b2ed8011cd673392c9
+		Microsoft.Sdm.System, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B53AFE68-264F-4802-8F79-2C12410C4831}
+			Sign:094e8dc2c1b4581689d8fc536bb7496ebbbe2c8b
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Web.Mobile, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{63339109-381B-405D-B431-81D11D13B644}
+			Sign:22bc5ae59f3d52164aba9b58884a9d1e78735102
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+
+10/09/2013 12:13:51.625 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:13:53.921 [2036]: Total number of workers used: 103
+10/09/2013 12:13:53.937 [2036]: Service work was interrupted due to the following reason(s): USER_INTERRUPT (Mask: 0x04)
+10/09/2013 12:14:00.265 [2036]: Total number of workers used: 0
+10/09/2013 12:14:00.343 [2036]: Total number of workers used: 0
+10/09/2013 12:40:15.468 [2036]: Processing work for priority 3
+10/09/2013 12:40:15.468 [2036]: Assemblies to compile: 245
+10/09/2013 12:40:16.468 [2036]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:18.890 [2036]: 1>Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:18.890 [2036]: 1>	Source MVID:	{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+	Source HASH:	0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+	NGen GUID sign:	{1DB0F3AB-0967-8FBD-CF07-8090AE622668}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\abf3b01d6709bd8fcf078090ae622668\Microsoft.VisualStudio.Modeling.Sdk.Diagrams.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+			Sign:0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{6B7C2502-DB67-C133-94FA-3BECCF977AFB}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{20CB343B-B06A-C6CE-87C3-730B14CDFF57}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+			Sign:b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+			Hardbound Guid:{60E2BED0-7A3E-0FF0-0656-6DFDE282C0AD}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+			Sign:004b3f1499eff150d919b0158568f8f6dd724166
+			Hardbound Guid:{9207E2A9-80B8-1280-5245-71C3A19652FB}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+10/09/2013 12:40:18.906 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:18.953 [2036]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:19.921 [2036]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.Modeling.Sdk.ArtifactMapper, because it is not loaded
+10/09/2013 12:40:20.171 [2036]: 1>Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:20.171 [2036]: 1>	Source MVID:	{4D63641C-552C-448F-BC89-5A76B1863DAB}
+	Source HASH:	93ea6a2764b89e08ca8419704c6f7515cc6cae50
+	NGen GUID sign:	{E00C815B-0583-9EFD-108E-A70015EC2751}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\5b810ce08305fd9e108ea70015ec2751\Microsoft.VisualStudio.Modeling.Sdk.Shell.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4D63641C-552C-448F-BC89-5A76B1863DAB}
+			Sign:93ea6a2764b89e08ca8419704c6f7515cc6cae50
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{AE8F9F43-3395-3970-4CE5-3EF866BA3E63}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{6B7C2502-DB67-C133-94FA-3BECCF977AFB}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{20CB343B-B06A-C6CE-87C3-730B14CDFF57}
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+			Sign:b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+			Hardbound Guid:{60E2BED0-7A3E-0FF0-0656-6DFDE282C0AD}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+			Sign:0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+			Hardbound Guid:{1DB0F3AB-0967-8FBD-CF07-8090AE622668}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+			Sign:004b3f1499eff150d919b0158568f8f6dd724166
+			Hardbound Guid:{9207E2A9-80B8-1280-5245-71C3A19652FB}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		Microsoft.VisualStudio.XmlEditor, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{72FAEAFF-6351-4207-A604-14C3E95AC24F}
+			Sign:024a6db3960f7d0b81f2a5cfd9078d0fdae66e69
+
+10/09/2013 12:40:20.187 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:22.500 [2036]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:22.500 [2036]: Failed to load dependency Microsoft.SqlServer.ConnectionInfo of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:22.500 [2036]: Failed to load dependency Microsoft.SqlServer.SqlEnum of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:22.515 [2036]: Failed to load dependency Microsoft.VisualStudio.Data of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:22.828 [2036]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.Data.Tasks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:25.015 [2036]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:25.453 [2036]: 1>Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:25.453 [2036]: 1>	Source MVID:	{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+	Source HASH:	a19e33a17b3c5e269b68e9cfe1fb481425db707b
+	NGen GUID sign:	{7F98B66D-9F94-EE36-8F5D-100F163CD094}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\6db6987f949f36ee8f5d100f163cd094\Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+			Sign:a19e33a17b3c5e269b68e9cfe1fb481425db707b
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+
+10/09/2013 12:40:25.453 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:27.359 [2036]: Failed to load dependency Microsoft.Office.Interop.Excel of assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:27.468 [2036]: 1>Began compiling: Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:27.796 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.796 [2036]: 1> while resolving 0x2000004 - IListObjectProxy.Microsoft.VisualStudio.Tools.Office.Excel.Internal.
+10/09/2013 12:40:27.796 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.796 [2036]: 1> while resolving 0x2000008 - INamedRangeProxy.Microsoft.VisualStudio.Tools.Office.Excel.Internal.
+10/09/2013 12:40:27.796 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.796 [2036]: 1> while resolving 0x2000009 - IWorkbookProxy.Microsoft.VisualStudio.Tools.Office.Excel.Internal.
+10/09/2013 12:40:27.796 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.796 [2036]: 1> while resolving 0x200000a - IWorksheetProxy.Microsoft.VisualStudio.Tools.Office.Excel.Internal.
+10/09/2013 12:40:27.812 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.812 [2036]: 1> while resolving 0x1000004 - Microsoft.Office.Interop.Excel.ListObject.
+10/09/2013 12:40:27.812 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.812 [2036]: 1> while resolving 0x100000b - Microsoft.Office.Interop.Excel.Range.
+10/09/2013 12:40:27.812 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.812 [2036]: 1> while resolving 0x100000e - Microsoft.Office.Interop.Excel.Workbook.
+10/09/2013 12:40:27.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.828 [2036]: 1> while resolving 0x1000011 - Microsoft.Office.Interop.Excel.Worksheet.
+10/09/2013 12:40:27.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.828 [2036]: 1> while resolving 0x100005e - Microsoft.Office.Interop.Excel._OLEObject.
+10/09/2013 12:40:27.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.828 [2036]: 1> while resolving 0x1000060 - Microsoft.Office.Interop.Excel.XmlMap.
+10/09/2013 12:40:27.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.843 [2036]: 1> while resolving 0x1b000001 - .
+10/09/2013 12:40:27.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.843 [2036]: 1> while resolving 0x1b000002 - .
+10/09/2013 12:40:27.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.843 [2036]: 1> while resolving 0x1b000003 - .
+10/09/2013 12:40:27.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.843 [2036]: 1> while resolving 0x1b000004 - .
+10/09/2013 12:40:27.859 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy..ctor
+10/09/2013 12:40:27.859 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy..ctor
+10/09/2013 12:40:27.875 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__1
+10/09/2013 12:40:27.875 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__2
+10/09/2013 12:40:27.875 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__3
+10/09/2013 12:40:27.875 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__4
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__a
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__b
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__c
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__d
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000019
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001a
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001b
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001c
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001d
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001e
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001f
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000020
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000021
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000022
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000023
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000024
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000025
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000026
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000027
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000028
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000038
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000039
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003a
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003b
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003c
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003d
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003e
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003f
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000040
+10/09/2013 12:40:27.937 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWorksheetControlCollectionProxy.CreateWrapper
+10/09/2013 12:40:27.953 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWorksheetControlCollectionProxy.CreateXmlMappedRange
+10/09/2013 12:40:27.968 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.BeforeDoubleClick
+10/09/2013 12:40:27.968 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.BeforeRightClick
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.Change
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.SelectionChange
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.SelectionChangeSelected
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.SelectionChangeDeselected
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.HandleAllRowsDeletedCase
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.HandleRowEdit
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.GetRowIndex
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.HandleSort
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.UpdateRowCache
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.GetRowIndices
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.BeforeDoubleClick
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.BeforeRightClick
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.Change
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.SelectionChangeDeselected
+10/09/2013 12:40:28.015 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.SelectionChangeSelected
+10/09/2013 12:40:28.015 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.SelectionChange
+10/09/2013 12:40:28.187 [2036]: 1>Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:28.187 [2036]: 1>	Source MVID:	{C145F7D9-7AA1-40AF-A5CC-6FA010207E7D}
+	Source HASH:	4499ce323d21b1a0ff6b04be18b25f03dc1a3322
+	NGen GUID sign:	{0B911790-22F9-E317-E9D3-8BBFC575A365}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\9017910bf92217e3e9d38bbfc575a365\Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C145F7D9-7AA1-40AF-A5CC-6FA010207E7D}
+			Sign:4499ce323d21b1a0ff6b04be18b25f03dc1a3322
+		Microsoft.VisualStudio.Tools.Office.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{795A6D93-1440-42D3-B2E4-B4398BBA9226}
+			Sign:9d05a74cf779c6575e1345b6d00ada745e6fa4e8
+		Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6BD16B3-CCE7-40B3-8FF5-3DB633D7E1CC}
+			Sign:602648b68ec6083bb0d9554e554abcd9d0528556
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		Microsoft.Office.Tools.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F59680E5-BC1F-406B-998B-7D907DA9251C}
+			Sign:d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+		Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6EFD4579-1744-4892-B7F3-2D6B5CA70B51}
+			Sign:7324b2ffc41155ef1a95320eb2fc86988c1eea31
+		Microsoft.Office.Interop.Excel, Version=12.0.0.0, PublicKeyToken=71e9bce111e9429c:
+			** Missing dependency assembly **
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:40:28.187 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:28.531 [2036]: Failed to load dependency office of assembly Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:28.609 [2036]: 1>Began compiling: Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.828 [2036]: 1> while resolving 0x1000016 - Microsoft.Office.Core.CustomTaskPane.
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.828 [2036]: 1> while resolving 0x1000018 - Microsoft.Office.Core._CustomTaskPane.
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.828 [2036]: 1> while resolving 0x1000019 - Microsoft.Office.Core.CustomXMLParts.
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.828 [2036]: 1> while resolving 0x1000048 - Microsoft.Office.Core._CustomTaskPaneEvents_VisibleStateChangeEventHandler.
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.843 [2036]: 1> while resolving 0x1000049 - Microsoft.Office.Core._CustomTaskPaneEvents_Event.
+10/09/2013 12:40:28.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.843 [2036]: 1> while resolving 0x100004a - Microsoft.Office.Core._CustomTaskPaneEvents_DockPositionStateChangeEventHandler.
+10/09/2013 12:40:28.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.843 [2036]: 1> while resolving 0x100004b - Microsoft.Office.Core.MsoCTPDockPosition.
+10/09/2013 12:40:28.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.843 [2036]: 1> while resolving 0x100004c - Microsoft.Office.Core.MsoCTPDockPositionRestrict.
+10/09/2013 12:40:28.859 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.859 [2036]: 1> while resolving 0x1000053 - Microsoft.Office.Core._CustomXMLParts.
+10/09/2013 12:40:28.859 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.859 [2036]: 1> while resolving 0x1000055 - Microsoft.Office.Core.CustomXMLPart.
+10/09/2013 12:40:28.859 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.859 [2036]: 1> while resolving 0x1000056 - Microsoft.Office.Core._CustomXMLPart.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000062 - Microsoft.Office.Core._CustomTaskPaneEvents_VisibleStateChangeEventHandler..ctor.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000063 - Microsoft.Office.Core._CustomTaskPaneEvents_Event.add_VisibleStateChange.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000064 - Microsoft.Office.Core._CustomTaskPaneEvents_DockPositionStateChangeEventHandler..ctor.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000065 - Microsoft.Office.Core._CustomTaskPaneEvents_Event.add_DockPositionStateChange.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000067 - Microsoft.Office.Core._CustomTaskPane.get_Title.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa000068 - Microsoft.Office.Core._CustomTaskPane.get_Window.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006a - Microsoft.Office.Core._CustomTaskPane.get_DockPosition.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006b - Microsoft.Office.Core._CustomTaskPane.set_DockPosition.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006c - Microsoft.Office.Core._CustomTaskPane.get_DockPositionRestrict.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006d - Microsoft.Office.Core._CustomTaskPane.set_DockPositionRestrict.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006e - Microsoft.Office.Core._CustomTaskPane.get_Width.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.906 [2036]: 1> while resolving 0xa00006f - Microsoft.Office.Core._CustomTaskPane.set_Width.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.906 [2036]: 1> while resolving 0xa000070 - Microsoft.Office.Core._CustomTaskPane.get_Height.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.906 [2036]: 1> while resolving 0xa000071 - Microsoft.Office.Core._CustomTaskPane.set_Height.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.906 [2036]: 1> while resolving 0xa000072 - Microsoft.Office.Core._CustomTaskPane.get_Visible.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa000073 - Microsoft.Office.Core._CustomTaskPane.set_Visible.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa000074 - Microsoft.Office.Core._CustomTaskPane.Delete.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa00007d - Microsoft.Office.Core._CustomXMLParts.SelectByNamespace.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa00007e - Microsoft.Office.Core._CustomXMLParts.get_Count.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa00007f - Microsoft.Office.Core._CustomXMLParts.get_Item.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa000080 - Microsoft.Office.Core._CustomXMLPart.Delete.
+10/09/2013 12:40:28.937 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.937 [2036]: 1> while resolving 0xa000082 - Microsoft.Office.Core._CustomXMLPart.get_XML.
+10/09/2013 12:40:28.937 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.937 [2036]: 1> while resolving 0xa000089 - Microsoft.Office.Core._CustomXMLParts.SelectByID.
+10/09/2013 12:40:28.937 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter..ctor
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetCallback
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetTitle
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetWindow
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetDockPosition
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetDockPosition
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetDockPositionRestrict
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetDockPositionRestrict
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetWidth
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetWidth
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetHeight
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetHeight
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetVisible
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetVisible
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Dispose
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.OnVisibleChanged
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\2f0e7a5109ccfef1ad2e36d4cfc62f9e\Microsoft.VisualStudio.EnterpriseTools.ClassDesigner.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+			Sign:25481723e60896b93565c80d289d7e50e4bb498f
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{8FCFDDAA-E15A-3295-B157-5B5833796004}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{6B7C2502-DB67-C133-94FA-3BECCF977AFB}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{20CB343B-B06A-C6CE-87C3-730B14CDFF57}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{AE8F9F43-3395-3970-4CE5-3EF866BA3E63}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{91652955-168D-6AA1-0503-6D7DBBD9B3F8}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{F4B2D46E-A6EA-D850-F072-C25734F9CAD7}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{59C0363F-A6B0-FAB2-C9C9-AD5196339649}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{462B2DDB-2D47-2930-E691-6FABB050CAE5}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{29A4F6EF-448B-A01C-8881-E5E0D7487089}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{B256BC8A-B912-3662-9DF3-6FB4F378CEB9}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{9A6637D1-41B1-3C4D-C3A5-AE22FBCBA7AE}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{469A798F-3888-2416-DE3C-FB1EDBCCB163}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+
+10/09/2013 12:13:37.875 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:13:39.250 [2036]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:13:51.593 [2036]: 1>Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:13:51.593 [2036]: 1>	Source MVID:	{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+	Source HASH:	e4e7860af7bf6403e2ca737547419cf68ca834c5
+	NGen GUID sign:	{322EB6BB-9CE3-1CE2-FD7E-E6EB15D93533}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\bbb62e32e39ce21cfd7ee6eb15d93533\Microsoft.VisualStudio.EnterpriseTools.SdmDesigners.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+			Sign:e4e7860af7bf6403e2ca737547419cf68ca834c5
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{91652955-168D-6AA1-0503-6D7DBBD9B3F8}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{29A4F6EF-448B-A01C-8881-E5E0D7487089}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{F4B2D46E-A6EA-D850-F072-C25734F9CAD7}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{AE8F9F43-3395-3970-4CE5-3EF866BA3E63}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{6B7C2502-DB67-C133-94FA-3BECCF977AFB}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{20CB343B-B06A-C6CE-87C3-730B14CDFF57}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{59C0363F-A6B0-FAB2-C9C9-AD5196339649}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{462B2DDB-2D47-2930-E691-6FABB050CAE5}
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{8FCFDDAA-E15A-3295-B157-5B5833796004}
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{B256BC8A-B912-3662-9DF3-6FB4F378CEB9}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{9A6637D1-41B1-3C4D-C3A5-AE22FBCBA7AE}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{469A798F-3888-2416-DE3C-FB1EDBCCB163}
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.WizardFramework, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F95F2C16-C489-4B95-A3C6-9201CD02C0B2}
+			Sign:8b4937e29e8c6c17bc43de4b0f091528b126bc13
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		Microsoft.VisualStudio.Data.Interop, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{46BA0BCB-F085-4EC6-8F24-B018A13EEABB}
+			Sign:6c4e701bcf47114fea7adb1eba2591a31e3eca0e
+		VsWebSite.Interop, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E5A3BF97-C49D-4401-8D1F-8F1E08FC4643}
+			Sign:973602631fec91d8142dc74562fc186d3afdb13e
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		SdmCompile, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C3C4B598-B13C-4A26-AAA4-DD326F042936}
+			Sign:1bbed903c9142731c5641d36e5c52b1d41fade7b
+		SdmCore, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+			Sign:5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+			Hardbound Guid:{3F392062-2BBC-735B-7C40-F75EE68D66D6}
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+			Hardbound Guid:{DE04F59E-F945-535C-DF75-6BE067593FCB}
+		Microsoft.VisualStudio.Data, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{96BB0E3A-4E89-4DDC-95B0-26AAAED76265}
+			Sign:618f3e242d32a976a81dee2e2e14dbe82d4c1497
+		Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{19EAA005-72CE-437B-9E8D-EE5441E6B8B7}
+			Sign:10d7790d5ed48234273377cb2c8744e136335d77
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.Sdm.Iis, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{FA01E7C3-55FA-45B7-9976-5A16BC5BFFD0}
+			Sign:86c1b4ccefb8dff48d44b4b2ed8011cd673392c9
+		Microsoft.Sdm.System, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B53AFE68-264F-4802-8F79-2C12410C4831}
+			Sign:094e8dc2c1b4581689d8fc536bb7496ebbbe2c8b
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Web.Mobile, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{63339109-381B-405D-B431-81D11D13B644}
+			Sign:22bc5ae59f3d52164aba9b58884a9d1e78735102
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+
+10/09/2013 12:13:51.625 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:13:53.921 [2036]: Total number of workers used: 103
+10/09/2013 12:13:53.937 [2036]: Service work was interrupted due to the following reason(s): USER_INTERRUPT (Mask: 0x04)
+10/09/2013 12:14:00.265 [2036]: Total number of workers used: 0
+10/09/2013 12:14:00.343 [2036]: Total number of workers used: 0
+10/09/2013 12:40:15.468 [2036]: Processing work for priority 3
+10/09/2013 12:40:15.468 [2036]: Assemblies to compile: 245
+10/09/2013 12:40:16.468 [2036]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:18.890 [2036]: 1>Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:18.890 [2036]: 1>	Source MVID:	{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+	Source HASH:	0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+	NGen GUID sign:	{1DB0F3AB-0967-8FBD-CF07-8090AE622668}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\abf3b01d6709bd8fcf078090ae622668\Microsoft.VisualStudio.Modeling.Sdk.Diagrams.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+			Sign:0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{6B7C2502-DB67-C133-94FA-3BECCF977AFB}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{20CB343B-B06A-C6CE-87C3-730B14CDFF57}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+			Sign:b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+			Hardbound Guid:{60E2BED0-7A3E-0FF0-0656-6DFDE282C0AD}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+			Sign:004b3f1499eff150d919b0158568f8f6dd724166
+			Hardbound Guid:{9207E2A9-80B8-1280-5245-71C3A19652FB}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+10/09/2013 12:40:18.906 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:18.953 [2036]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:19.921 [2036]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.Modeling.Sdk.ArtifactMapper, because it is not loaded
+10/09/2013 12:40:20.171 [2036]: 1>Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:20.171 [2036]: 1>	Source MVID:	{4D63641C-552C-448F-BC89-5A76B1863DAB}
+	Source HASH:	93ea6a2764b89e08ca8419704c6f7515cc6cae50
+	NGen GUID sign:	{E00C815B-0583-9EFD-108E-A70015EC2751}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\5b810ce08305fd9e108ea70015ec2751\Microsoft.VisualStudio.Modeling.Sdk.Shell.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4D63641C-552C-448F-BC89-5A76B1863DAB}
+			Sign:93ea6a2764b89e08ca8419704c6f7515cc6cae50
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{AE8F9F43-3395-3970-4CE5-3EF866BA3E63}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{6B7C2502-DB67-C133-94FA-3BECCF977AFB}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{20CB343B-B06A-C6CE-87C3-730B14CDFF57}
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+			Sign:b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+			Hardbound Guid:{60E2BED0-7A3E-0FF0-0656-6DFDE282C0AD}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+			Sign:0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+			Hardbound Guid:{1DB0F3AB-0967-8FBD-CF07-8090AE622668}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+			Sign:004b3f1499eff150d919b0158568f8f6dd724166
+			Hardbound Guid:{9207E2A9-80B8-1280-5245-71C3A19652FB}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		Microsoft.VisualStudio.XmlEditor, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{72FAEAFF-6351-4207-A604-14C3E95AC24F}
+			Sign:024a6db3960f7d0b81f2a5cfd9078d0fdae66e69
+
+10/09/2013 12:40:20.187 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:22.500 [2036]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:22.500 [2036]: Failed to load dependency Microsoft.SqlServer.ConnectionInfo of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:22.500 [2036]: Failed to load dependency Microsoft.SqlServer.SqlEnum of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:22.515 [2036]: Failed to load dependency Microsoft.VisualStudio.Data of assembly Microsoft.VisualStudio.TeamSystem.Data.Generators, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:22.828 [2036]: Failed to load dependency Microsoft.SqlServer.Smo of assembly Microsoft.VisualStudio.TeamSystem.Data.Tasks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:25.015 [2036]: 1>Began compiling: Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:25.453 [2036]: 1>Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:25.453 [2036]: 1>	Source MVID:	{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+	Source HASH:	a19e33a17b3c5e269b68e9cfe1fb481425db707b
+	NGen GUID sign:	{7F98B66D-9F94-EE36-8F5D-100F163CD094}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\6db6987f949f36ee8f5d100f163cd094\Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{06DD09F6-A8DA-4EA9-98D7-9FCF7309FD81}
+			Sign:a19e33a17b3c5e269b68e9cfe1fb481425db707b
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+
+10/09/2013 12:40:25.453 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:27.359 [2036]: Failed to load dependency Microsoft.Office.Interop.Excel of assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:27.468 [2036]: 1>Began compiling: Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:27.796 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.796 [2036]: 1> while resolving 0x2000004 - IListObjectProxy.Microsoft.VisualStudio.Tools.Office.Excel.Internal.
+10/09/2013 12:40:27.796 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.796 [2036]: 1> while resolving 0x2000008 - INamedRangeProxy.Microsoft.VisualStudio.Tools.Office.Excel.Internal.
+10/09/2013 12:40:27.796 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.796 [2036]: 1> while resolving 0x2000009 - IWorkbookProxy.Microsoft.VisualStudio.Tools.Office.Excel.Internal.
+10/09/2013 12:40:27.796 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.796 [2036]: 1> while resolving 0x200000a - IWorksheetProxy.Microsoft.VisualStudio.Tools.Office.Excel.Internal.
+10/09/2013 12:40:27.812 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.812 [2036]: 1> while resolving 0x1000004 - Microsoft.Office.Interop.Excel.ListObject.
+10/09/2013 12:40:27.812 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.812 [2036]: 1> while resolving 0x100000b - Microsoft.Office.Interop.Excel.Range.
+10/09/2013 12:40:27.812 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.812 [2036]: 1> while resolving 0x100000e - Microsoft.Office.Interop.Excel.Workbook.
+10/09/2013 12:40:27.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.828 [2036]: 1> while resolving 0x1000011 - Microsoft.Office.Interop.Excel.Worksheet.
+10/09/2013 12:40:27.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.828 [2036]: 1> while resolving 0x100005e - Microsoft.Office.Interop.Excel._OLEObject.
+10/09/2013 12:40:27.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.828 [2036]: 1> while resolving 0x1000060 - Microsoft.Office.Interop.Excel.XmlMap.
+10/09/2013 12:40:27.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.843 [2036]: 1> while resolving 0x1b000001 - .
+10/09/2013 12:40:27.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.843 [2036]: 1> while resolving 0x1b000002 - .
+10/09/2013 12:40:27.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.843 [2036]: 1> while resolving 0x1b000003 - .
+10/09/2013 12:40:27.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:27.843 [2036]: 1> while resolving 0x1b000004 - .
+10/09/2013 12:40:27.859 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy..ctor
+10/09/2013 12:40:27.859 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy..ctor
+10/09/2013 12:40:27.875 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__1
+10/09/2013 12:40:27.875 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__2
+10/09/2013 12:40:27.875 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__3
+10/09/2013 12:40:27.875 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__4
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__a
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__b
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__c
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IExcelHostItemProviderProxy.<.ctor>b__d
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000019
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001a
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001b
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001c
+10/09/2013 12:40:27.890 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001d
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001e
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600001f
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000020
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000021
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000022
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000023
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000024
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000025
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000026
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000027
+10/09/2013 12:40:27.906 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000028
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000038
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000039
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003a
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003b
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003c
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003d
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003e
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003f
+10/09/2013 12:40:27.921 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000040
+10/09/2013 12:40:27.937 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWorksheetControlCollectionProxy.CreateWrapper
+10/09/2013 12:40:27.953 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWorksheetControlCollectionProxy.CreateXmlMappedRange
+10/09/2013 12:40:27.968 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.BeforeDoubleClick
+10/09/2013 12:40:27.968 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.BeforeRightClick
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.Change
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.SelectionChange
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.SelectionChangeSelected
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectListenerContractAdapter.SelectionChangeDeselected
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.HandleAllRowsDeletedCase
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.HandleRowEdit
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.GetRowIndex
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.HandleSort
+10/09/2013 12:40:27.984 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.UpdateRowCache
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListObjectSupportContractAdapter.GetRowIndices
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.BeforeDoubleClick
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.BeforeRightClick
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.Change
+10/09/2013 12:40:28.000 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.SelectionChangeDeselected
+10/09/2013 12:40:28.015 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.SelectionChangeSelected
+10/09/2013 12:40:28.015 [2036]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NamedRangeListenerContractAdapter.Microsoft.Office.Tools.Excel.Contract.INamedRangeListenerContract.SelectionChange
+10/09/2013 12:40:28.187 [2036]: 1>Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:28.187 [2036]: 1>	Source MVID:	{C145F7D9-7AA1-40AF-A5CC-6FA010207E7D}
+	Source HASH:	4499ce323d21b1a0ff6b04be18b25f03dc1a3322
+	NGen GUID sign:	{0B911790-22F9-E317-E9D3-8BBFC575A365}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\9017910bf92217e3e9d38bbfc575a365\Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C145F7D9-7AA1-40AF-A5CC-6FA010207E7D}
+			Sign:4499ce323d21b1a0ff6b04be18b25f03dc1a3322
+		Microsoft.VisualStudio.Tools.Office.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{795A6D93-1440-42D3-B2E4-B4398BBA9226}
+			Sign:9d05a74cf779c6575e1345b6d00ada745e6fa4e8
+		Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6BD16B3-CCE7-40B3-8FF5-3DB633D7E1CC}
+			Sign:602648b68ec6083bb0d9554e554abcd9d0528556
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		Microsoft.Office.Tools.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F59680E5-BC1F-406B-998B-7D907DA9251C}
+			Sign:d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+		Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6EFD4579-1744-4892-B7F3-2D6B5CA70B51}
+			Sign:7324b2ffc41155ef1a95320eb2fc86988c1eea31
+		Microsoft.Office.Interop.Excel, Version=12.0.0.0, PublicKeyToken=71e9bce111e9429c:
+			** Missing dependency assembly **
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:40:28.187 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:28.531 [2036]: Failed to load dependency office of assembly Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:28.609 [2036]: 1>Began compiling: Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.828 [2036]: 1> while resolving 0x1000016 - Microsoft.Office.Core.CustomTaskPane.
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.828 [2036]: 1> while resolving 0x1000018 - Microsoft.Office.Core._CustomTaskPane.
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.828 [2036]: 1> while resolving 0x1000019 - Microsoft.Office.Core.CustomXMLParts.
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.828 [2036]: 1> while resolving 0x1000048 - Microsoft.Office.Core._CustomTaskPaneEvents_VisibleStateChangeEventHandler.
+10/09/2013 12:40:28.828 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.843 [2036]: 1> while resolving 0x1000049 - Microsoft.Office.Core._CustomTaskPaneEvents_Event.
+10/09/2013 12:40:28.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.843 [2036]: 1> while resolving 0x100004a - Microsoft.Office.Core._CustomTaskPaneEvents_DockPositionStateChangeEventHandler.
+10/09/2013 12:40:28.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.843 [2036]: 1> while resolving 0x100004b - Microsoft.Office.Core.MsoCTPDockPosition.
+10/09/2013 12:40:28.843 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.843 [2036]: 1> while resolving 0x100004c - Microsoft.Office.Core.MsoCTPDockPositionRestrict.
+10/09/2013 12:40:28.859 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.859 [2036]: 1> while resolving 0x1000053 - Microsoft.Office.Core._CustomXMLParts.
+10/09/2013 12:40:28.859 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.859 [2036]: 1> while resolving 0x1000055 - Microsoft.Office.Core.CustomXMLPart.
+10/09/2013 12:40:28.859 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.859 [2036]: 1> while resolving 0x1000056 - Microsoft.Office.Core._CustomXMLPart.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000062 - Microsoft.Office.Core._CustomTaskPaneEvents_VisibleStateChangeEventHandler..ctor.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000063 - Microsoft.Office.Core._CustomTaskPaneEvents_Event.add_VisibleStateChange.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000064 - Microsoft.Office.Core._CustomTaskPaneEvents_DockPositionStateChangeEventHandler..ctor.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000065 - Microsoft.Office.Core._CustomTaskPaneEvents_Event.add_DockPositionStateChange.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.875 [2036]: 1> while resolving 0xa000067 - Microsoft.Office.Core._CustomTaskPane.get_Title.
+10/09/2013 12:40:28.875 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa000068 - Microsoft.Office.Core._CustomTaskPane.get_Window.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006a - Microsoft.Office.Core._CustomTaskPane.get_DockPosition.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006b - Microsoft.Office.Core._CustomTaskPane.set_DockPosition.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006c - Microsoft.Office.Core._CustomTaskPane.get_DockPositionRestrict.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006d - Microsoft.Office.Core._CustomTaskPane.set_DockPositionRestrict.
+10/09/2013 12:40:28.890 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.890 [2036]: 1> while resolving 0xa00006e - Microsoft.Office.Core._CustomTaskPane.get_Width.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.906 [2036]: 1> while resolving 0xa00006f - Microsoft.Office.Core._CustomTaskPane.set_Width.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.906 [2036]: 1> while resolving 0xa000070 - Microsoft.Office.Core._CustomTaskPane.get_Height.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.906 [2036]: 1> while resolving 0xa000071 - Microsoft.Office.Core._CustomTaskPane.set_Height.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.906 [2036]: 1> while resolving 0xa000072 - Microsoft.Office.Core._CustomTaskPane.get_Visible.
+10/09/2013 12:40:28.906 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa000073 - Microsoft.Office.Core._CustomTaskPane.set_Visible.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa000074 - Microsoft.Office.Core._CustomTaskPane.Delete.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa00007d - Microsoft.Office.Core._CustomXMLParts.SelectByNamespace.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa00007e - Microsoft.Office.Core._CustomXMLParts.get_Count.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa00007f - Microsoft.Office.Core._CustomXMLParts.get_Item.
+10/09/2013 12:40:28.921 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.921 [2036]: 1> while resolving 0xa000080 - Microsoft.Office.Core._CustomXMLPart.Delete.
+10/09/2013 12:40:28.937 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.937 [2036]: 1> while resolving 0xa000082 - Microsoft.Office.Core._CustomXMLPart.get_XML.
+10/09/2013 12:40:28.937 [2036]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+10/09/2013 12:40:28.937 [2036]: 1> while resolving 0xa000089 - Microsoft.Office.Core._CustomXMLParts.SelectByID.
+10/09/2013 12:40:28.937 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter..ctor
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetCallback
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetTitle
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetWindow
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetDockPosition
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetDockPosition
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetDockPositionRestrict
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetDockPositionRestrict
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetWidth
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetWidth
+10/09/2013 12:40:28.953 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetHeight
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetHeight
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.GetVisible
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Microsoft.VisualStudio.Tools.Office.Contract.ICustomTaskPaneContract.SetVisible
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.Dispose
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.OnVisibleChanged

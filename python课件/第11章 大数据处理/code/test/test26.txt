@@ -1,0 +1,2000 @@
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:53:38.937 [2248]: 1>Successfully compiled: Microsoft.CompactFramework.Design.WindowsCE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:40.015 [2248]: 1>Began compiling: System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:40.953 [2248]: 1>System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:40.953 [2248]: 1>	Source MVID:	{204A7C94-7643-4867-9B91-E3AC66119A2A}
+	Source HASH:	404a0bbe02663c80c891127aa779dd3214c12d9d
+	NGen GUID sign:	{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.AddIn\2af4c8f313b6ea5ceb5d837f57156cd1\System.AddIn.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{3EEDCDE8-4FA4-4C4D-A560-AB434EA22E74}
+			Sign:1f04576810ff643460254ef64fac70b9a611966f
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:40.953 [2248]: 1>Successfully compiled: System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:41.000 [2248]: 1>Began compiling: Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:41.546 [2248]: 1>Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:41.546 [2248]: 1>	Source MVID:	{F59680E5-BC1F-406B-998B-7D907DA9251C}
+	Source HASH:	d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+	NGen GUID sign:	{7EFA0EAC-F061-978D-EF20-A04D045F2A8F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Office.To#\ac0efa7e61f08d97ef20a04d045f2a8f\Microsoft.Office.Tools.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Office.Tools.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F59680E5-BC1F-406B-998B-7D907DA9251C}
+			Sign:d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+
+08/15/2013 19:53:41.546 [2248]: 1>Successfully compiled: Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:42.281 [2248]: 1>Began compiling: Microsoft.PowerShell.Commands.Management,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:42.953 [2248]: 1>Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:53:42.953 [2248]: 1>	Source MVID:	{DF364E7C-D8E0-4786-9D60-0AB20A3A2FB5}
+	Source HASH:	86dd433c323beb57e238d6523760522b448d4a1e
+	NGen GUID sign:	{BC33A111-EC92-8B30-8171-168AD0C7C004}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\11a133bc92ec308b8171168ad0c7c004\Microsoft.PowerShell.Commands.Management.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{DF364E7C-D8E0-4786-9D60-0AB20A3A2FB5}
+			Sign:86dd433c323beb57e238d6523760522b448d4a1e
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+
+08/15/2013 19:53:42.968 [2248]: 1>Successfully compiled: Microsoft.PowerShell.Commands.Management,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:43.671 [2248]: 1>Began compiling: Microsoft.PowerShell.Commands.Utility,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:44.843 [2248]: 1>Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:53:44.843 [2248]: 1>	Source MVID:	{F8E687EB-EF1E-4020-92D6-53DB5DD73043}
+	Source HASH:	e562046dd282fefb2778a701cd9c54aff8ba430b
+	NGen GUID sign:	{D30EF0FD-06FB-B6E7-EE38-B51F7E98AC9C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\fdf00ed3fb06e7b6ee38b51f7e98ac9c\Microsoft.PowerShell.Commands.Utility.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{F8E687EB-EF1E-4020-92D6-53DB5DD73043}
+			Sign:e562046dd282fefb2778a701cd9c54aff8ba430b
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+
+08/15/2013 19:53:44.843 [2248]: 1>Successfully compiled: Microsoft.PowerShell.Commands.Utility,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:45.546 [2248]: 1>Began compiling: Microsoft.PowerShell.ConsoleHost,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:46.187 [2248]: 1>Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:53:46.187 [2248]: 1>	Source MVID:	{8B37CE95-8EE2-4256-862B-1886A206A48B}
+	Source HASH:	660064a4b8a9424f2cb1a438376f71268c56dcbf
+	NGen GUID sign:	{3DF11D32-CD2F-E48C-62BB-B5FC63F6C35E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\321df13d2fcd8ce462bbb5fc63f6c35e\Microsoft.PowerShell.ConsoleHost.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{8B37CE95-8EE2-4256-862B-1886A206A48B}
+			Sign:660064a4b8a9424f2cb1a438376f71268c56dcbf
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:53:46.203 [2248]: 1>Successfully compiled: Microsoft.PowerShell.ConsoleHost,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:46.921 [2248]: 1>Began compiling: Microsoft.PowerShell.Security,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:47.312 [2248]: 1>Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:53:47.312 [2248]: 1>	Source MVID:	{1BE95168-B510-432B-BF32-761388A516CF}
+	Source HASH:	c6c294dcfd6dffbdbad44d14f221af40518a05a8
+	NGen GUID sign:	{82F4E4A2-5DB0-E9C9-EEE1-7CF9F67ECA6F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\a2e4f482b05dc9e9eee17cf9f67eca6f\Microsoft.PowerShell.Security.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.PowerShell.Security, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1BE95168-B510-432B-BF32-761388A516CF}
+			Sign:c6c294dcfd6dffbdbad44d14f221af40518a05a8
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+08/15/2013 19:53:47.312 [2248]: 1>Successfully compiled: Microsoft.PowerShell.Security,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:48.500 [2248]: Operation completed. VA Usage: 7897088. Handle count: 126
+08/15/2013 19:53:48.562 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:49.328 [2248]: Operation completed. VA Usage: 7790592. Handle count: 126
+08/15/2013 19:53:49.406 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:50.234 [2248]: Operation completed. VA Usage: 7917568. Handle count: 126
+08/15/2013 19:53:50.281 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:50.500 [2248]: 1>Began compiling: Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:52.046 [2248]: 1>Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:52.062 [2248]: 1>	Source MVID:	{F60D5871-5300-421C-9F58-D7DD79B02CA4}
+	Source HASH:	42e4800e4b8dcade64fe1b2464dc6f20d68824cf
+	NGen GUID sign:	{04716FA0-3959-A927-E9BE-4AFD4199B404}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualBas#\a06f7104593927a9e9be4afd4199b404\Microsoft.VisualBasic.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualBasic, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F60D5871-5300-421C-9F58-D7DD79B02CA4}
+			Sign:42e4800e4b8dcade64fe1b2464dc6f20d68824cf
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{3EEDCDE8-4FA4-4C4D-A560-AB434EA22E74}
+			Sign:1f04576810ff643460254ef64fac70b9a611966f
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+
+08/15/2013 19:53:52.062 [2248]: 1>Successfully compiled: Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:52.656 [2248]: Operation completed. VA Usage: 7786496. Handle count: 126
+08/15/2013 19:53:52.718 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:53.218 [2248]: Operation completed. VA Usage: 7917568. Handle count: 125
+08/15/2013 19:53:53.281 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:53.765 [2248]: Operation completed. VA Usage: 7802880. Handle count: 125
+08/15/2013 19:53:53.812 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:53.843 [2248]: Operation completed. VA Usage: 7700480. Handle count: 126
+08/15/2013 19:53:53.906 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:54.562 [2248]: Failed to load dependency Microsoft.WizardFramework of assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+08/15/2013 19:53:54.593 [2248]: Failed to load dependency Microsoft.WizardFrameworkVS of assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+08/15/2013 19:53:54.687 [2248]: 1>Began compiling: Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:55.187 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.187 [2248]: 1> while resolving 0x2000117 - SettingsWizardPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.187 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.187 [2248]: 1> while resolving 0x2000118 - ChooseSettingsPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.187 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x2000126 - ExportChooseFilePage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x2000129 - ImportResetChooseFilePageBase.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x200012a - ImportChooseFilePage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x200012b - MainPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x200012c - ResetChooseFilePage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x200012d - SaveCurrentPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.218 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.218 [2248]: 1> while resolving 0x200012f - SettingsAction.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.218 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.218 [2248]: 1> while resolving 0x2000130 - SettingsProgressPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.250 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.250 [2248]: 1> while resolving 0x2000131 - SettingsWizardForm.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.250 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.250 [2248]: 1> while resolving 0x100002e - Microsoft.WizardFramework.WizardPage.
+08/15/2013 19:53:55.250 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.265 [2248]: 1> while resolving 0x100002f - Microsoft.WizardFramework.WizardAction.
+08/15/2013 19:53:55.265 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.265 [2248]: 1> while resolving 0x1000030 - Microsoft.WizardFramework.InfiniteProgressPage.
+08/15/2013 19:53:55.265 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.265 [2248]: 1> while resolving 0x1000031 - Microsoft.WizardFrameworkVS.WizardFormVS.
+08/15/2013 19:53:55.296 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.296 [2248]: 1> while resolving 0x10000b2 - Microsoft.WizardFramework.WizardForm.
+08/15/2013 19:53:55.296 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.296 [2248]: 1> while resolving 0x10000ba - Microsoft.WizardFramework.ConfirmationPage.
+08/15/2013 19:53:55.296 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.296 [2248]: 1> while resolving 0x10000bb - Microsoft.WizardFramework.BranchPage.
+08/15/2013 19:53:55.328 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.328 [2248]: 1> while resolving 0x100020a - Microsoft.WizardFramework.WizardActionStatus.
+08/15/2013 19:53:55.328 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.328 [2248]: 1> while resolving 0x100020b - Microsoft.WizardFramework.ProgressPage.
+08/15/2013 19:53:55.328 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.328 [2248]: 1> while resolving 0x100020c - Microsoft.WizardFramework.TitleType.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000541 - Microsoft.WizardFramework.WizardPage..ctor.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000542 - Microsoft.WizardFramework.WizardPage..ctor.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000543 - Microsoft.WizardFramework.WizardPage..ctor.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000545 - Microsoft.WizardFramework.WizardPage.OnDeactivated.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000546 - Microsoft.WizardFramework.WizardPage.get_Wizard.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa000547 - Microsoft.WizardFramework.WizardForm.get_MovingNext.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa000548 - Microsoft.WizardFramework.WizardPage.set_Skippable.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa00054b - Microsoft.WizardFramework.WizardPage.set_Logo.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa00054d - Microsoft.WizardFramework.WizardForm.GetUserData.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa00054f - Microsoft.WizardFramework.WizardPage.OnActivated.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa000550 - Microsoft.WizardFramework.WizardForm.SetUserData.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000551 - Microsoft.WizardFramework.WizardPage.set_HelpKeyword.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000552 - Microsoft.WizardFramework.WizardPage.set_Headline.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000558 - Microsoft.WizardFramework.WizardPage.Dispose.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000559 - Microsoft.WizardFramework.WizardForm.OnValidationStateChanged.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa00056f - Microsoft.WizardFramework.WizardPage.get_IsDataValid.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000573 - Microsoft.WizardFramework.WizardPage.set_Id.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa000574 - Microsoft.WizardFramework.BranchPage..ctor.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa000575 - Microsoft.WizardFramework.WizardPage.AddSubPage.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa000576 - Microsoft.WizardFramework.ConfirmationPage..ctor.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa000577 - Microsoft.WizardFramework.WizardForm.set_HelpKeyword.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa00057c - Microsoft.WizardFramework.WizardForm.get_WizardFormMinSize.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa00057d - Microsoft.WizardFramework.WizardPage.OnBranchChange.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa000580 - Microsoft.WizardFramework.WizardForm.OnFinish.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058b - Microsoft.WizardFramework.WizardAction..ctor.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058c - Microsoft.WizardFramework.WizardAction.set_Status.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058d - Microsoft.WizardFramework.WizardAction.set_IsGroup.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058e - Microsoft.WizardFramework.WizardAction.set_Id.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058f - Microsoft.WizardFramework.WizardAction.set_Title.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa000590 - Microsoft.WizardFramework.WizardAction.set_Description.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa000591 - Microsoft.WizardFramework.WizardAction.AddFailure.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa000595 - Microsoft.WizardFramework.WizardAction.AddWarning.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa00059a - Microsoft.WizardFramework.InfiniteProgressPage..ctor.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa00059b - Microsoft.WizardFramework.InfiniteProgressPage.OnLoad.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa00059c - Microsoft.WizardFramework.InfiniteProgressPage.DoWizardAction.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa00059d - Microsoft.WizardFramework.WizardPage.AddAction.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.468 [2248]: 1> while resolving 0xa00059e - Microsoft.WizardFramework.InfiniteProgressPage.OnActionComplete.
+08/15/2013 19:53:55.468 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.468 [2248]: 1> while resolving 0xa00059f - Microsoft.WizardFramework.WizardPage.set_Cancellable.
+08/15/2013 19:53:55.468 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.468 [2248]: 1> while resolving 0xa0005a0 - Microsoft.WizardFramework.ProgressPage.set_StatusText.
+08/15/2013 19:53:55.468 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.468 [2248]: 1> while resolving 0xa0005a1 - Microsoft.WizardFramework.InfiniteProgressPage.Dispose.
+08/15/2013 19:53:55.468 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a2 - Microsoft.WizardFrameworkVS.WizardFormVS..ctor.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a4 - Microsoft.WizardFramework.WizardForm.set_WizardTitleType.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a5 - Microsoft.WizardFramework.WizardForm.set_ShowOrientationPanel.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a6 - Microsoft.WizardFramework.WizardForm.AddPage.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a7 - Microsoft.WizardFramework.WizardForm.Dispose.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a8 - Microsoft.WizardFrameworkVS.WizardFormVS.Launch.
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60008ff
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000900
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000901
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000902
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000903
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000904
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000905
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000906
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000907
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000908
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000909
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090a
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090b
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090c
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090d
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090e
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090f
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000910
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000911
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000912
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000913
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000914
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000915
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000916
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000917
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000918
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000919
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091a
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091b
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091c
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091d
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091e
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091f
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000920
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000921
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000942
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000943
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000944
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000945
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000946
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000947
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000948
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000949
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094a
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094b
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094c
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094d
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094e
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094f
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000950
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000975
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000976
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000977
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000978
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000979
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097a
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097b
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097c
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097d
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097e
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097f
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000980
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000981
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000982
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000983
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000984
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000985
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000986
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000987
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000988
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000989
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098a
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098b
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098c
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098d
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098e
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098f
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000990
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000991
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000992
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000993
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000994
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000995
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000996
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000997
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000998
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000999
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099a
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099b
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099c
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099d
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099e
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099f
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a0
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a1
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a2
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a3
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a4
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a5
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a6
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a7
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a8
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a9
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009aa
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ab
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ac
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ad
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ae
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009af
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b0
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b1
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b2
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b3
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b4
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b5
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b6
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b7
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b8
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b9
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ba
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009bb
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009bc
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009bd
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009be
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009bf
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c0
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c1
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c2
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c3
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c4
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c5
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c6
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c7
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c8
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c9
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ca
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009cb
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009cc
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009cd
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f1
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f2
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f3
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f4
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f5
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f6
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f7
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f8
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f9
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:53:38.937 [2248]: 1>Successfully compiled: Microsoft.CompactFramework.Design.WindowsCE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:40.015 [2248]: 1>Began compiling: System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:40.953 [2248]: 1>System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:40.953 [2248]: 1>	Source MVID:	{204A7C94-7643-4867-9B91-E3AC66119A2A}
+	Source HASH:	404a0bbe02663c80c891127aa779dd3214c12d9d
+	NGen GUID sign:	{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.AddIn\2af4c8f313b6ea5ceb5d837f57156cd1\System.AddIn.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{3EEDCDE8-4FA4-4C4D-A560-AB434EA22E74}
+			Sign:1f04576810ff643460254ef64fac70b9a611966f
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:40.953 [2248]: 1>Successfully compiled: System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:41.000 [2248]: 1>Began compiling: Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:41.546 [2248]: 1>Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:41.546 [2248]: 1>	Source MVID:	{F59680E5-BC1F-406B-998B-7D907DA9251C}
+	Source HASH:	d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+	NGen GUID sign:	{7EFA0EAC-F061-978D-EF20-A04D045F2A8F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Office.To#\ac0efa7e61f08d97ef20a04d045f2a8f\Microsoft.Office.Tools.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Office.Tools.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F59680E5-BC1F-406B-998B-7D907DA9251C}
+			Sign:d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+
+08/15/2013 19:53:41.546 [2248]: 1>Successfully compiled: Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:42.281 [2248]: 1>Began compiling: Microsoft.PowerShell.Commands.Management,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:42.953 [2248]: 1>Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:53:42.953 [2248]: 1>	Source MVID:	{DF364E7C-D8E0-4786-9D60-0AB20A3A2FB5}
+	Source HASH:	86dd433c323beb57e238d6523760522b448d4a1e
+	NGen GUID sign:	{BC33A111-EC92-8B30-8171-168AD0C7C004}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\11a133bc92ec308b8171168ad0c7c004\Microsoft.PowerShell.Commands.Management.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{DF364E7C-D8E0-4786-9D60-0AB20A3A2FB5}
+			Sign:86dd433c323beb57e238d6523760522b448d4a1e
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+
+08/15/2013 19:53:42.968 [2248]: 1>Successfully compiled: Microsoft.PowerShell.Commands.Management,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:43.671 [2248]: 1>Began compiling: Microsoft.PowerShell.Commands.Utility,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:44.843 [2248]: 1>Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:53:44.843 [2248]: 1>	Source MVID:	{F8E687EB-EF1E-4020-92D6-53DB5DD73043}
+	Source HASH:	e562046dd282fefb2778a701cd9c54aff8ba430b
+	NGen GUID sign:	{D30EF0FD-06FB-B6E7-EE38-B51F7E98AC9C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\fdf00ed3fb06e7b6ee38b51f7e98ac9c\Microsoft.PowerShell.Commands.Utility.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{F8E687EB-EF1E-4020-92D6-53DB5DD73043}
+			Sign:e562046dd282fefb2778a701cd9c54aff8ba430b
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+
+08/15/2013 19:53:44.843 [2248]: 1>Successfully compiled: Microsoft.PowerShell.Commands.Utility,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:45.546 [2248]: 1>Began compiling: Microsoft.PowerShell.ConsoleHost,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:46.187 [2248]: 1>Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:53:46.187 [2248]: 1>	Source MVID:	{8B37CE95-8EE2-4256-862B-1886A206A48B}
+	Source HASH:	660064a4b8a9424f2cb1a438376f71268c56dcbf
+	NGen GUID sign:	{3DF11D32-CD2F-E48C-62BB-B5FC63F6C35E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\321df13d2fcd8ce462bbb5fc63f6c35e\Microsoft.PowerShell.ConsoleHost.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{8B37CE95-8EE2-4256-862B-1886A206A48B}
+			Sign:660064a4b8a9424f2cb1a438376f71268c56dcbf
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:53:46.203 [2248]: 1>Successfully compiled: Microsoft.PowerShell.ConsoleHost,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:46.921 [2248]: 1>Began compiling: Microsoft.PowerShell.Security,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:47.312 [2248]: 1>Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:53:47.312 [2248]: 1>	Source MVID:	{1BE95168-B510-432B-BF32-761388A516CF}
+	Source HASH:	c6c294dcfd6dffbdbad44d14f221af40518a05a8
+	NGen GUID sign:	{82F4E4A2-5DB0-E9C9-EEE1-7CF9F67ECA6F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\a2e4f482b05dc9e9eee17cf9f67eca6f\Microsoft.PowerShell.Security.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.PowerShell.Security, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1BE95168-B510-432B-BF32-761388A516CF}
+			Sign:c6c294dcfd6dffbdbad44d14f221af40518a05a8
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+08/15/2013 19:53:47.312 [2248]: 1>Successfully compiled: Microsoft.PowerShell.Security,Version=1.0.0.0,Culture=neutral,PublicKeyToken=31bf3856ad364e35,ProcessorArchitecture=msil
+08/15/2013 19:53:48.500 [2248]: Operation completed. VA Usage: 7897088. Handle count: 126
+08/15/2013 19:53:48.562 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:49.328 [2248]: Operation completed. VA Usage: 7790592. Handle count: 126
+08/15/2013 19:53:49.406 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:50.234 [2248]: Operation completed. VA Usage: 7917568. Handle count: 126
+08/15/2013 19:53:50.281 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:50.500 [2248]: 1>Began compiling: Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:52.046 [2248]: 1>Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:52.062 [2248]: 1>	Source MVID:	{F60D5871-5300-421C-9F58-D7DD79B02CA4}
+	Source HASH:	42e4800e4b8dcade64fe1b2464dc6f20d68824cf
+	NGen GUID sign:	{04716FA0-3959-A927-E9BE-4AFD4199B404}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualBas#\a06f7104593927a9e9be4afd4199b404\Microsoft.VisualBasic.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualBasic, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F60D5871-5300-421C-9F58-D7DD79B02CA4}
+			Sign:42e4800e4b8dcade64fe1b2464dc6f20d68824cf
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{3EEDCDE8-4FA4-4C4D-A560-AB434EA22E74}
+			Sign:1f04576810ff643460254ef64fac70b9a611966f
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+
+08/15/2013 19:53:52.062 [2248]: 1>Successfully compiled: Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:52.656 [2248]: Operation completed. VA Usage: 7786496. Handle count: 126
+08/15/2013 19:53:52.718 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:53.218 [2248]: Operation completed. VA Usage: 7917568. Handle count: 125
+08/15/2013 19:53:53.281 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:53.765 [2248]: Operation completed. VA Usage: 7802880. Handle count: 125
+08/15/2013 19:53:53.812 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:53.843 [2248]: Operation completed. VA Usage: 7700480. Handle count: 126
+08/15/2013 19:53:53.906 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:54.562 [2248]: Failed to load dependency Microsoft.WizardFramework of assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+08/15/2013 19:53:54.593 [2248]: Failed to load dependency Microsoft.WizardFrameworkVS of assembly Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+08/15/2013 19:53:54.687 [2248]: 1>Began compiling: Microsoft.VisualStudio.CommonIDE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:55.187 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.187 [2248]: 1> while resolving 0x2000117 - SettingsWizardPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.187 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.187 [2248]: 1> while resolving 0x2000118 - ChooseSettingsPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.187 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x2000126 - ExportChooseFilePage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x2000129 - ImportResetChooseFilePageBase.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x200012a - ImportChooseFilePage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x200012b - MainPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x200012c - ResetChooseFilePage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.203 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.203 [2248]: 1> while resolving 0x200012d - SaveCurrentPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.218 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.218 [2248]: 1> while resolving 0x200012f - SettingsAction.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.218 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.218 [2248]: 1> while resolving 0x2000130 - SettingsProgressPage.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.250 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.250 [2248]: 1> while resolving 0x2000131 - SettingsWizardForm.Microsoft.VisualStudio.CommonIDE.VsSettings.
+08/15/2013 19:53:55.250 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.250 [2248]: 1> while resolving 0x100002e - Microsoft.WizardFramework.WizardPage.
+08/15/2013 19:53:55.250 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.265 [2248]: 1> while resolving 0x100002f - Microsoft.WizardFramework.WizardAction.
+08/15/2013 19:53:55.265 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.265 [2248]: 1> while resolving 0x1000030 - Microsoft.WizardFramework.InfiniteProgressPage.
+08/15/2013 19:53:55.265 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.265 [2248]: 1> while resolving 0x1000031 - Microsoft.WizardFrameworkVS.WizardFormVS.
+08/15/2013 19:53:55.296 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.296 [2248]: 1> while resolving 0x10000b2 - Microsoft.WizardFramework.WizardForm.
+08/15/2013 19:53:55.296 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.296 [2248]: 1> while resolving 0x10000ba - Microsoft.WizardFramework.ConfirmationPage.
+08/15/2013 19:53:55.296 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.296 [2248]: 1> while resolving 0x10000bb - Microsoft.WizardFramework.BranchPage.
+08/15/2013 19:53:55.328 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.328 [2248]: 1> while resolving 0x100020a - Microsoft.WizardFramework.WizardActionStatus.
+08/15/2013 19:53:55.328 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.328 [2248]: 1> while resolving 0x100020b - Microsoft.WizardFramework.ProgressPage.
+08/15/2013 19:53:55.328 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.328 [2248]: 1> while resolving 0x100020c - Microsoft.WizardFramework.TitleType.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000541 - Microsoft.WizardFramework.WizardPage..ctor.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000542 - Microsoft.WizardFramework.WizardPage..ctor.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000543 - Microsoft.WizardFramework.WizardPage..ctor.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000545 - Microsoft.WizardFramework.WizardPage.OnDeactivated.
+08/15/2013 19:53:55.375 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.375 [2248]: 1> while resolving 0xa000546 - Microsoft.WizardFramework.WizardPage.get_Wizard.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa000547 - Microsoft.WizardFramework.WizardForm.get_MovingNext.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa000548 - Microsoft.WizardFramework.WizardPage.set_Skippable.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa00054b - Microsoft.WizardFramework.WizardPage.set_Logo.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa00054d - Microsoft.WizardFramework.WizardForm.GetUserData.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa00054f - Microsoft.WizardFramework.WizardPage.OnActivated.
+08/15/2013 19:53:55.390 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.390 [2248]: 1> while resolving 0xa000550 - Microsoft.WizardFramework.WizardForm.SetUserData.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000551 - Microsoft.WizardFramework.WizardPage.set_HelpKeyword.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000552 - Microsoft.WizardFramework.WizardPage.set_Headline.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000558 - Microsoft.WizardFramework.WizardPage.Dispose.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000559 - Microsoft.WizardFramework.WizardForm.OnValidationStateChanged.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa00056f - Microsoft.WizardFramework.WizardPage.get_IsDataValid.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.406 [2248]: 1> while resolving 0xa000573 - Microsoft.WizardFramework.WizardPage.set_Id.
+08/15/2013 19:53:55.406 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa000574 - Microsoft.WizardFramework.BranchPage..ctor.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa000575 - Microsoft.WizardFramework.WizardPage.AddSubPage.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa000576 - Microsoft.WizardFramework.ConfirmationPage..ctor.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa000577 - Microsoft.WizardFramework.WizardForm.set_HelpKeyword.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa00057c - Microsoft.WizardFramework.WizardForm.get_WizardFormMinSize.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.421 [2248]: 1> while resolving 0xa00057d - Microsoft.WizardFramework.WizardPage.OnBranchChange.
+08/15/2013 19:53:55.421 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa000580 - Microsoft.WizardFramework.WizardForm.OnFinish.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058b - Microsoft.WizardFramework.WizardAction..ctor.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058c - Microsoft.WizardFramework.WizardAction.set_Status.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058d - Microsoft.WizardFramework.WizardAction.set_IsGroup.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058e - Microsoft.WizardFramework.WizardAction.set_Id.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa00058f - Microsoft.WizardFramework.WizardAction.set_Title.
+08/15/2013 19:53:55.437 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.437 [2248]: 1> while resolving 0xa000590 - Microsoft.WizardFramework.WizardAction.set_Description.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa000591 - Microsoft.WizardFramework.WizardAction.AddFailure.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa000595 - Microsoft.WizardFramework.WizardAction.AddWarning.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa00059a - Microsoft.WizardFramework.InfiniteProgressPage..ctor.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa00059b - Microsoft.WizardFramework.InfiniteProgressPage.OnLoad.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa00059c - Microsoft.WizardFramework.InfiniteProgressPage.DoWizardAction.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.453 [2248]: 1> while resolving 0xa00059d - Microsoft.WizardFramework.WizardPage.AddAction.
+08/15/2013 19:53:55.453 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.468 [2248]: 1> while resolving 0xa00059e - Microsoft.WizardFramework.InfiniteProgressPage.OnActionComplete.
+08/15/2013 19:53:55.468 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.468 [2248]: 1> while resolving 0xa00059f - Microsoft.WizardFramework.WizardPage.set_Cancellable.
+08/15/2013 19:53:55.468 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.468 [2248]: 1> while resolving 0xa0005a0 - Microsoft.WizardFramework.ProgressPage.set_StatusText.
+08/15/2013 19:53:55.468 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.468 [2248]: 1> while resolving 0xa0005a1 - Microsoft.WizardFramework.InfiniteProgressPage.Dispose.
+08/15/2013 19:53:55.468 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a2 - Microsoft.WizardFrameworkVS.WizardFormVS..ctor.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a4 - Microsoft.WizardFramework.WizardForm.set_WizardTitleType.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a5 - Microsoft.WizardFramework.WizardForm.set_ShowOrientationPanel.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a6 - Microsoft.WizardFramework.WizardForm.AddPage.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a7 - Microsoft.WizardFramework.WizardForm.Dispose.
+08/15/2013 19:53:55.484 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.WizardFrameworkVS, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:55.484 [2248]: 1> while resolving 0xa0005a8 - Microsoft.WizardFrameworkVS.WizardFormVS.Launch.
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60008ff
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000900
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000901
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000902
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000903
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000904
+08/15/2013 19:53:56.171 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000905
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000906
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000907
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000908
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000909
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090a
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090b
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090c
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090d
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090e
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600090f
+08/15/2013 19:53:56.187 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000910
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000911
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000912
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000913
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000914
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000915
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000916
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000917
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000918
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000919
+08/15/2013 19:53:56.203 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091a
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091b
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091c
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091d
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091e
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600091f
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000920
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000921
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000942
+08/15/2013 19:53:56.218 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000943
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000944
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000945
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000946
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000947
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000948
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000949
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094a
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094b
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094c
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094d
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094e
+08/15/2013 19:53:56.234 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600094f
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000950
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000975
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000976
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000977
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000978
+08/15/2013 19:53:56.250 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000979
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097a
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097b
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097c
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097d
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097e
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600097f
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000980
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000981
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000982
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000983
+08/15/2013 19:53:56.265 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000984
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000985
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000986
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000987
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000988
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000989
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098a
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098b
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098c
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098d
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098e
+08/15/2013 19:53:56.281 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600098f
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000990
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000991
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000992
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000993
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000994
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000995
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000996
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000997
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000998
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000999
+08/15/2013 19:53:56.296 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099a
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099b
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099c
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099d
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099e
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600099f
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a0
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a1
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a2
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a3
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a4
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a5
+08/15/2013 19:53:56.312 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a6
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a7
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a8
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009a9
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009aa
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ab
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ac
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ad
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ae
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009af
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b0
+08/15/2013 19:53:56.328 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b1
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b2
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b3
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b4
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b5
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b6
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b7
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b8
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009b9
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ba
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009bb
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009bc
+08/15/2013 19:53:56.343 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009bd
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009be
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009bf
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c0
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c1
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c2
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c3
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c4
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c5
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c6
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c7
+08/15/2013 19:53:56.359 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c8
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009c9
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009ca
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009cb
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009cc
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009cd
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f1
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f2
+08/15/2013 19:53:56.375 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f3
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f4
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f5
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f6
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f7
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f8
+08/15/2013 19:53:56.390 [2248]: 1>未能加载文件或程序集“Microsoft.WizardFramework, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x60009f9

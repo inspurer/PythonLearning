@@ -1,0 +1,2000 @@
+08/15/2013 19:55:18.203 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeBeforeMerge
+08/15/2013 19:55:18.203 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeBeforeRecordMerge
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeDataSourceLoad
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeWizardSendToCustom
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeWizardStateChange
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnSelectionChange
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnWindowSize
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IDocumentControlCollectionProxy.CreateWrapper
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IDocumentControlCollectionProxy.CreateInlineWrapper
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000020
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000021
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000022
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000023
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000024
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000025
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000026
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000027
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000028
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000029
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002a
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002b
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002c
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002d
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002e
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002f
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000030
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000031
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000032
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000033
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000034
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000035
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000036
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000037
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000038
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000039
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003a
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003b
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003c
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003d
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003e
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003f
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000040
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000041
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000042
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000043
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000044
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000045
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000046
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000047
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000048
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000049
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004a
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004b
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004c
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004d
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004e
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004f
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000050
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000051
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000052
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000053
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000054
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000055
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000056
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000057
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000058
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000059
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005a
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005b
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005c
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005d
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005e
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005f
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000060
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000061
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000062
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000063
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000064
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000065
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000066
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000067
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000068
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWordHostItemProviderProxy..ctor
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWordHostItemProviderProxy.<.ctor>b__1
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWordHostItemProviderProxy.<.ctor>b__2
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600006e
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600006f
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000070
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000071
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000072
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.get_Node
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.LoadXml
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.SetXml
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.SetText
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.SetText
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.ElementMatchesNode
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.CheckChildren
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.CheckNode
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.SetAttributes
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.AttributesMatch
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodesProxy.get_Nodes
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodesProxy.OnNodesInvalidated
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnDeselect
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnEnter
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnLeave
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnSelect
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.RaiseEvent
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NodesInvalidatedEventArgs.get_Nodes
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NodesInvalidatedEventArgs..ctor
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodesCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IXmlNodesCallbackContract.OnNodesInvalidated
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnDeselect
+08/15/2013 19:55:18.390 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnEnter
+08/15/2013 19:55:18.390 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnLeave
+08/15/2013 19:55:18.390 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnSelect
+08/15/2013 19:55:18.390 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.RaiseEvent
+08/15/2013 19:55:18.875 [2248]: 1>Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:18.875 [2248]: 1>	Source MVID:	{8AD4FF31-9D0E-4932-9184-A531B04735D5}
+	Source HASH:	f9c8b7f9889ca62f264ebb9ce83d65a8194daeb8
+	NGen GUID sign:	{512B1443-DC55-5CEE-234D-69EEC5666E3C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\43142b5155dcee5c234d69eec5666e3c\Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8AD4FF31-9D0E-4932-9184-A531B04735D5}
+			Sign:f9c8b7f9889ca62f264ebb9ce83d65a8194daeb8
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6EFD4579-1744-4892-B7F3-2D6B5CA70B51}
+			Sign:7324b2ffc41155ef1a95320eb2fc86988c1eea31
+		Microsoft.Office.Tools.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F59680E5-BC1F-406B-998B-7D907DA9251C}
+			Sign:d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+		Microsoft.VisualStudio.Tools.Office.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{795A6D93-1440-42D3-B2E4-B4398BBA9226}
+			Sign:9d05a74cf779c6575e1345b6d00ada745e6fa4e8
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		Microsoft.Office.Interop.Word, Version=12.0.0.0, PublicKeyToken=71e9bce111e9429c:
+			** Missing dependency assembly **
+		Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6BD16B3-CCE7-40B3-8FF5-3DB633D7E1CC}
+			Sign:602648b68ec6083bb0d9554e554abcd9d0528556
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:55:18.890 [2248]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:19.828 [2248]: 1>Began compiling: Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:20.843 [2248]: 1>Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:20.843 [2248]: 1>	Source MVID:	{84618472-CF78-4D7D-8FE3-1F9BAA760AE6}
+	Source HASH:	bd5bf7ee011d4597dbf52b807fe71e46e075f0c4
+	NGen GUID sign:	{B89BE2AC-1B56-2909-29E1-076185D73697}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\ace29bb8561b092929e1076185d73697\Microsoft.VisualStudio.Xaml.LanguageService.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{84618472-CF78-4D7D-8FE3-1F9BAA760AE6}
+			Sign:bd5bf7ee011d4597dbf52b807fe71e46e075f0c4
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Package.LanguageService.9.0, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D4EBA935-6B6F-476E-BE43-1967B5F8576F}
+			Sign:1b6db409e8fc773a670f6b4e44b75b30d846eb44
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.Windows.Design.Markup, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CEFD35D3-9575-495B-A896-3EC16218B0E3}
+			Sign:f41bb6a26ced15a170daa23b409d787d13b6d47f
+		Microsoft.Windows.Design.Host, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F50E214E-824B-4415-9B57-319FECF4043D}
+			Sign:2d0da6b9d6f90837eb166a7413582fa51ef5ada6
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+
+08/15/2013 19:55:20.859 [2248]: 1>Successfully compiled: Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:21.250 [2248]: 1>Began compiling: Microsoft.Windows.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:21.890 [2248]: 1>Microsoft.Windows.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:21.890 [2248]: 1>	Source MVID:	{946D4209-F72B-4AA8-AA28-AD0B41E53D4C}
+	Source HASH:	3c03b6be23cce4cd50c0d65766d3181991fe183e
+	NGen GUID sign:	{F65D29A9-F2E3-6895-30EA-C99199899164}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Windows.D#\a9295df6e3f2956830eac99199899164\Microsoft.Windows.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Windows.Design, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{946D4209-F72B-4AA8-AA28-AD0B41E53D4C}
+			Sign:3c03b6be23cce4cd50c0d65766d3181991fe183e
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+
+08/15/2013 19:55:21.906 [2248]: 1>Successfully compiled: Microsoft.Windows.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:22.484 [2248]: 1>Began compiling: Microsoft.Windows.Design.Developer, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:25.171 [2248]: 1>Microsoft.Windows.Design.Developer, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:25.171 [2248]: 1>	Source MVID:	{91585A5D-CA77-4FD1-A19B-13CFF97B77F2}
+	Source HASH:	fec6fd5301fbf5815961e685633819046a89f2e0
+	NGen GUID sign:	{B3BEFBC3-8984-FD4A-64CD-B799DE31123F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Windows.D#\c3fbbeb384894afd64cdb799de31123f\Microsoft.Windows.Design.Developer.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Windows.Design.Developer, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{91585A5D-CA77-4FD1-A19B-13CFF97B77F2}
+			Sign:fec6fd5301fbf5815961e685633819046a89f2e0
+		Microsoft.Windows.Design.Extensibility, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{15C34AEC-939C-44B9-8829-828F8539CF86}
+			Sign:93dd8b25d5f8c0ff76dd655729956a8e854f256f
+		Microsoft.Windows.Design.Interaction, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{51D10776-059D-4EA9-9A57-DBD252F66325}
+			Sign:c71708c4b10edf299e4f610d22e47bda03ccee38
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.Windows.Design, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{946D4209-F72B-4AA8-AA28-AD0B41E53D4C}
+			Sign:3c03b6be23cce4cd50c0d65766d3181991fe183e
+		Microsoft.Windows.Design.Markup, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CEFD35D3-9575-495B-A896-3EC16218B0E3}
+			Sign:f41bb6a26ced15a170daa23b409d787d13b6d47f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		WindowsFormsIntegration, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1822B650-D779-4193-A16A-FF83928274CB}
+			Sign:a9798cf0b32f06481cb47449c926ab36a71626a7
+
+08/15/2013 19:55:25.187 [2248]: 1>Successfully compiled: Microsoft.Windows.Design.Developer, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:25.609 [2248]: 1>Began compiling: Microsoft.Windows.Design.Markup, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:28.687 [2248]: 1>Microsoft.Windows.Design.Markup, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:28.687 [2248]: 1>	Source MVID:	{CEFD35D3-9575-495B-A896-3EC16218B0E3}
+	Source HASH:	f41bb6a26ced15a170daa23b409d787d13b6d47f
+	NGen GUID sign:	{6E17E392-B7F9-1B2B-0690-5A1F0CA7DC25}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Windows.D#\92e3176ef9b72b1b06905a1f0ca7dc25\Microsoft.Windows.Design.Markup.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Windows.Design.Markup, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CEFD35D3-9575-495B-A896-3EC16218B0E3}
+			Sign:f41bb6a26ced15a170daa23b409d787d13b6d47f
+		Microsoft.Windows.Design, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{946D4209-F72B-4AA8-AA28-AD0B41E53D4C}
+			Sign:3c03b6be23cce4cd50c0d65766d3181991fe183e
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.Windows.Design.Interaction, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{51D10776-059D-4EA9-9A57-DBD252F66325}
+			Sign:c71708c4b10edf299e4f610d22e47bda03ccee38
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		Microsoft.Windows.Design.Extensibility, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{15C34AEC-939C-44B9-8829-828F8539CF86}
+			Sign:93dd8b25d5f8c0ff76dd655729956a8e854f256f
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:55:28.703 [2248]: 1>Successfully compiled: Microsoft.Windows.Design.Markup, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:29.687 [2248]: Operation completed. VA Usage: 7819264. Handle count: 126
+08/15/2013 19:55:29.781 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:30.109 [2248]: Operation completed. VA Usage: 7835648. Handle count: 126
+08/15/2013 19:55:30.171 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:30.281 [2248]: Operation completed. VA Usage: 7815168. Handle count: 125
+08/15/2013 19:55:30.343 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:31.203 [2248]: Operation completed. VA Usage: 8351744. Handle count: 127
+08/15/2013 19:55:31.265 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:31.593 [2248]: Operation completed. VA Usage: 8392704. Handle count: 131
+08/15/2013 19:55:31.656 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:32.250 [2248]: Operation completed. VA Usage: 7856128. Handle count: 125
+08/15/2013 19:55:32.281 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:32.546 [2248]: Operation completed. VA Usage: 7827456. Handle count: 126
+08/15/2013 19:55:32.593 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:33.296 [2248]: Operation completed. VA Usage: 8015872. Handle count: 126
+08/15/2013 19:55:33.406 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:34.437 [2248]: Operation completed. VA Usage: 8138752. Handle count: 127
+08/15/2013 19:55:34.484 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:34.484 [2248]: 1>Began compiling: System.Activities.Core.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:40.250 [2248]: 1>System.Activities.Core.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:40.265 [2248]: 1>	Source MVID:	{15BC0D33-AA2A-4C5F-9C2C-307AD69E19B6}
+	Source HASH:	5defd65ec7be1883e1f28cbb53840296a464370a
+	NGen GUID sign:	{BCCC6131-CC0B-9A2A-BCFB-5C6DAA77BE39}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	4.0.20506.1
+	clr.dll:	TimeStamp=4A01254A, CheckSum=005EA88F
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v4.0.20506_32\System.Activities.C#\3161ccbc0bcc2a9abcfb5c6daa77be39\System.Activities.Core.Design.ni.dll
+	Dependencies:
+		System.Activities.Core.Design, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{15BC0D33-AA2A-4C5F-9C2C-307AD69E19B6}
+			Sign:5defd65ec7be1883e1f28cbb53840296a464370a
+		mscorlib, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{43532EBD-789D-4068-A63C-A5440E4C8E03}
+			Sign:a9e9036afd6bd5885468747eae67458cac0fb741
+			Hardbound Guid:{5C7EDCC1-0E98-2D75-E1E5-636D06E6A4CF}
+		PresentationFramework, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{7B76B6FB-3279-4B0C-A418-EC96EB3CACB2}
+			Sign:48a0f45fc1101df6577c920a15fee94fc1eb176f
+		WindowsBase, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B80E66EA-473A-4D4C-A218-704DBD748572}
+			Sign:3ba009e4d468c28bb5710c2f6aad929c17ca7463
+		System, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{30ABCBBF-B571-48B0-B95B-A4D08261A037}
+			Sign:eb34db2f3c62ac4b011d17677b50d1ebaa89592b
+			Hardbound Guid:{68FF6F65-DA73-FA1F-5B76-F3A858D0872E}
+		PresentationCore, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C250CF30-87A4-402B-8579-11DC709DDA5C}
+			Sign:473b7bec2669a32477dc74ebb402f57a8ca4208e
+		System.Xml, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{BB8AC7AF-305D-4226-84FB-B80E399D9AB4}
+			Sign:3f8cfeaae9a07f2821991e932b9dfe809129be0c
+		UIAutomationProvider, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{CDC5B6F5-32B7-40F4-92F3-17316BC6476F}
+			Sign:e5d53bb8e447e718547aafca92f0113ae2e94fa3
+		System.Activities.Design, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{69C4E80B-74C1-4DA8-8A0E-A6D478DDD9DA}
+			Sign:89830108462b250b10afc111130d7d88ad583dda
+		System.Core, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{4AF9B046-6C19-4BB2-BA75-18183F3023EC}
+			Sign:aea586fabda4600e86bf19b5eb01bdb578894303
+			Hardbound Guid:{FBBBE656-C6CA-1DB0-7E76-086F3C6CC3B8}
+		System.Activities.Design.Base, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C826D528-3172-45E3-BD9E-FB2B75CD423F}
+			Sign:7e4fa2b8d10fd8bebc18c6f6c329895dce17fa80
+		System.Xaml, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C56FB938-C692-4EEE-8469-5AC606100103}
+			Sign:e89385ed4d9ef8e6cf63e21b85c2dbbdf851e761
+		System.Activities, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{AF293995-4193-48BF-98FE-C9BCE2D218BF}
+			Sign:b0df3291c5830ea7a910c8e4db86f1c7bce37384
+		System.ServiceModel, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9199A6CA-1976-42B2-9F72-DB92BB60D9E9}
+			Sign:502be78cf9163ac527a8db3079f0a0fcab2462c4
+		System.Configuration, Version=4.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{BDA34FF3-CC4E-4A7F-B8BC-9AA171F71408}
+			Sign:8f86ba4bf4c3dffb0136cc3ea7c8291f618116e9
+		System.ServiceModel.Activities, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{6F57D936-6FD7-40D3-92B6-612592D9B73A}
+			Sign:0b20bacdb2e422361133053cacfb7ff7816eafb3
+		System.Runtime, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{CB359092-0A77-4B6D-B824-F7E37230A307}
+			Sign:70e0cfd3f63aa390c83ec956d6dae9035f21aa3b
+		System.Xml.Linq, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{576B13F7-0CE9-4E1C-AC54-DA179B6C4E58}
+			Sign:6d94076679a5d6001ad315aa9da63c37ced95272
+		System.Data, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E265E210-3279-45E4-8DAD-7415B77CF222}
+			Sign:9deb785ffb19760db7dae21365800deb942e4f62
+		System.Activities.Extended, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{AEC21281-C681-41F2-B531-616397F94BF8}
+			Sign:b330531964437ad47edc178f3d2cf7b28036e575
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System.Runtime.Serialization, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{6ED9A634-C9B9-4960-8B1B-18D4FC442773}
+			Sign:48923bc35ed88726a323ef5b47e21d5070da2aef
+
+08/15/2013 19:55:40.281 [2248]: 1>Operation completed. VA Usage: 8474624. Handle count: 134
+08/15/2013 19:55:40.296 [2248]: 1>Successfully compiled: System.Activities.Core.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:40.359 [2248]: 1>Service worker shutting down. Dependency walks performed: 0. Compilations performed: 1
+08/15/2013 19:55:40.562 [2248]: Operation completed. VA Usage: 8101888. Handle count: 128
+08/15/2013 19:55:40.671 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:41.046 [2248]: Operation completed. VA Usage: 8007680. Handle count: 127
+08/15/2013 19:55:41.093 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:41.281 [2248]: Operation completed. VA Usage: 7847936. Handle count: 126
+08/15/2013 19:55:41.328 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:41.328 [2248]: 1>Began compiling: System.Activities.Extended, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:41.859 [2248]: 1>System.Activities.Extended, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:41.859 [2248]: 1>	Source MVID:	{AEC21281-C681-41F2-B531-616397F94BF8}
+	Source HASH:	b330531964437ad47edc178f3d2cf7b28036e575
+	NGen GUID sign:	{368FE03B-756F-F903-24F8-9B8F737C30E4}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	4.0.20506.1
+	clr.dll:	TimeStamp=4A01254A, CheckSum=005EA88F
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v4.0.20506_32\System.Activities.E#\3be08f366f7503f924f89b8f737c30e4\System.Activities.Extended.ni.dll
+	Dependencies:
+		System.Activities.Extended, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{AEC21281-C681-41F2-B531-616397F94BF8}
+			Sign:b330531964437ad47edc178f3d2cf7b28036e575
+		mscorlib, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{43532EBD-789D-4068-A63C-A5440E4C8E03}
+			Sign:a9e9036afd6bd5885468747eae67458cac0fb741
+			Hardbound Guid:{5C7EDCC1-0E98-2D75-E1E5-636D06E6A4CF}
+		System.Activities, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{AF293995-4193-48BF-98FE-C9BCE2D218BF}
+			Sign:b0df3291c5830ea7a910c8e4db86f1c7bce37384
+		System, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{30ABCBBF-B571-48B0-B95B-A4D08261A037}
+			Sign:eb34db2f3c62ac4b011d17677b50d1ebaa89592b
+			Hardbound Guid:{68FF6F65-DA73-FA1F-5B76-F3A858D0872E}
+		System.Core, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{4AF9B046-6C19-4BB2-BA75-18183F3023EC}
+			Sign:aea586fabda4600e86bf19b5eb01bdb578894303
+			Hardbound Guid:{FBBBE656-C6CA-1DB0-7E76-086F3C6CC3B8}
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System.Runtime, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{CB359092-0A77-4B6D-B824-F7E37230A307}
+			Sign:70e0cfd3f63aa390c83ec956d6dae9035f21aa3b
+		WindowsBase, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B80E66EA-473A-4D4C-A218-704DBD748572}
+			Sign:3ba009e4d468c28bb5710c2f6aad929c17ca7463
+		System.Runtime.Serialization, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{6ED9A634-C9B9-4960-8B1B-18D4FC442773}
+			Sign:48923bc35ed88726a323ef5b47e21d5070da2aef
+
+08/15/2013 19:55:41.875 [2248]: 1>Operation completed. VA Usage: 8048640. Handle count: 132
+08/15/2013 19:55:41.875 [2248]: 1>Successfully compiled: System.Activities.Extended, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:41.921 [2248]: 1>Service worker shutting down. Dependency walks performed: 0. Compilations performed: 1
+08/15/2013 19:55:42.734 [2248]: Operation completed. VA Usage: 8200192. Handle count: 126
+08/15/2013 19:55:42.781 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:43.421 [2248]: Operation completed. VA Usage: 7733248. Handle count: 126
+08/15/2013 19:55:43.546 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:43.875 [2248]: 1>Began compiling: System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:44.234 [2248]: 1>System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:44.234 [2248]: 1>	Source MVID:	{4F252A34-4C92-4E9B-A4C0-81C83D8D3FCE}
+	Source HASH:	91522c416ce640a0aa0fb27b926c59f07345964d
+	NGen GUID sign:	{D7AD9AE9-E347-D8C5-BA93-19D03BB1472D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.ComponentMod#\e99aadd747e3c5d8ba9319d03bb1472d\System.ComponentModel.DataAnnotations.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.ComponentModel.DataAnnotations, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{4F252A34-4C92-4E9B-A4C0-81C83D8D3FCE}
+			Sign:91522c416ce640a0aa0fb27b926c59f07345964d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+
+08/15/2013 19:55:44.234 [2248]: 1>Successfully compiled: System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:44.718 [2248]: Operation completed. VA Usage: 7811072. Handle count: 126
+08/15/2013 19:55:44.750 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:44.984 [2248]: Operation completed. VA Usage: 7716864. Handle count: 126
+08/15/2013 19:55:45.031 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:45.109 [2248]: Operation completed. VA Usage: 7802880. Handle count: 126
+08/15/2013 19:55:45.156 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:45.484 [2248]: 1>Began compiling: System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:55:45.937 [2248]: 1>System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:55:45.937 [2248]: 1>	Source MVID:	{F27FD3DE-B9C5-4623-BFA1-B3906243D08F}
+	Source HASH:	7d59d8e932988d8034d3e03511bd052145586ffe
+	NGen GUID sign:	{C3338FCE-1060-26CC-A555-0804B1F5DE40}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.DataSet#\ce8f33c36010cc26a5550804b1f5de40\System.Data.DataSetExtensions.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.DataSetExtensions, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{F27FD3DE-B9C5-4623-BFA1-B3906243D08F}
+			Sign:7d59d8e932988d8034d3e03511bd052145586ffe
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+
+08/15/2013 19:55:45.953 [2248]: 1>Successfully compiled: System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:55:46.562 [2248]: Operation completed. VA Usage: 8200192. Handle count: 127
+08/15/2013 19:55:46.656 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:47.078 [2248]: 1>Began compiling: System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:20.812 [2248]: 1>System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:20.812 [2248]: 1>	Source MVID:	{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+	Source HASH:	8802b5dfcbafec39219878246d191c72c6c2d9cd
+	NGen GUID sign:	{FF8F957F-CC5F-1405-CE6F-E7F43B0AB344}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Entity\7f958fff5fcc0514ce6fe7f43b0ab344\System.Data.Entity.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:56:20.843 [2248]: 1>Successfully compiled: System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:23.421 [2248]: Operation completed. VA Usage: 8597504. Handle count: 126
+08/15/2013 19:56:23.500 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:24.031 [2248]: 1>Began compiling: System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:25.156 [2248]: 1>System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:25.156 [2248]: 1>	Source MVID:	{7EFAE28D-7EFA-45D2-90EB-FB74D7B4E642}
+	Source HASH:	0910e4e9a55bafbb4252ed6f4b3adfc18e259c1d
+	NGen GUID sign:	{18086CC6-9A62-A1A1-B71D-CED6AE0D7AD8}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Entity.#\c66c0818629aa1a1b71dced6ae0d7ad8\System.Data.Entity.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Entity.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{7EFAE28D-7EFA-45D2-90EB-FB74D7B4E642}
+			Sign:0910e4e9a55bafbb4252ed6f4b3adfc18e259c1d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+
+08/15/2013 19:56:25.156 [2248]: 1>Successfully compiled: System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:26.078 [2248]: Operation completed. VA Usage: 8687616. Handle count: 126
+08/15/2013 19:56:26.109 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:26.359 [2248]: Operation completed. VA Usage: 8183808. Handle count: 126
+08/15/2013 19:56:26.468 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:27.140 [2248]: 1>Began compiling: System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:29.203 [2248]: 1>System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:29.218 [2248]: 1>	Source MVID:	{98C895D7-D08D-4E52-A357-97B2B97AC2E1}
+	Source HASH:	0cf7b2e80ccdef53b8da83e19f8fae598ed09a21
+	NGen GUID sign:	{F41551EB-395E-1A39-FCE6-85B931CC9E3F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Services\eb5115f45e39391afce685b931cc9e3f\System.Data.Services.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{98C895D7-D08D-4E52-A357-97B2B97AC2E1}
+			Sign:0cf7b2e80ccdef53b8da83e19f8fae598ed09a21
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{0D601CC0-9216-4C8A-8F6A-CCF2F8CA74DC}
+			Sign:78bd51da9e3f84576453da5488faa2d094865a8c
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Data.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{12F4CE3D-8031-4D2B-8BD2-46FAD5B559B1}
+			Sign:b1cf1875852d465f76bab79febea351ed8679987
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+08/15/2013 19:56:29.218 [2248]: 1>Successfully compiled: System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:30.109 [2248]: Operation completed. VA Usage: 8609792. Handle count: 126
+08/15/2013 19:56:30.156 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:30.328 [2248]: 1>Began compiling: System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:31.671 [2248]: 1>System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:31.671 [2248]: 1>	Source MVID:	{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+	Source HASH:	261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+	NGen GUID sign:	{1F592DE2-2695-ECF8-9493-522280436C69}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\e22d591f9526f8ec9493522280436c69\System.Data.Services.Client.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+
+08/15/2013 19:56:31.687 [2248]: 1>Successfully compiled: System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:31.812 [2248]: Operation completed. VA Usage: 7757824. Handle count: 126
+08/15/2013 19:56:31.890 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:32.218 [2248]: 1>Began compiling: System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:32.875 [2248]: 1>System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:32.875 [2248]: 1>	Source MVID:	{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+	Source HASH:	ff05c0084051102c5721a6c84cca7cfabf7c7fad
+	NGen GUID sign:	{2C0F1A29-9218-3118-740F-4A125BE182FC}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\291a0f2c18921831740f4a125be182fc\System.Data.Services.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+			Sign:ff05c0084051102c5721a6c84cca7cfabf7c7fad
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+
+08/15/2013 19:56:32.875 [2248]: 1>Successfully compiled: System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:33.390 [2248]: Operation completed. VA Usage: 8572928. Handle count: 126
+08/15/2013 19:56:33.421 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:33.468 [2248]: Operation completed. VA Usage: 7729152. Handle count: 126
+08/15/2013 19:56:33.515 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:33.687 [2248]: 1>Began compiling: System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:34.843 [2248]: 1>System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:34.859 [2248]: 1>	Source MVID:	{77AC3459-1801-458D-A028-0A4061F900D7}
+	Source HASH:	13d2d635c31b9a39c9c880379f3b27a654150933
+	NGen GUID sign:	{519C3A86-812A-6E53-87B2-2E3D666C56BB}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Deployment\863a9c512a81536e87b22e3d666c56bb\System.Deployment.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+08/15/2013 19:56:34.859 [2248]: 1>Successfully compiled: System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:34.968 [2248]: Operation completed. VA Usage: 7753728. Handle count: 126
+08/15/2013 19:56:35.015 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:35.171 [2248]: 1>Began compiling: System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:36.250 [2248]: 1>System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:36.250 [2248]: 1>	Source MVID:	{99762AEF-6716-46A9-B853-B974F553535E}
+	Source HASH:	4133032008c9c8ad863b31e1c9b01284ee2611bf
+	NGen GUID sign:	{5D86DA07-9C08-205E-1919-520289C2E3A6}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.DirectorySer#\07da865d089c5e201919520289c2e3a6\System.DirectoryServices.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.DirectoryServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{99762AEF-6716-46A9-B853-B974F553535E}
+			Sign:4133032008c9c8ad863b31e1c9b01284ee2611bf
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:56:36.265 [2248]: 1>Successfully compiled: System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:36.343 [2248]: Operation completed. VA Usage: 7720960. Handle count: 126
+08/15/2013 19:56:36.421 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:18.203 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeBeforeMerge
+08/15/2013 19:55:18.203 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeBeforeRecordMerge
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeDataSourceLoad
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeWizardSendToCustom
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnMailMergeWizardStateChange
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnSelectionChange
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DocumentListenerCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IDocumentListenerCallbackContract.OnWindowSize
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IDocumentControlCollectionProxy.CreateWrapper
+08/15/2013 19:55:18.218 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IDocumentControlCollectionProxy.CreateInlineWrapper
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000020
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000021
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000022
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000023
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000024
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000025
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000026
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000027
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000028
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000029
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002a
+08/15/2013 19:55:18.234 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002b
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002c
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002d
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002e
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600002f
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000030
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000031
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000032
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000033
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000034
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000035
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000036
+08/15/2013 19:55:18.250 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000037
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000038
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000039
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003a
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003b
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003c
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003d
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003e
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600003f
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000040
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000041
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000042
+08/15/2013 19:55:18.265 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000043
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000044
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000045
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000046
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000047
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000048
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000049
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004a
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004b
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004c
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004d
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004e
+08/15/2013 19:55:18.281 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600004f
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000050
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000051
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000052
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000053
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000054
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000055
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000056
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000057
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000058
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000059
+08/15/2013 19:55:18.296 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005a
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005b
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005c
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005d
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005e
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600005f
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000060
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000061
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000062
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000063
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000064
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000065
+08/15/2013 19:55:18.312 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000066
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000067
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000068
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWordHostItemProviderProxy..ctor
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWordHostItemProviderProxy.<.ctor>b__1
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IWordHostItemProviderProxy.<.ctor>b__2
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600006e
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x600006f
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000070
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000071
+08/15/2013 19:55:18.328 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 (异常来自 HRESULT:0x80070002) while compiling method token 0x6000072
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.get_Node
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.LoadXml
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.SetXml
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.SetText
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.SetText
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.ElementMatchesNode
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.CheckChildren
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.CheckNode
+08/15/2013 19:55:18.343 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.SetAttributes
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeProxy.AttributesMatch
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodesProxy.get_Nodes
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodesProxy.OnNodesInvalidated
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnDeselect
+08/15/2013 19:55:18.359 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnEnter
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnLeave
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnSelect
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.RaiseEvent
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NodesInvalidatedEventArgs.get_Nodes
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method NodesInvalidatedEventArgs..ctor
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodesCallbackAdapter.Microsoft.Office.Tools.Word.Contract.IXmlNodesCallbackContract.OnNodesInvalidated
+08/15/2013 19:55:18.375 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnDeselect
+08/15/2013 19:55:18.390 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnEnter
+08/15/2013 19:55:18.390 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnLeave
+08/15/2013 19:55:18.390 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.Microsoft.Office.Tools.Word.Contract.IXmlNodeCallbackContract.OnSelect
+08/15/2013 19:55:18.390 [2248]: 1>未能加载文件或程序集“Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IXMLNodeCallbackAdapterBase`1.RaiseEvent
+08/15/2013 19:55:18.875 [2248]: 1>Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:18.875 [2248]: 1>	Source MVID:	{8AD4FF31-9D0E-4932-9184-A531B04735D5}
+	Source HASH:	f9c8b7f9889ca62f264ebb9ce83d65a8194daeb8
+	NGen GUID sign:	{512B1443-DC55-5CEE-234D-69EEC5666E3C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\43142b5155dcee5c234d69eec5666e3c\Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8AD4FF31-9D0E-4932-9184-A531B04735D5}
+			Sign:f9c8b7f9889ca62f264ebb9ce83d65a8194daeb8
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6EFD4579-1744-4892-B7F3-2D6B5CA70B51}
+			Sign:7324b2ffc41155ef1a95320eb2fc86988c1eea31
+		Microsoft.Office.Tools.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F59680E5-BC1F-406B-998B-7D907DA9251C}
+			Sign:d56cd44c4ed7f85fb179cfb49cac3fea3d996ec7
+		Microsoft.VisualStudio.Tools.Office.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{795A6D93-1440-42D3-B2E4-B4398BBA9226}
+			Sign:9d05a74cf779c6575e1345b6d00ada745e6fa4e8
+		Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FE4BFE61-4D43-414F-8766-E5EA3A20417E}
+			Sign:db5901669afb99d7f96f404f438aa7013d7ecd03
+		Microsoft.Office.Interop.Word, Version=12.0.0.0, PublicKeyToken=71e9bce111e9429c:
+			** Missing dependency assembly **
+		Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6BD16B3-CCE7-40B3-8FF5-3DB633D7E1CC}
+			Sign:602648b68ec6083bb0d9554e554abcd9d0528556
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:55:18.890 [2248]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:19.828 [2248]: 1>Began compiling: Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:20.843 [2248]: 1>Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:20.843 [2248]: 1>	Source MVID:	{84618472-CF78-4D7D-8FE3-1F9BAA760AE6}
+	Source HASH:	bd5bf7ee011d4597dbf52b807fe71e46e075f0c4
+	NGen GUID sign:	{B89BE2AC-1B56-2909-29E1-076185D73697}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\ace29bb8561b092929e1076185d73697\Microsoft.VisualStudio.Xaml.LanguageService.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{84618472-CF78-4D7D-8FE3-1F9BAA760AE6}
+			Sign:bd5bf7ee011d4597dbf52b807fe71e46e075f0c4
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Package.LanguageService.9.0, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D4EBA935-6B6F-476E-BE43-1967B5F8576F}
+			Sign:1b6db409e8fc773a670f6b4e44b75b30d846eb44
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.Windows.Design.Markup, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CEFD35D3-9575-495B-A896-3EC16218B0E3}
+			Sign:f41bb6a26ced15a170daa23b409d787d13b6d47f
+		Microsoft.Windows.Design.Host, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F50E214E-824B-4415-9B57-319FECF4043D}
+			Sign:2d0da6b9d6f90837eb166a7413582fa51ef5ada6
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+
+08/15/2013 19:55:20.859 [2248]: 1>Successfully compiled: Microsoft.VisualStudio.Xaml.LanguageService, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:21.250 [2248]: 1>Began compiling: Microsoft.Windows.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:21.890 [2248]: 1>Microsoft.Windows.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:21.890 [2248]: 1>	Source MVID:	{946D4209-F72B-4AA8-AA28-AD0B41E53D4C}
+	Source HASH:	3c03b6be23cce4cd50c0d65766d3181991fe183e
+	NGen GUID sign:	{F65D29A9-F2E3-6895-30EA-C99199899164}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Windows.D#\a9295df6e3f2956830eac99199899164\Microsoft.Windows.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Windows.Design, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{946D4209-F72B-4AA8-AA28-AD0B41E53D4C}
+			Sign:3c03b6be23cce4cd50c0d65766d3181991fe183e
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+
+08/15/2013 19:55:21.906 [2248]: 1>Successfully compiled: Microsoft.Windows.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:22.484 [2248]: 1>Began compiling: Microsoft.Windows.Design.Developer, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:25.171 [2248]: 1>Microsoft.Windows.Design.Developer, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:25.171 [2248]: 1>	Source MVID:	{91585A5D-CA77-4FD1-A19B-13CFF97B77F2}
+	Source HASH:	fec6fd5301fbf5815961e685633819046a89f2e0
+	NGen GUID sign:	{B3BEFBC3-8984-FD4A-64CD-B799DE31123F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Windows.D#\c3fbbeb384894afd64cdb799de31123f\Microsoft.Windows.Design.Developer.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Windows.Design.Developer, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{91585A5D-CA77-4FD1-A19B-13CFF97B77F2}
+			Sign:fec6fd5301fbf5815961e685633819046a89f2e0
+		Microsoft.Windows.Design.Extensibility, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{15C34AEC-939C-44B9-8829-828F8539CF86}
+			Sign:93dd8b25d5f8c0ff76dd655729956a8e854f256f
+		Microsoft.Windows.Design.Interaction, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{51D10776-059D-4EA9-9A57-DBD252F66325}
+			Sign:c71708c4b10edf299e4f610d22e47bda03ccee38
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.Windows.Design, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{946D4209-F72B-4AA8-AA28-AD0B41E53D4C}
+			Sign:3c03b6be23cce4cd50c0d65766d3181991fe183e
+		Microsoft.Windows.Design.Markup, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CEFD35D3-9575-495B-A896-3EC16218B0E3}
+			Sign:f41bb6a26ced15a170daa23b409d787d13b6d47f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		WindowsFormsIntegration, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1822B650-D779-4193-A16A-FF83928274CB}
+			Sign:a9798cf0b32f06481cb47449c926ab36a71626a7
+
+08/15/2013 19:55:25.187 [2248]: 1>Successfully compiled: Microsoft.Windows.Design.Developer, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:25.609 [2248]: 1>Began compiling: Microsoft.Windows.Design.Markup, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:28.687 [2248]: 1>Microsoft.Windows.Design.Markup, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:28.687 [2248]: 1>	Source MVID:	{CEFD35D3-9575-495B-A896-3EC16218B0E3}
+	Source HASH:	f41bb6a26ced15a170daa23b409d787d13b6d47f
+	NGen GUID sign:	{6E17E392-B7F9-1B2B-0690-5A1F0CA7DC25}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Windows.D#\92e3176ef9b72b1b06905a1f0ca7dc25\Microsoft.Windows.Design.Markup.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Windows.Design.Markup, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CEFD35D3-9575-495B-A896-3EC16218B0E3}
+			Sign:f41bb6a26ced15a170daa23b409d787d13b6d47f
+		Microsoft.Windows.Design, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{946D4209-F72B-4AA8-AA28-AD0B41E53D4C}
+			Sign:3c03b6be23cce4cd50c0d65766d3181991fe183e
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.Windows.Design.Interaction, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{51D10776-059D-4EA9-9A57-DBD252F66325}
+			Sign:c71708c4b10edf299e4f610d22e47bda03ccee38
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		Microsoft.Windows.Design.Extensibility, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{15C34AEC-939C-44B9-8829-828F8539CF86}
+			Sign:93dd8b25d5f8c0ff76dd655729956a8e854f256f
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:55:28.703 [2248]: 1>Successfully compiled: Microsoft.Windows.Design.Markup, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:55:29.687 [2248]: Operation completed. VA Usage: 7819264. Handle count: 126
+08/15/2013 19:55:29.781 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:30.109 [2248]: Operation completed. VA Usage: 7835648. Handle count: 126
+08/15/2013 19:55:30.171 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:30.281 [2248]: Operation completed. VA Usage: 7815168. Handle count: 125
+08/15/2013 19:55:30.343 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:31.203 [2248]: Operation completed. VA Usage: 8351744. Handle count: 127
+08/15/2013 19:55:31.265 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:31.593 [2248]: Operation completed. VA Usage: 8392704. Handle count: 131
+08/15/2013 19:55:31.656 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:32.250 [2248]: Operation completed. VA Usage: 7856128. Handle count: 125
+08/15/2013 19:55:32.281 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:32.546 [2248]: Operation completed. VA Usage: 7827456. Handle count: 126
+08/15/2013 19:55:32.593 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:33.296 [2248]: Operation completed. VA Usage: 8015872. Handle count: 126
+08/15/2013 19:55:33.406 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:34.437 [2248]: Operation completed. VA Usage: 8138752. Handle count: 127
+08/15/2013 19:55:34.484 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:34.484 [2248]: 1>Began compiling: System.Activities.Core.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:40.250 [2248]: 1>System.Activities.Core.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:40.265 [2248]: 1>	Source MVID:	{15BC0D33-AA2A-4C5F-9C2C-307AD69E19B6}
+	Source HASH:	5defd65ec7be1883e1f28cbb53840296a464370a
+	NGen GUID sign:	{BCCC6131-CC0B-9A2A-BCFB-5C6DAA77BE39}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	4.0.20506.1
+	clr.dll:	TimeStamp=4A01254A, CheckSum=005EA88F
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v4.0.20506_32\System.Activities.C#\3161ccbc0bcc2a9abcfb5c6daa77be39\System.Activities.Core.Design.ni.dll
+	Dependencies:
+		System.Activities.Core.Design, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{15BC0D33-AA2A-4C5F-9C2C-307AD69E19B6}
+			Sign:5defd65ec7be1883e1f28cbb53840296a464370a
+		mscorlib, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{43532EBD-789D-4068-A63C-A5440E4C8E03}
+			Sign:a9e9036afd6bd5885468747eae67458cac0fb741
+			Hardbound Guid:{5C7EDCC1-0E98-2D75-E1E5-636D06E6A4CF}
+		PresentationFramework, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{7B76B6FB-3279-4B0C-A418-EC96EB3CACB2}
+			Sign:48a0f45fc1101df6577c920a15fee94fc1eb176f
+		WindowsBase, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B80E66EA-473A-4D4C-A218-704DBD748572}
+			Sign:3ba009e4d468c28bb5710c2f6aad929c17ca7463
+		System, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{30ABCBBF-B571-48B0-B95B-A4D08261A037}
+			Sign:eb34db2f3c62ac4b011d17677b50d1ebaa89592b
+			Hardbound Guid:{68FF6F65-DA73-FA1F-5B76-F3A858D0872E}
+		PresentationCore, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C250CF30-87A4-402B-8579-11DC709DDA5C}
+			Sign:473b7bec2669a32477dc74ebb402f57a8ca4208e
+		System.Xml, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{BB8AC7AF-305D-4226-84FB-B80E399D9AB4}
+			Sign:3f8cfeaae9a07f2821991e932b9dfe809129be0c
+		UIAutomationProvider, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{CDC5B6F5-32B7-40F4-92F3-17316BC6476F}
+			Sign:e5d53bb8e447e718547aafca92f0113ae2e94fa3
+		System.Activities.Design, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{69C4E80B-74C1-4DA8-8A0E-A6D478DDD9DA}
+			Sign:89830108462b250b10afc111130d7d88ad583dda
+		System.Core, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{4AF9B046-6C19-4BB2-BA75-18183F3023EC}
+			Sign:aea586fabda4600e86bf19b5eb01bdb578894303
+			Hardbound Guid:{FBBBE656-C6CA-1DB0-7E76-086F3C6CC3B8}
+		System.Activities.Design.Base, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C826D528-3172-45E3-BD9E-FB2B75CD423F}
+			Sign:7e4fa2b8d10fd8bebc18c6f6c329895dce17fa80
+		System.Xaml, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C56FB938-C692-4EEE-8469-5AC606100103}
+			Sign:e89385ed4d9ef8e6cf63e21b85c2dbbdf851e761
+		System.Activities, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{AF293995-4193-48BF-98FE-C9BCE2D218BF}
+			Sign:b0df3291c5830ea7a910c8e4db86f1c7bce37384
+		System.ServiceModel, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9199A6CA-1976-42B2-9F72-DB92BB60D9E9}
+			Sign:502be78cf9163ac527a8db3079f0a0fcab2462c4
+		System.Configuration, Version=4.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{BDA34FF3-CC4E-4A7F-B8BC-9AA171F71408}
+			Sign:8f86ba4bf4c3dffb0136cc3ea7c8291f618116e9
+		System.ServiceModel.Activities, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{6F57D936-6FD7-40D3-92B6-612592D9B73A}
+			Sign:0b20bacdb2e422361133053cacfb7ff7816eafb3
+		System.Runtime, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{CB359092-0A77-4B6D-B824-F7E37230A307}
+			Sign:70e0cfd3f63aa390c83ec956d6dae9035f21aa3b
+		System.Xml.Linq, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{576B13F7-0CE9-4E1C-AC54-DA179B6C4E58}
+			Sign:6d94076679a5d6001ad315aa9da63c37ced95272
+		System.Data, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E265E210-3279-45E4-8DAD-7415B77CF222}
+			Sign:9deb785ffb19760db7dae21365800deb942e4f62
+		System.Activities.Extended, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{AEC21281-C681-41F2-B531-616397F94BF8}
+			Sign:b330531964437ad47edc178f3d2cf7b28036e575
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System.Runtime.Serialization, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{6ED9A634-C9B9-4960-8B1B-18D4FC442773}
+			Sign:48923bc35ed88726a323ef5b47e21d5070da2aef
+
+08/15/2013 19:55:40.281 [2248]: 1>Operation completed. VA Usage: 8474624. Handle count: 134
+08/15/2013 19:55:40.296 [2248]: 1>Successfully compiled: System.Activities.Core.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:40.359 [2248]: 1>Service worker shutting down. Dependency walks performed: 0. Compilations performed: 1
+08/15/2013 19:55:40.562 [2248]: Operation completed. VA Usage: 8101888. Handle count: 128
+08/15/2013 19:55:40.671 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:41.046 [2248]: Operation completed. VA Usage: 8007680. Handle count: 127
+08/15/2013 19:55:41.093 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:41.281 [2248]: Operation completed. VA Usage: 7847936. Handle count: 126
+08/15/2013 19:55:41.328 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:41.328 [2248]: 1>Began compiling: System.Activities.Extended, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:41.859 [2248]: 1>System.Activities.Extended, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:41.859 [2248]: 1>	Source MVID:	{AEC21281-C681-41F2-B531-616397F94BF8}
+	Source HASH:	b330531964437ad47edc178f3d2cf7b28036e575
+	NGen GUID sign:	{368FE03B-756F-F903-24F8-9B8F737C30E4}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	4.0.20506.1
+	clr.dll:	TimeStamp=4A01254A, CheckSum=005EA88F
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v4.0.20506_32\System.Activities.E#\3be08f366f7503f924f89b8f737c30e4\System.Activities.Extended.ni.dll
+	Dependencies:
+		System.Activities.Extended, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{AEC21281-C681-41F2-B531-616397F94BF8}
+			Sign:b330531964437ad47edc178f3d2cf7b28036e575
+		mscorlib, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{43532EBD-789D-4068-A63C-A5440E4C8E03}
+			Sign:a9e9036afd6bd5885468747eae67458cac0fb741
+			Hardbound Guid:{5C7EDCC1-0E98-2D75-E1E5-636D06E6A4CF}
+		System.Activities, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{AF293995-4193-48BF-98FE-C9BCE2D218BF}
+			Sign:b0df3291c5830ea7a910c8e4db86f1c7bce37384
+		System, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{30ABCBBF-B571-48B0-B95B-A4D08261A037}
+			Sign:eb34db2f3c62ac4b011d17677b50d1ebaa89592b
+			Hardbound Guid:{68FF6F65-DA73-FA1F-5B76-F3A858D0872E}
+		System.Core, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{4AF9B046-6C19-4BB2-BA75-18183F3023EC}
+			Sign:aea586fabda4600e86bf19b5eb01bdb578894303
+			Hardbound Guid:{FBBBE656-C6CA-1DB0-7E76-086F3C6CC3B8}
+		System.Management.Automation, Version=1.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76DAA331-215A-49D6-91E8-A583E188211F}
+			Sign:87c0064a4ac86277af0fe02c12af9fa7edafec8a
+		System.Runtime, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{CB359092-0A77-4B6D-B824-F7E37230A307}
+			Sign:70e0cfd3f63aa390c83ec956d6dae9035f21aa3b
+		WindowsBase, Version=4.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B80E66EA-473A-4D4C-A218-704DBD748572}
+			Sign:3ba009e4d468c28bb5710c2f6aad929c17ca7463
+		System.Runtime.Serialization, Version=4.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{6ED9A634-C9B9-4960-8B1B-18D4FC442773}
+			Sign:48923bc35ed88726a323ef5b47e21d5070da2aef
+
+08/15/2013 19:55:41.875 [2248]: 1>Operation completed. VA Usage: 8048640. Handle count: 132
+08/15/2013 19:55:41.875 [2248]: 1>Successfully compiled: System.Activities.Extended, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:41.921 [2248]: 1>Service worker shutting down. Dependency walks performed: 0. Compilations performed: 1
+08/15/2013 19:55:42.734 [2248]: Operation completed. VA Usage: 8200192. Handle count: 126
+08/15/2013 19:55:42.781 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:43.421 [2248]: Operation completed. VA Usage: 7733248. Handle count: 126
+08/15/2013 19:55:43.546 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:43.875 [2248]: 1>Began compiling: System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:44.234 [2248]: 1>System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:44.234 [2248]: 1>	Source MVID:	{4F252A34-4C92-4E9B-A4C0-81C83D8D3FCE}
+	Source HASH:	91522c416ce640a0aa0fb27b926c59f07345964d
+	NGen GUID sign:	{D7AD9AE9-E347-D8C5-BA93-19D03BB1472D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.ComponentMod#\e99aadd747e3c5d8ba9319d03bb1472d\System.ComponentModel.DataAnnotations.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.ComponentModel.DataAnnotations, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{4F252A34-4C92-4E9B-A4C0-81C83D8D3FCE}
+			Sign:91522c416ce640a0aa0fb27b926c59f07345964d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+
+08/15/2013 19:55:44.234 [2248]: 1>Successfully compiled: System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+08/15/2013 19:55:44.718 [2248]: Operation completed. VA Usage: 7811072. Handle count: 126
+08/15/2013 19:55:44.750 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:44.984 [2248]: Operation completed. VA Usage: 7716864. Handle count: 126
+08/15/2013 19:55:45.031 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:45.109 [2248]: Operation completed. VA Usage: 7802880. Handle count: 126
+08/15/2013 19:55:45.156 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:45.484 [2248]: 1>Began compiling: System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:55:45.937 [2248]: 1>System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:55:45.937 [2248]: 1>	Source MVID:	{F27FD3DE-B9C5-4623-BFA1-B3906243D08F}
+	Source HASH:	7d59d8e932988d8034d3e03511bd052145586ffe
+	NGen GUID sign:	{C3338FCE-1060-26CC-A555-0804B1F5DE40}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.DataSet#\ce8f33c36010cc26a5550804b1f5de40\System.Data.DataSetExtensions.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.DataSetExtensions, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{F27FD3DE-B9C5-4623-BFA1-B3906243D08F}
+			Sign:7d59d8e932988d8034d3e03511bd052145586ffe
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+
+08/15/2013 19:55:45.953 [2248]: 1>Successfully compiled: System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:55:46.562 [2248]: Operation completed. VA Usage: 8200192. Handle count: 127
+08/15/2013 19:55:46.656 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:55:47.078 [2248]: 1>Began compiling: System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:20.812 [2248]: 1>System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:20.812 [2248]: 1>	Source MVID:	{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+	Source HASH:	8802b5dfcbafec39219878246d191c72c6c2d9cd
+	NGen GUID sign:	{FF8F957F-CC5F-1405-CE6F-E7F43B0AB344}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Entity\7f958fff5fcc0514ce6fe7f43b0ab344\System.Data.Entity.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:56:20.843 [2248]: 1>Successfully compiled: System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:23.421 [2248]: Operation completed. VA Usage: 8597504. Handle count: 126
+08/15/2013 19:56:23.500 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:24.031 [2248]: 1>Began compiling: System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:25.156 [2248]: 1>System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:25.156 [2248]: 1>	Source MVID:	{7EFAE28D-7EFA-45D2-90EB-FB74D7B4E642}
+	Source HASH:	0910e4e9a55bafbb4252ed6f4b3adfc18e259c1d
+	NGen GUID sign:	{18086CC6-9A62-A1A1-B71D-CED6AE0D7AD8}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Entity.#\c66c0818629aa1a1b71dced6ae0d7ad8\System.Data.Entity.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Entity.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{7EFAE28D-7EFA-45D2-90EB-FB74D7B4E642}
+			Sign:0910e4e9a55bafbb4252ed6f4b3adfc18e259c1d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+
+08/15/2013 19:56:25.156 [2248]: 1>Successfully compiled: System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:26.078 [2248]: Operation completed. VA Usage: 8687616. Handle count: 126
+08/15/2013 19:56:26.109 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:26.359 [2248]: Operation completed. VA Usage: 8183808. Handle count: 126
+08/15/2013 19:56:26.468 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:27.140 [2248]: 1>Began compiling: System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:29.203 [2248]: 1>System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:29.218 [2248]: 1>	Source MVID:	{98C895D7-D08D-4E52-A357-97B2B97AC2E1}
+	Source HASH:	0cf7b2e80ccdef53b8da83e19f8fae598ed09a21
+	NGen GUID sign:	{F41551EB-395E-1A39-FCE6-85B931CC9E3F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Services\eb5115f45e39391afce685b931cc9e3f\System.Data.Services.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{98C895D7-D08D-4E52-A357-97B2B97AC2E1}
+			Sign:0cf7b2e80ccdef53b8da83e19f8fae598ed09a21
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{0D601CC0-9216-4C8A-8F6A-CCF2F8CA74DC}
+			Sign:78bd51da9e3f84576453da5488faa2d094865a8c
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Data.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{12F4CE3D-8031-4D2B-8BD2-46FAD5B559B1}
+			Sign:b1cf1875852d465f76bab79febea351ed8679987
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+08/15/2013 19:56:29.218 [2248]: 1>Successfully compiled: System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:30.109 [2248]: Operation completed. VA Usage: 8609792. Handle count: 126
+08/15/2013 19:56:30.156 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:30.328 [2248]: 1>Began compiling: System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:31.671 [2248]: 1>System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:31.671 [2248]: 1>	Source MVID:	{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+	Source HASH:	261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+	NGen GUID sign:	{1F592DE2-2695-ECF8-9493-522280436C69}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\e22d591f9526f8ec9493522280436c69\System.Data.Services.Client.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+
+08/15/2013 19:56:31.687 [2248]: 1>Successfully compiled: System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:31.812 [2248]: Operation completed. VA Usage: 7757824. Handle count: 126
+08/15/2013 19:56:31.890 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:32.218 [2248]: 1>Began compiling: System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:32.875 [2248]: 1>System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:32.875 [2248]: 1>	Source MVID:	{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+	Source HASH:	ff05c0084051102c5721a6c84cca7cfabf7c7fad
+	NGen GUID sign:	{2C0F1A29-9218-3118-740F-4A125BE182FC}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\291a0f2c18921831740f4a125be182fc\System.Data.Services.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+			Sign:ff05c0084051102c5721a6c84cca7cfabf7c7fad
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{D29ED82B-0FDC-5358-28FD-1AC4C5A206DD}
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+
+08/15/2013 19:56:32.875 [2248]: 1>Successfully compiled: System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:56:33.390 [2248]: Operation completed. VA Usage: 8572928. Handle count: 126
+08/15/2013 19:56:33.421 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:33.468 [2248]: Operation completed. VA Usage: 7729152. Handle count: 126
+08/15/2013 19:56:33.515 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:33.687 [2248]: 1>Began compiling: System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:34.843 [2248]: 1>System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:34.859 [2248]: 1>	Source MVID:	{77AC3459-1801-458D-A028-0A4061F900D7}
+	Source HASH:	13d2d635c31b9a39c9c880379f3b27a654150933
+	NGen GUID sign:	{519C3A86-812A-6E53-87B2-2E3D666C56BB}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Deployment\863a9c512a81536e87b22e3d666c56bb\System.Deployment.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+08/15/2013 19:56:34.859 [2248]: 1>Successfully compiled: System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:34.968 [2248]: Operation completed. VA Usage: 7753728. Handle count: 126
+08/15/2013 19:56:35.015 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:56:35.171 [2248]: 1>Began compiling: System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:36.250 [2248]: 1>System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:36.250 [2248]: 1>	Source MVID:	{99762AEF-6716-46A9-B853-B974F553535E}
+	Source HASH:	4133032008c9c8ad863b31e1c9b01284ee2611bf
+	NGen GUID sign:	{5D86DA07-9C08-205E-1919-520289C2E3A6}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.DirectorySer#\07da865d089c5e201919520289c2e3a6\System.DirectoryServices.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.DirectoryServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{99762AEF-6716-46A9-B853-B974F553535E}
+			Sign:4133032008c9c8ad863b31e1c9b01284ee2611bf
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:56:36.265 [2248]: 1>Successfully compiled: System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:56:36.343 [2248]: Operation completed. VA Usage: 7720960. Handle count: 126
+08/15/2013 19:56:36.421 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0

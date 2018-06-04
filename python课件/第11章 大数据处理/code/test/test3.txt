@@ -1,0 +1,2000 @@
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EE1F95F0-014D-4F12-82A3-8C736A4E41E5}
+			Sign:ea5072e9a25f921cc193a9f5bc0e24c8c9acea07
+
+07/10/2013 08:57:20.187 [3900]: 1>Successfully compiled: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:20.296 [3900]: Operation completed. VA Usage: 7622656. Handle count: 128
+07/10/2013 08:57:20.359 [3900]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+07/10/2013 08:57:20.687 [3900]: 1>Began compiling: UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:21.250 [3900]: 1>UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:21.250 [3900]: 1>	Source MVID:	{F093916D-222B-4C22-836E-277CCABADE6E}
+	Source HASH:	5d41d566e989cd66cefc96a3fdd09328e3cf60ab
+	NGen GUID sign:	{FBC0122E-D72D-F15B-C6BC-3E2893AF82D6}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\UIAutomationClient\2e12c0fb2dd75bf1c6bc3e2893af82d6\UIAutomationClient.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		UIAutomationClient, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{F093916D-222B-4C22-836E-277CCABADE6E}
+			Sign:5d41d566e989cd66cefc96a3fdd09328e3cf60ab
+		UIAutomationTypes, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1E01F40B-07FC-48FC-96E7-153A4639B001}
+			Sign:40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+		UIAutomationProvider, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1A344744-D517-487E-B9A3-EF3A87D117E4}
+			Sign:f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+
+07/10/2013 08:57:21.250 [3900]: 1>Successfully compiled: UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:21.593 [3900]: 1>Began compiling: UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:22.593 [3900]: 1>UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:22.593 [3900]: 1>	Source MVID:	{47901C72-912E-4BC3-AC04-1F9749109253}
+	Source HASH:	5060f51d0355bdccd42dd9a41b65a70705f4fd66
+	NGen GUID sign:	{928BF2F7-BE11-BFDA-1031-99DE9EC03776}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\UIAutomationClients#\f7f28b9211bedabf103199de9ec03776\UIAutomationClientsideProviders.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		UIAutomationClientsideProviders, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{47901C72-912E-4BC3-AC04-1F9749109253}
+			Sign:5060f51d0355bdccd42dd9a41b65a70705f4fd66
+		UIAutomationProvider, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1A344744-D517-487E-B9A3-EF3A87D117E4}
+			Sign:f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		UIAutomationTypes, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1E01F40B-07FC-48FC-96E7-153A4639B001}
+			Sign:40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+		UIAutomationClient, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{F093916D-222B-4C22-836E-277CCABADE6E}
+			Sign:5d41d566e989cd66cefc96a3fdd09328e3cf60ab
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+
+07/10/2013 08:57:22.609 [3900]: 1>Successfully compiled: UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:22.937 [3900]: 1>Began compiling: UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.203 [3900]: 1>UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.203 [3900]: 1>	Source MVID:	{1A344744-D517-487E-B9A3-EF3A87D117E4}
+	Source HASH:	f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+	NGen GUID sign:	{E742E1FC-9D00-D57C-87B5-D8FBC20F5448}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\UIAutomationProvider\fce142e7009d7cd587b5d8fbc20f5448\UIAutomationProvider.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		UIAutomationProvider, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1A344744-D517-487E-B9A3-EF3A87D117E4}
+			Sign:f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+		UIAutomationTypes, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1E01F40B-07FC-48FC-96E7-153A4639B001}
+			Sign:40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+
+07/10/2013 08:57:23.203 [3900]: 1>Successfully compiled: UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.515 [3900]: 1>Began compiling: UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.859 [3900]: 1>UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.859 [3900]: 1>	Source MVID:	{1E01F40B-07FC-48FC-96E7-153A4639B001}
+	Source HASH:	40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+	NGen GUID sign:	{C0ABBC73-9F16-2EE8-DB09-ED01BD0803DD}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\UIAutomationTypes\73bcabc0169fe82edb09ed01bd0803dd\UIAutomationTypes.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		UIAutomationTypes, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1E01F40B-07FC-48FC-96E7-153A4639B001}
+			Sign:40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+
+07/10/2013 08:57:23.859 [3900]: 1>Successfully compiled: UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:24.312 [3900]: Operation completed. VA Usage: 7700480. Handle count: 126
+07/10/2013 08:57:24.375 [3900]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+07/10/2013 08:57:24.843 [3900]: 1>Began compiling: WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.593 [3900]: 1>WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.593 [3900]: 1>	Source MVID:	{1822B650-D779-4193-A16A-FF83928274CB}
+	Source HASH:	a9798cf0b32f06481cb47449c926ab36a71626a7
+	NGen GUID sign:	{0E2405C5-327A-CAE9-67DB-D9CCE3C394D4}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WindowsFormsIntegra#\c505240e7a32e9ca67dbd9cce3c394d4\WindowsFormsIntegration.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WindowsFormsIntegration, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1822B650-D779-4193-A16A-FF83928274CB}
+			Sign:a9798cf0b32f06481cb47449c926ab36a71626a7
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		UIAutomationProvider, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1A344744-D517-487E-B9A3-EF3A87D117E4}
+			Sign:f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+
+07/10/2013 08:57:25.593 [3900]: 1>Successfully compiled: WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.640 [3900]: Deleting native image for assembly PresentationBuildTasks, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.703 [3900]: Deleting native image for assembly PresentationCFFRasterizer, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.781 [3900]: Deleting native image for assembly PresentationFontCache, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.843 [3900]: Deleting native image for assembly PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.906 [3900]: Deleting native image for assembly PresentationFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.968 [3900]: Deleting native image for assembly PresentationFramework.Aero, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.046 [3900]: Deleting native image for assembly PresentationFramework.Classic, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.125 [3900]: Deleting native image for assembly PresentationFramework.Royale, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.203 [3900]: Deleting native image for assembly ReachFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.296 [3900]: Deleting native image for assembly System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.375 [3900]: Deleting native image for assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.421 [3900]: Deleting native image for assembly System.Data.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.500 [3900]: Deleting native image for assembly System.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:57:26.593 [3900]: Deleting native image for assembly System.Drawing.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:57:26.671 [3900]: Deleting native image for assembly System.Printing, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.734 [3900]: Deleting native image for assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:57:26.796 [3900]: Deleting native image for assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.875 [3900]: Deleting native image for assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.937 [3900]: Deleting native image for assembly UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.000 [3900]: Deleting native image for assembly UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.078 [3900]: Deleting native image for assembly UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.140 [3900]: Deleting native image for assembly UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.203 [3900]: Deleting native image for assembly WindowsBase, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.281 [3900]: Deleting native image for assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:27.343 [3900]: Deleting native image for assembly WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.406 [3900]: Total number of workers used: 97
+07/10/2013 08:57:27.515 [3900]: Total number of workers used: 0
+07/10/2013 08:58:42.625 [3900]: Processing work for priority 3
+07/10/2013 08:58:42.625 [3900]: Assemblies to compile: 235
+07/10/2013 08:58:42.937 [3900]: 1>Began compiling: Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:43.187 [3900]: 1>Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:43.187 [3900]: 1>	Source MVID:	{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+	Source HASH:	265c33859266f9316aefe9844e022db187b343df
+	NGen GUID sign:	{469A798F-3888-2416-DE3C-FB1EDBCCB163}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1">
+<IPermission class="System.Security.Permissions.SecurityPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+version="1"
+Flags="SkipVerification"/>
+</PermissionSet>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Accessibility\8f799a4688381624de3cfb1edbccb163\Accessibility.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+
+07/10/2013 08:58:43.187 [3900]: 1>Successfully compiled: Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:43.265 [3900]: Operation completed. VA Usage: 7598080. Handle count: 126
+07/10/2013 08:58:43.328 [3900]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+07/10/2013 08:58:43.656 [3900]: 1>Began compiling: AspNetMMCExt, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:44.437 [3900]: 1>AspNetMMCExt, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:44.437 [3900]: 1>	Source MVID:	{20900E81-B4B2-4C5B-9C73-69551A873998}
+	Source HASH:	e34d05c176148bbb386d1d8a2c9fd5cd4fb43cbb
+	NGen GUID sign:	{21C6E4CA-7FD3-B2AC-3872-43E6C0A6C3C1}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\AspNetMMCExt\cae4c621d37facb2387243e6c0a6c3c1\AspNetMMCExt.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		AspNetMMCExt, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{20900E81-B4B2-4C5B-9C73-69551A873998}
+			Sign:e34d05c176148bbb386d1d8a2c9fd5cd4fb43cbb
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+
+07/10/2013 08:58:44.453 [3900]: 1>Successfully compiled: AspNetMMCExt, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:44.718 [3900]: Operation completed. VA Usage: 7696384. Handle count: 125
+07/10/2013 08:58:44.828 [3900]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+07/10/2013 08:58:45.265 [3900]: 1>Began compiling: C:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\envdte.dll
+07/10/2013 08:58:45.859 [3900]: 1>EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:45.859 [3900]: 1>	Source MVID:	{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+	Source HASH:	16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+	NGen GUID sign:	{CC8CD405-AA14-409A-E6C3-A37E4D799A8C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\EnvDTE\05d48ccc14aa9a40e6c3a37e4d799a8c\EnvDTE.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+
+07/10/2013 08:58:45.859 [3900]: 1>Successfully compiled: C:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\envdte.dll
+07/10/2013 08:58:47.265 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\Microsoft.VisualStudio.ServiceModel.dll
+07/10/2013 08:58:48.546 [3900]: 1>Microsoft.VisualStudio.ServiceModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:58:48.546 [3900]: 1>	Source MVID:	{4C19756F-3A75-4907-A76B-865EAEE98A64}
+	Source HASH:	14f4421a26c245e1f26e2d5d4928bfd992039e45
+	NGen GUID sign:	{49D47593-B090-0080-30AC-9B0B44BAF4DD}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\9375d44990b0800030ac9b0b44baf4dd\Microsoft.VisualStudio.ServiceModel.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.ServiceModel, Version=9.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{4C19756F-3A75-4907-A76B-865EAEE98A64}
+			Sign:14f4421a26c245e1f26e2d5d4928bfd992039e45
+		Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{19EAA005-72CE-437B-9E8D-EE5441E6B8B7}
+			Sign:10d7790d5ed48234273377cb2c8744e136335d77
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		System.Workflow.ComponentModel, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9BB13B3A-E61C-4AA3-A9FC-527C46854B21}
+			Sign:de0dd268798ca3c82f76853ea8a18024455ae293
+		System.WorkflowServices, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{50C6AC7A-C50C-413B-BA98-B5B7B434A8DC}
+			Sign:b0609d96aa092b431a7f4a2d82398355321e10ad
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{0D601CC0-9216-4C8A-8F6A-CCF2F8CA74DC}
+			Sign:78bd51da9e3f84576453da5488faa2d094865a8c
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+07/10/2013 08:58:48.562 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\Microsoft.VisualStudio.ServiceModel.dll
+07/10/2013 08:58:49.671 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WcfTestClient.exe
+07/10/2013 08:58:50.609 [3900]: 1>WcfTestClient, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:58:50.609 [3900]: 1>	Source MVID:	{848386CD-6B0B-4335-8D7E-31C8D2DCB6F5}
+	Source HASH:	5c9200ce3c7a6c210aa4a54ff1b5458cde959fca
+	NGen GUID sign:	{89347F92-CF4A-8B55-2075-480206DE6000}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WcfTestClient\927f34894acf558b2075480206de6000\WcfTestClient.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WcfTestClient, Version=9.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{848386CD-6B0B-4335-8D7E-31C8D2DCB6F5}
+			Sign:5c9200ce3c7a6c210aa4a54ff1b5458cde959fca
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+07/10/2013 08:58:50.625 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WcfTestClient.exe
+07/10/2013 08:58:51.296 [3900]: Failed to load dependency EnvDTE of assembly WindowsFormsIntegration.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+07/10/2013 08:58:51.484 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WindowsFormsIntegration.Design.dll
+07/10/2013 08:58:52.125 [3900]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+07/10/2013 08:58:52.125 [3900]: 1> while resolving 0x1000078 - EnvDTE.Project.
+07/10/2013 08:58:52.140 [3900]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+07/10/2013 08:58:52.140 [3900]: 1> while resolving 0xa00005e - VSLangProj.References.AddProject.
+07/10/2013 08:58:52.156 [3900]: 1>未能加载文件或程序集“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DesignerUtils.TryAddReferenceForTypeName
+07/10/2013 08:58:52.375 [3900]: 1>WindowsFormsIntegration.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:52.390 [3900]: 1>	Source MVID:	{4F6ECB1A-12E3-46F2-BED6-2C6AFD8D1BDF}
+	Source HASH:	e1acadeef1d71e43e28a0afba505a51f4a6b4653
+	NGen GUID sign:	{3BC91AEB-650F-E695-40A5-D497AE9A97F6}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WindowsFormsIntegra#\eb1ac93b0f6595e640a5d497ae9a97f6\WindowsFormsIntegration.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WindowsFormsIntegration.Design, Version=1.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4F6ECB1A-12E3-46F2-BED6-2C6AFD8D1BDF}
+			Sign:e1acadeef1d71e43e28a0afba505a51f4a6b4653
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		WindowsFormsIntegration, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1822B650-D779-4193-A16A-FF83928274CB}
+			Sign:a9798cf0b32f06481cb47449c926ab36a71626a7
+		WindowsFormsIntegration.Package, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F0E22EB6-C0E2-42C0-B942-DF8CB5E07437}
+			Sign:e41041be8799db892a0f57346e9c30ef07fc5a30
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		EnvDTE, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			** Missing dependency assembly **
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		Microsoft.VisualStudio.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7C7898E2-1E5B-4BB2-B448-520DE60F5869}
+			Sign:cc82711a3e7e84c06245aa381ad8871032b9bbb7
+
+07/10/2013 08:58:52.390 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WindowsFormsIntegration.Design.dll
+07/10/2013 08:58:53.000 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WindowsFormsIntegration.Package.dll
+07/10/2013 08:58:53.656 [3900]: 1>WindowsFormsIntegration.Package, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:53.671 [3900]: 1>	Source MVID:	{F0E22EB6-C0E2-42C0-B942-DF8CB5E07437}
+	Source HASH:	e41041be8799db892a0f57346e9c30ef07fc5a30
+	NGen GUID sign:	{D1E09BE2-B0D6-1FDD-1309-7FF4B95FC492}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WindowsFormsIntegra#\e29be0d1d6b0dd1f13097ff4b95fc492\WindowsFormsIntegration.Package.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WindowsFormsIntegration.Package, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F0E22EB6-C0E2-42C0-B942-DF8CB5E07437}
+			Sign:e41041be8799db892a0f57346e9c30ef07fc5a30
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		WindowsFormsIntegration, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1822B650-D779-4193-A16A-FF83928274CB}
+			Sign:a9798cf0b32f06481cb47449c926ab36a71626a7
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+
+07/10/2013 08:58:53.671 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WindowsFormsIntegration.Package.dll
+07/10/2013 08:58:54.625 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\SmartDevices\SDK\VisualStudio\Designer\Microsoft.CompactFramework.Design.dll
+07/10/2013 08:58:56.812 [3900]: 1>Microsoft.CompactFramework.Design, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:56.812 [3900]: 1>	Source MVID:	{C38DB051-5B1B-40C6-8575-C8EB4896FFAB}
+	Source HASH:	dbfb406a7f0441cd0ed1e559549c775816ddf988
+	NGen GUID sign:	{02C3F6D8-E586-E66B-FD08-475C6E132E95}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.CompactFr#\d8f6c30286e56be6fd08475c6e132e95\Microsoft.CompactFramework.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.CompactFramework.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C38DB051-5B1B-40C6-8575-C8EB4896FFAB}
+			Sign:dbfb406a7f0441cd0ed1e559549c775816ddf988
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.Designer.Interfaces, Version=1.0.5000.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{71DE76DC-100A-4DD3-A6CF-58201F44EF25}
+			Sign:9dc859b006e04b7730e66d27f3a62daaa7783cba
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		System.Drawing.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6F3DA73A-0E71-43D1-BD86-BD76C6630237}
+			Sign:cbd39a1354ac05782fb52c6d046e8444edab6659
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		Microsoft.CompactFramework.Build.Tasks, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1BEAEB02-5F6F-4DF8-99CC-5CF4D32782A4}
+			Sign:e29ba95a7aadccc1dc0e3d4e198acc6eedffdbbf
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		Microsoft.VisualStudio.DeviceConnectivity.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2889C34E-1AEE-4A2E-89D8-3AD08DAE7A4D}
+			Sign:997691ce5adc42645659297c6c2299c652abefd2
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Messaging, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{79F2D44A-73DD-466E-A8DF-BFA7DC161D43}
+			Sign:49970fc02f54b501d4a50c9533ab49f6137f2975
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+			Original Ref: EnvDTE, Version=7.0.3300.0
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+
+07/10/2013 08:58:56.828 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\SmartDevices\SDK\VisualStudio\Designer\Microsoft.CompactFramework.Design.dll
+07/10/2013 08:58:57.328 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\SmartDevices\SDK\VisualStudio\Designer\Microsoft.CompactFramework.Design.SmartPhone.dll
+07/10/2013 08:58:58.140 [3900]: 1>Microsoft.CompactFramework.Design.SmartPhone, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:58.140 [3900]: 1>	Source MVID:	{F9EA811A-2FEB-4E15-8791-094B2656C0A2}
+	Source HASH:	10139d27f08642dbc8e2803f20b16ba71f647ac3
+	NGen GUID sign:	{4569F2B0-AF57-85E4-DC34-2B663A81AAD7}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.CompactFr#\b0f2694557afe485dc342b663a81aad7\Microsoft.CompactFramework.Design.SmartPhone.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.CompactFramework.Design.SmartPhone, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F9EA811A-2FEB-4E15-8791-094B2656C0A2}
+			Sign:10139d27f08642dbc8e2803f20b16ba71f647ac3
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.CompactFramework.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C38DB051-5B1B-40C6-8575-C8EB4896FFAB}
+			Sign:dbfb406a7f0441cd0ed1e559549c775816ddf988
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+
+07/10/2013 08:58:58.156 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\SmartDevices\SDK\VisualStudio\Designer\Microsoft.CompactFramework.Design.SmartPhone.dll
+07/10/2013 08:58:58.656 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\VC\vcpackages\MetaGen.dll
+07/10/2013 08:58:59.078 [3900]: 1>MetaGen, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:59.078 [3900]: 1>	Source MVID:	{26DB23D6-6793-4577-8317-BB53C9BBD426}
+	Source HASH:	117a163c89950237090a92fddd3b1878bbc081a5
+	NGen GUID sign:	{E01B9E33-5E50-1579-747C-CCA8DD0353A5}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\MetaGen\339e1be0505e7915747ccca8dd0353a5\MetaGen.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		MetaGen, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{26DB23D6-6793-4577-8317-BB53C9BBD426}
+			Sign:117a163c89950237090a92fddd3b1878bbc081a5
+
+07/10/2013 08:58:59.078 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\VC\vcpackages\MetaGen.dll
+07/10/2013 08:58:59.593 [3900]: 1>Began compiling: C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.IdentityModel.dll
+07/10/2013 08:59:01.140 [3900]: 1>System.IdentityModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:59:01.140 [3900]: 1>	Source MVID:	{9878EB2F-4090-4613-9842-1DB4B755F993}
+	Source HASH:	2d6a11afa2ca1b115f562ffc7b2f48e99e3712a0
+	NGen GUID sign:	{B032EA92-4210-D6B7-D9EE-D6B2D66E38A3}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.IdentityModel\92ea32b01042b7d6d9eed6b2d66e38a3\System.IdentityModel.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.IdentityModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9878EB2F-4090-4613-9842-1DB4B755F993}
+			Sign:2d6a11afa2ca1b115f562ffc7b2f48e99e3712a0
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+07/10/2013 08:59:01.156 [3900]: 1>Successfully compiled: C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.IdentityModel.dll
+07/10/2013 08:59:01.625 [3900]: 1>Began compiling: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.IO.Log.dll
+07/10/2013 08:59:02.265 [3900]: 1>System.IO.Log, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:59:02.281 [3900]: 1>	Source MVID:	{6E747FAE-916C-405F-A29E-F538F331111A}
+	Source HASH:	3025c1c998fbaeef55dfa83db9bbc922f05d51b9
+	NGen GUID sign:	{C490DDE1-7766-E932-06AA-EDD6A7AEA044}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.IO.Log\e1dd90c4667732e906aaedd6a7aea044\System.IO.Log.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.IO.Log, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E747FAE-916C-405F-A29E-F538F331111A}
+			Sign:3025c1c998fbaeef55dfa83db9bbc922f05d51b9
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+07/10/2013 08:59:02.281 [3900]: 1>Successfully compiled: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.IO.Log.dll
+07/10/2013 08:59:02.781 [3900]: 1>Began compiling: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.Runtime.Serialization.dll
+07/10/2013 08:59:03.187 [3900]: 1>Warning: Failed to load method token 69000401 from profile data.
+07/10/2013 08:59:03.187 [3900]: 1>Warning: Failed to load method token 69000402 from profile data.
+07/10/2013 08:59:03.187 [3900]: 1>Warning: Failed to load method token 69000403 from profile data.
+07/10/2013 08:59:03.187 [3900]: 1>Warning: Failed to load method token 69000404 from profile data.
+07/10/2013 08:59:03.609 [3900]: 1>Warning: Failed to load method token 69000401 from profile data.
+07/10/2013 08:59:03.609 [3900]: 1>Warning: Failed to load method token 69000402 from profile data.
+07/10/2013 08:59:03.609 [3900]: 1>Warning: Failed to load method token 69000403 from profile data.
+07/10/2013 08:59:03.609 [3900]: 1>Warning: Failed to load method token 69000404 from profile data.
+07/10/2013 08:59:05.343 [3900]: 1>Warning: Failed to load method token 69000401 from profile data.
+07/10/2013 08:59:05.343 [3900]: 1>Warning: Failed to load method token 69000402 from profile data.
+07/10/2013 08:59:05.343 [3900]: 1>Warning: Failed to load method token 69000403 from profile data.
+07/10/2013 08:59:05.343 [3900]: 1>Warning: Failed to load method token 69000404 from profile data.
+07/10/2013 08:59:05.687 [3900]: 1>System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:59:05.687 [3900]: 1>	Source MVID:	{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+	Source HASH:	32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+	NGen GUID sign:	{C4F0BFAF-2DDF-1EDD-111F-9E594279CB19}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Runtime.Seri#\afbff0c4df2ddd1e111f9e594279cb19\System.Runtime.Serialization.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+07/10/2013 08:59:05.687 [3900]: 1>Successfully compiled: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.Runtime.Serialization.dll
+07/10/2013 08:59:06.671 [3900]: 1>Began compiling: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.ServiceModel.dll
+07/10/2013 08:59:33.203 [3900]: 1>System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:59:33.218 [3900]: 1>	Source MVID:	{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+	Source HASH:	335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+	NGen GUID sign:	{35A78140-3787-ECFE-9003-394204AB7293}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.ServiceModel\4081a7358737feec9003394204ab7293\System.ServiceModel.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.IdentityModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9878EB2F-4090-4613-9842-1DB4B755F993}
+			Sign:2d6a11afa2ca1b115f562ffc7b2f48e99e3712a0
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Messaging, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{79F2D44A-73DD-466E-A8DF-BFA7DC161D43}
+			Sign:49970fc02f54b501d4a50c9533ab49f6137f2975
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		Microsoft.Transactions.Bridge, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EE1F95F0-014D-4F12-82A3-8C736A4E41E5}
+			Sign:ea5072e9a25f921cc193a9f5bc0e24c8c9acea07
+
+07/10/2013 08:57:20.187 [3900]: 1>Successfully compiled: System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:20.296 [3900]: Operation completed. VA Usage: 7622656. Handle count: 128
+07/10/2013 08:57:20.359 [3900]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+07/10/2013 08:57:20.687 [3900]: 1>Began compiling: UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:21.250 [3900]: 1>UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:21.250 [3900]: 1>	Source MVID:	{F093916D-222B-4C22-836E-277CCABADE6E}
+	Source HASH:	5d41d566e989cd66cefc96a3fdd09328e3cf60ab
+	NGen GUID sign:	{FBC0122E-D72D-F15B-C6BC-3E2893AF82D6}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\UIAutomationClient\2e12c0fb2dd75bf1c6bc3e2893af82d6\UIAutomationClient.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		UIAutomationClient, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{F093916D-222B-4C22-836E-277CCABADE6E}
+			Sign:5d41d566e989cd66cefc96a3fdd09328e3cf60ab
+		UIAutomationTypes, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1E01F40B-07FC-48FC-96E7-153A4639B001}
+			Sign:40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+		UIAutomationProvider, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1A344744-D517-487E-B9A3-EF3A87D117E4}
+			Sign:f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+
+07/10/2013 08:57:21.250 [3900]: 1>Successfully compiled: UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:21.593 [3900]: 1>Began compiling: UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:22.593 [3900]: 1>UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:22.593 [3900]: 1>	Source MVID:	{47901C72-912E-4BC3-AC04-1F9749109253}
+	Source HASH:	5060f51d0355bdccd42dd9a41b65a70705f4fd66
+	NGen GUID sign:	{928BF2F7-BE11-BFDA-1031-99DE9EC03776}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\UIAutomationClients#\f7f28b9211bedabf103199de9ec03776\UIAutomationClientsideProviders.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		UIAutomationClientsideProviders, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{47901C72-912E-4BC3-AC04-1F9749109253}
+			Sign:5060f51d0355bdccd42dd9a41b65a70705f4fd66
+		UIAutomationProvider, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1A344744-D517-487E-B9A3-EF3A87D117E4}
+			Sign:f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		UIAutomationTypes, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1E01F40B-07FC-48FC-96E7-153A4639B001}
+			Sign:40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+		UIAutomationClient, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{F093916D-222B-4C22-836E-277CCABADE6E}
+			Sign:5d41d566e989cd66cefc96a3fdd09328e3cf60ab
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+
+07/10/2013 08:57:22.609 [3900]: 1>Successfully compiled: UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:22.937 [3900]: 1>Began compiling: UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.203 [3900]: 1>UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.203 [3900]: 1>	Source MVID:	{1A344744-D517-487E-B9A3-EF3A87D117E4}
+	Source HASH:	f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+	NGen GUID sign:	{E742E1FC-9D00-D57C-87B5-D8FBC20F5448}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\UIAutomationProvider\fce142e7009d7cd587b5d8fbc20f5448\UIAutomationProvider.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		UIAutomationProvider, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1A344744-D517-487E-B9A3-EF3A87D117E4}
+			Sign:f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+		UIAutomationTypes, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1E01F40B-07FC-48FC-96E7-153A4639B001}
+			Sign:40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+
+07/10/2013 08:57:23.203 [3900]: 1>Successfully compiled: UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.515 [3900]: 1>Began compiling: UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.859 [3900]: 1>UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:23.859 [3900]: 1>	Source MVID:	{1E01F40B-07FC-48FC-96E7-153A4639B001}
+	Source HASH:	40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+	NGen GUID sign:	{C0ABBC73-9F16-2EE8-DB09-ED01BD0803DD}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\UIAutomationTypes\73bcabc0169fe82edb09ed01bd0803dd\UIAutomationTypes.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		UIAutomationTypes, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1E01F40B-07FC-48FC-96E7-153A4639B001}
+			Sign:40b2899e8109c4bbdfe6543647ea4d2f4b09ad46
+
+07/10/2013 08:57:23.859 [3900]: 1>Successfully compiled: UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:24.312 [3900]: Operation completed. VA Usage: 7700480. Handle count: 126
+07/10/2013 08:57:24.375 [3900]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+07/10/2013 08:57:24.843 [3900]: 1>Began compiling: WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.593 [3900]: 1>WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.593 [3900]: 1>	Source MVID:	{1822B650-D779-4193-A16A-FF83928274CB}
+	Source HASH:	a9798cf0b32f06481cb47449c926ab36a71626a7
+	NGen GUID sign:	{0E2405C5-327A-CAE9-67DB-D9CCE3C394D4}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WindowsFormsIntegra#\c505240e7a32e9ca67dbd9cce3c394d4\WindowsFormsIntegration.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WindowsFormsIntegration, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1822B650-D779-4193-A16A-FF83928274CB}
+			Sign:a9798cf0b32f06481cb47449c926ab36a71626a7
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		UIAutomationProvider, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1A344744-D517-487E-B9A3-EF3A87D117E4}
+			Sign:f9d15a1e69f39cfaa43216fe6ba741a15d701a61
+
+07/10/2013 08:57:25.593 [3900]: 1>Successfully compiled: WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.640 [3900]: Deleting native image for assembly PresentationBuildTasks, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.703 [3900]: Deleting native image for assembly PresentationCFFRasterizer, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.781 [3900]: Deleting native image for assembly PresentationFontCache, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.843 [3900]: Deleting native image for assembly PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.906 [3900]: Deleting native image for assembly PresentationFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:25.968 [3900]: Deleting native image for assembly PresentationFramework.Aero, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.046 [3900]: Deleting native image for assembly PresentationFramework.Classic, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.125 [3900]: Deleting native image for assembly PresentationFramework.Royale, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.203 [3900]: Deleting native image for assembly ReachFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.296 [3900]: Deleting native image for assembly System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.375 [3900]: Deleting native image for assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.421 [3900]: Deleting native image for assembly System.Data.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.500 [3900]: Deleting native image for assembly System.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:57:26.593 [3900]: Deleting native image for assembly System.Drawing.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:57:26.671 [3900]: Deleting native image for assembly System.Printing, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:26.734 [3900]: Deleting native image for assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:57:26.796 [3900]: Deleting native image for assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.875 [3900]: Deleting native image for assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:26.937 [3900]: Deleting native image for assembly UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.000 [3900]: Deleting native image for assembly UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.078 [3900]: Deleting native image for assembly UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.140 [3900]: Deleting native image for assembly UIAutomationTypes, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.203 [3900]: Deleting native image for assembly WindowsBase, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.281 [3900]: Deleting native image for assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:57:27.343 [3900]: Deleting native image for assembly WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:57:27.406 [3900]: Total number of workers used: 97
+07/10/2013 08:57:27.515 [3900]: Total number of workers used: 0
+07/10/2013 08:58:42.625 [3900]: Processing work for priority 3
+07/10/2013 08:58:42.625 [3900]: Assemblies to compile: 235
+07/10/2013 08:58:42.937 [3900]: 1>Began compiling: Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:43.187 [3900]: 1>Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:43.187 [3900]: 1>	Source MVID:	{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+	Source HASH:	265c33859266f9316aefe9844e022db187b343df
+	NGen GUID sign:	{469A798F-3888-2416-DE3C-FB1EDBCCB163}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1">
+<IPermission class="System.Security.Permissions.SecurityPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+version="1"
+Flags="SkipVerification"/>
+</PermissionSet>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Accessibility\8f799a4688381624de3cfb1edbccb163\Accessibility.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+
+07/10/2013 08:58:43.187 [3900]: 1>Successfully compiled: Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:43.265 [3900]: Operation completed. VA Usage: 7598080. Handle count: 126
+07/10/2013 08:58:43.328 [3900]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+07/10/2013 08:58:43.656 [3900]: 1>Began compiling: AspNetMMCExt, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:44.437 [3900]: 1>AspNetMMCExt, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:44.437 [3900]: 1>	Source MVID:	{20900E81-B4B2-4C5B-9C73-69551A873998}
+	Source HASH:	e34d05c176148bbb386d1d8a2c9fd5cd4fb43cbb
+	NGen GUID sign:	{21C6E4CA-7FD3-B2AC-3872-43E6C0A6C3C1}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\AspNetMMCExt\cae4c621d37facb2387243e6c0a6c3c1\AspNetMMCExt.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		AspNetMMCExt, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{20900E81-B4B2-4C5B-9C73-69551A873998}
+			Sign:e34d05c176148bbb386d1d8a2c9fd5cd4fb43cbb
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+
+07/10/2013 08:58:44.453 [3900]: 1>Successfully compiled: AspNetMMCExt, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:44.718 [3900]: Operation completed. VA Usage: 7696384. Handle count: 125
+07/10/2013 08:58:44.828 [3900]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+07/10/2013 08:58:45.265 [3900]: 1>Began compiling: C:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\envdte.dll
+07/10/2013 08:58:45.859 [3900]: 1>EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:45.859 [3900]: 1>	Source MVID:	{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+	Source HASH:	16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+	NGen GUID sign:	{CC8CD405-AA14-409A-E6C3-A37E4D799A8C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\EnvDTE\05d48ccc14aa9a40e6c3a37e4d799a8c\EnvDTE.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+
+07/10/2013 08:58:45.859 [3900]: 1>Successfully compiled: C:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\envdte.dll
+07/10/2013 08:58:47.265 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\Microsoft.VisualStudio.ServiceModel.dll
+07/10/2013 08:58:48.546 [3900]: 1>Microsoft.VisualStudio.ServiceModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:58:48.546 [3900]: 1>	Source MVID:	{4C19756F-3A75-4907-A76B-865EAEE98A64}
+	Source HASH:	14f4421a26c245e1f26e2d5d4928bfd992039e45
+	NGen GUID sign:	{49D47593-B090-0080-30AC-9B0B44BAF4DD}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\9375d44990b0800030ac9b0b44baf4dd\Microsoft.VisualStudio.ServiceModel.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.ServiceModel, Version=9.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{4C19756F-3A75-4907-A76B-865EAEE98A64}
+			Sign:14f4421a26c245e1f26e2d5d4928bfd992039e45
+		Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{19EAA005-72CE-437B-9E8D-EE5441E6B8B7}
+			Sign:10d7790d5ed48234273377cb2c8744e136335d77
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		System.Workflow.ComponentModel, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9BB13B3A-E61C-4AA3-A9FC-527C46854B21}
+			Sign:de0dd268798ca3c82f76853ea8a18024455ae293
+		System.WorkflowServices, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{50C6AC7A-C50C-413B-BA98-B5B7B434A8DC}
+			Sign:b0609d96aa092b431a7f4a2d82398355321e10ad
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{0D601CC0-9216-4C8A-8F6A-CCF2F8CA74DC}
+			Sign:78bd51da9e3f84576453da5488faa2d094865a8c
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+07/10/2013 08:58:48.562 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\Microsoft.VisualStudio.ServiceModel.dll
+07/10/2013 08:58:49.671 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WcfTestClient.exe
+07/10/2013 08:58:50.609 [3900]: 1>WcfTestClient, Version=9.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+07/10/2013 08:58:50.609 [3900]: 1>	Source MVID:	{848386CD-6B0B-4335-8D7E-31C8D2DCB6F5}
+	Source HASH:	5c9200ce3c7a6c210aa4a54ff1b5458cde959fca
+	NGen GUID sign:	{89347F92-CF4A-8B55-2075-480206DE6000}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WcfTestClient\927f34894acf558b2075480206de6000\WcfTestClient.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WcfTestClient, Version=9.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{848386CD-6B0B-4335-8D7E-31C8D2DCB6F5}
+			Sign:5c9200ce3c7a6c210aa4a54ff1b5458cde959fca
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+07/10/2013 08:58:50.625 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WcfTestClient.exe
+07/10/2013 08:58:51.296 [3900]: Failed to load dependency EnvDTE of assembly WindowsFormsIntegration.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+07/10/2013 08:58:51.484 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WindowsFormsIntegration.Design.dll
+07/10/2013 08:58:52.125 [3900]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+07/10/2013 08:58:52.125 [3900]: 1> while resolving 0x1000078 - EnvDTE.Project.
+07/10/2013 08:58:52.140 [3900]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+07/10/2013 08:58:52.140 [3900]: 1> while resolving 0xa00005e - VSLangProj.References.AddProject.
+07/10/2013 08:58:52.156 [3900]: 1>未能加载文件或程序集“EnvDTE, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”或它的某一个依赖项。系统找不到指定的文件。 while compiling method DesignerUtils.TryAddReferenceForTypeName
+07/10/2013 08:58:52.375 [3900]: 1>WindowsFormsIntegration.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:52.390 [3900]: 1>	Source MVID:	{4F6ECB1A-12E3-46F2-BED6-2C6AFD8D1BDF}
+	Source HASH:	e1acadeef1d71e43e28a0afba505a51f4a6b4653
+	NGen GUID sign:	{3BC91AEB-650F-E695-40A5-D497AE9A97F6}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WindowsFormsIntegra#\eb1ac93b0f6595e640a5d497ae9a97f6\WindowsFormsIntegration.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WindowsFormsIntegration.Design, Version=1.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4F6ECB1A-12E3-46F2-BED6-2C6AFD8D1BDF}
+			Sign:e1acadeef1d71e43e28a0afba505a51f4a6b4653
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		WindowsFormsIntegration, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1822B650-D779-4193-A16A-FF83928274CB}
+			Sign:a9798cf0b32f06481cb47449c926ab36a71626a7
+		WindowsFormsIntegration.Package, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F0E22EB6-C0E2-42C0-B942-DF8CB5E07437}
+			Sign:e41041be8799db892a0f57346e9c30ef07fc5a30
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		EnvDTE, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			** Missing dependency assembly **
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		Microsoft.VisualStudio.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7C7898E2-1E5B-4BB2-B448-520DE60F5869}
+			Sign:cc82711a3e7e84c06245aa381ad8871032b9bbb7
+
+07/10/2013 08:58:52.390 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WindowsFormsIntegration.Design.dll
+07/10/2013 08:58:53.000 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WindowsFormsIntegration.Package.dll
+07/10/2013 08:58:53.656 [3900]: 1>WindowsFormsIntegration.Package, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:53.671 [3900]: 1>	Source MVID:	{F0E22EB6-C0E2-42C0-B942-DF8CB5E07437}
+	Source HASH:	e41041be8799db892a0f57346e9c30ef07fc5a30
+	NGen GUID sign:	{D1E09BE2-B0D6-1FDD-1309-7FF4B95FC492}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WindowsFormsIntegra#\e29be0d1d6b0dd1f13097ff4b95fc492\WindowsFormsIntegration.Package.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WindowsFormsIntegration.Package, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F0E22EB6-C0E2-42C0-B942-DF8CB5E07437}
+			Sign:e41041be8799db892a0f57346e9c30ef07fc5a30
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		WindowsFormsIntegration, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{1822B650-D779-4193-A16A-FF83928274CB}
+			Sign:a9798cf0b32f06481cb47449c926ab36a71626a7
+		PresentationCore, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E0F0ED13-B142-47B4-92E9-5D34FB0A71E0}
+			Sign:914bc48117d70b0ec3582e161daeb0fcdd18539d
+		WindowsBase, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E4A363DA-09B9-4937-885A-785C14575B51}
+			Sign:3cd3722fc694c1fcaf35153437185256587aa087
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		PresentationFramework, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{71ACA837-B328-4833-BAB1-573C028A266D}
+			Sign:0c163b52b45d7e024e1eee7a008beaa051ef5bd6
+
+07/10/2013 08:58:53.671 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\WindowsFormsIntegration.Package.dll
+07/10/2013 08:58:54.625 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\SmartDevices\SDK\VisualStudio\Designer\Microsoft.CompactFramework.Design.dll
+07/10/2013 08:58:56.812 [3900]: 1>Microsoft.CompactFramework.Design, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:56.812 [3900]: 1>	Source MVID:	{C38DB051-5B1B-40C6-8575-C8EB4896FFAB}
+	Source HASH:	dbfb406a7f0441cd0ed1e559549c775816ddf988
+	NGen GUID sign:	{02C3F6D8-E586-E66B-FD08-475C6E132E95}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.CompactFr#\d8f6c30286e56be6fd08475c6e132e95\Microsoft.CompactFramework.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.CompactFramework.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C38DB051-5B1B-40C6-8575-C8EB4896FFAB}
+			Sign:dbfb406a7f0441cd0ed1e559549c775816ddf988
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.Designer.Interfaces, Version=1.0.5000.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{71DE76DC-100A-4DD3-A6CF-58201F44EF25}
+			Sign:9dc859b006e04b7730e66d27f3a62daaa7783cba
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		System.Drawing.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6F3DA73A-0E71-43D1-BD86-BD76C6630237}
+			Sign:cbd39a1354ac05782fb52c6d046e8444edab6659
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		Microsoft.CompactFramework.Build.Tasks, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1BEAEB02-5F6F-4DF8-99CC-5CF4D32782A4}
+			Sign:e29ba95a7aadccc1dc0e3d4e198acc6eedffdbbf
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		Microsoft.VisualStudio.DeviceConnectivity.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2889C34E-1AEE-4A2E-89D8-3AD08DAE7A4D}
+			Sign:997691ce5adc42645659297c6c2299c652abefd2
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Messaging, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{79F2D44A-73DD-466E-A8DF-BFA7DC161D43}
+			Sign:49970fc02f54b501d4a50c9533ab49f6137f2975
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+			Original Ref: EnvDTE, Version=7.0.3300.0
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+
+07/10/2013 08:58:56.828 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\SmartDevices\SDK\VisualStudio\Designer\Microsoft.CompactFramework.Design.dll
+07/10/2013 08:58:57.328 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\SmartDevices\SDK\VisualStudio\Designer\Microsoft.CompactFramework.Design.SmartPhone.dll
+07/10/2013 08:58:58.140 [3900]: 1>Microsoft.CompactFramework.Design.SmartPhone, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:58.140 [3900]: 1>	Source MVID:	{F9EA811A-2FEB-4E15-8791-094B2656C0A2}
+	Source HASH:	10139d27f08642dbc8e2803f20b16ba71f647ac3
+	NGen GUID sign:	{4569F2B0-AF57-85E4-DC34-2B663A81AAD7}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.CompactFr#\b0f2694557afe485dc342b663a81aad7\Microsoft.CompactFramework.Design.SmartPhone.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.CompactFramework.Design.SmartPhone, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F9EA811A-2FEB-4E15-8791-094B2656C0A2}
+			Sign:10139d27f08642dbc8e2803f20b16ba71f647ac3
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.CompactFramework.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C38DB051-5B1B-40C6-8575-C8EB4896FFAB}
+			Sign:dbfb406a7f0441cd0ed1e559549c775816ddf988
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+
+07/10/2013 08:58:58.156 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\SmartDevices\SDK\VisualStudio\Designer\Microsoft.CompactFramework.Design.SmartPhone.dll
+07/10/2013 08:58:58.656 [3900]: 1>Began compiling: C:\Program Files\Microsoft Visual Studio 9.0\VC\vcpackages\MetaGen.dll
+07/10/2013 08:58:59.078 [3900]: 1>MetaGen, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:58:59.078 [3900]: 1>	Source MVID:	{26DB23D6-6793-4577-8317-BB53C9BBD426}
+	Source HASH:	117a163c89950237090a92fddd3b1878bbc081a5
+	NGen GUID sign:	{E01B9E33-5E50-1579-747C-CCA8DD0353A5}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\MetaGen\339e1be0505e7915747ccca8dd0353a5\MetaGen.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		MetaGen, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{26DB23D6-6793-4577-8317-BB53C9BBD426}
+			Sign:117a163c89950237090a92fddd3b1878bbc081a5
+
+07/10/2013 08:58:59.078 [3900]: 1>Successfully compiled: C:\Program Files\Microsoft Visual Studio 9.0\VC\vcpackages\MetaGen.dll
+07/10/2013 08:58:59.593 [3900]: 1>Began compiling: C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.IdentityModel.dll
+07/10/2013 08:59:01.140 [3900]: 1>System.IdentityModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:59:01.140 [3900]: 1>	Source MVID:	{9878EB2F-4090-4613-9842-1DB4B755F993}
+	Source HASH:	2d6a11afa2ca1b115f562ffc7b2f48e99e3712a0
+	NGen GUID sign:	{B032EA92-4210-D6B7-D9EE-D6B2D66E38A3}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.IdentityModel\92ea32b01042b7d6d9eed6b2d66e38a3\System.IdentityModel.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.IdentityModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9878EB2F-4090-4613-9842-1DB4B755F993}
+			Sign:2d6a11afa2ca1b115f562ffc7b2f48e99e3712a0
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+07/10/2013 08:59:01.156 [3900]: 1>Successfully compiled: C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.IdentityModel.dll
+07/10/2013 08:59:01.625 [3900]: 1>Began compiling: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.IO.Log.dll
+07/10/2013 08:59:02.265 [3900]: 1>System.IO.Log, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+07/10/2013 08:59:02.281 [3900]: 1>	Source MVID:	{6E747FAE-916C-405F-A29E-F538F331111A}
+	Source HASH:	3025c1c998fbaeef55dfa83db9bbc922f05d51b9
+	NGen GUID sign:	{C490DDE1-7766-E932-06AA-EDD6A7AEA044}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.IO.Log\e1dd90c4667732e906aaedd6a7aea044\System.IO.Log.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.IO.Log, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E747FAE-916C-405F-A29E-F538F331111A}
+			Sign:3025c1c998fbaeef55dfa83db9bbc922f05d51b9
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+07/10/2013 08:59:02.281 [3900]: 1>Successfully compiled: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.IO.Log.dll
+07/10/2013 08:59:02.781 [3900]: 1>Began compiling: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.Runtime.Serialization.dll
+07/10/2013 08:59:03.187 [3900]: 1>Warning: Failed to load method token 69000401 from profile data.
+07/10/2013 08:59:03.187 [3900]: 1>Warning: Failed to load method token 69000402 from profile data.
+07/10/2013 08:59:03.187 [3900]: 1>Warning: Failed to load method token 69000403 from profile data.
+07/10/2013 08:59:03.187 [3900]: 1>Warning: Failed to load method token 69000404 from profile data.
+07/10/2013 08:59:03.609 [3900]: 1>Warning: Failed to load method token 69000401 from profile data.
+07/10/2013 08:59:03.609 [3900]: 1>Warning: Failed to load method token 69000402 from profile data.
+07/10/2013 08:59:03.609 [3900]: 1>Warning: Failed to load method token 69000403 from profile data.
+07/10/2013 08:59:03.609 [3900]: 1>Warning: Failed to load method token 69000404 from profile data.
+07/10/2013 08:59:05.343 [3900]: 1>Warning: Failed to load method token 69000401 from profile data.
+07/10/2013 08:59:05.343 [3900]: 1>Warning: Failed to load method token 69000402 from profile data.
+07/10/2013 08:59:05.343 [3900]: 1>Warning: Failed to load method token 69000403 from profile data.
+07/10/2013 08:59:05.343 [3900]: 1>Warning: Failed to load method token 69000404 from profile data.
+07/10/2013 08:59:05.687 [3900]: 1>System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:59:05.687 [3900]: 1>	Source MVID:	{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+	Source HASH:	32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+	NGen GUID sign:	{C4F0BFAF-2DDF-1EDD-111F-9E594279CB19}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Runtime.Seri#\afbff0c4df2ddd1e111f9e594279cb19\System.Runtime.Serialization.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+07/10/2013 08:59:05.687 [3900]: 1>Successfully compiled: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.Runtime.Serialization.dll
+07/10/2013 08:59:06.671 [3900]: 1>Began compiling: c:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.ServiceModel.dll
+07/10/2013 08:59:33.203 [3900]: 1>System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+07/10/2013 08:59:33.218 [3900]: 1>	Source MVID:	{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+	Source HASH:	335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+	NGen GUID sign:	{35A78140-3787-ECFE-9003-394204AB7293}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.ServiceModel\4081a7358737feec9003394204ab7293\System.ServiceModel.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{542C5616-8897-E951-2DB8-FEC6F759BBA1}
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E9147162-5A8E-45DD-9647-3702CF283E05}
+			Sign:d690c1a9f445dda7e8eaee43eeeeec0263f64a20
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.IdentityModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9878EB2F-4090-4613-9842-1DB4B755F993}
+			Sign:2d6a11afa2ca1b115f562ffc7b2f48e99e3712a0
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6A89130B-F291-4236-8767-7217F030D564}
+			Sign:e2eff56f2d4fee7ef03c483db3a1376bcb545f7e
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Messaging, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{79F2D44A-73DD-466E-A8DF-BFA7DC161D43}
+			Sign:49970fc02f54b501d4a50c9533ab49f6137f2975
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		Microsoft.Transactions.Bridge, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:

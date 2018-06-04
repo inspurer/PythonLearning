@@ -1,0 +1,2000 @@
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.OnDockPositionChanged
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method Helpers.RemoveCachedData
+10/09/2013 12:40:29.125 [2036]: 1>Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:29.125 [2036]: 1>	Source MVID:	{D255D071-38FA-45A9-9769-95F057CF7454}
+	Source HASH:	bca6324561074108429018c1cc2e783c2b6d5b13
+	NGen GUID sign:	{15EB69B1-B1D8-F131-3D4A-5D53A0A5E03B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\b169eb15d8b131f13d4a5d53a0a5e03b\Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D255D071-38FA-45A9-9769-95F057CF7454}
+			Sign:bca6324561074108429018c1cc2e783c2b6d5b13
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6EFD4579-1744-4892-B7F3-2D6B5CA70B51}
+			Sign:7324b2ffc41155ef1a95320eb2fc86988c1eea31
+		Microsoft.VisualStudio.Tools.Office.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C375B68B-479A-4756-BDD0-409028A1CFA0}
+			Sign:a82e03d7464fa2abedec9e7187c21d8f66cc04c8
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		office, Version=12.0.0.0, PublicKeyToken=71e9bce111e9429c:
+			** Missing dependency assembly **
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:40:29.125 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:29.531 [2036]: Failed to load dependency Microsoft.VisualStudio.Tools.Applications.Contract of assembly Microsoft.VisualStudio.Tools.Office.ProgrammingModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:30.843 [2036]: Failed to load dependency Microsoft.Office.Interop.Word of assembly Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:34.328 [2036]: Operation completed. VA Usage: 7716864. Handle count: 126
+10/09/2013 12:40:34.421 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:34.687 [2036]: Operation completed. VA Usage: 7729152. Handle count: 126
+10/09/2013 12:40:34.750 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:34.875 [2036]: Operation completed. VA Usage: 7712768. Handle count: 126
+10/09/2013 12:40:34.937 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:35.390 [2036]: Operation completed. VA Usage: 8269824. Handle count: 131
+10/09/2013 12:40:35.531 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:35.875 [2036]: Operation completed. VA Usage: 8261632. Handle count: 127
+10/09/2013 12:40:35.968 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:36.312 [2036]: Operation completed. VA Usage: 7720960. Handle count: 126
+10/09/2013 12:40:36.359 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:36.640 [2036]: Operation completed. VA Usage: 7725056. Handle count: 126
+10/09/2013 12:40:36.687 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:37.234 [2036]: Operation completed. VA Usage: 7933952. Handle count: 130
+10/09/2013 12:40:37.359 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:38.343 [2036]: Operation completed. VA Usage: 8048640. Handle count: 126
+10/09/2013 12:40:38.421 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:38.640 [2036]: Operation completed. VA Usage: 7999488. Handle count: 127
+10/09/2013 12:40:38.734 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:39.046 [2036]: Operation completed. VA Usage: 7905280. Handle count: 127
+10/09/2013 12:40:39.093 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:39.343 [2036]: Operation completed. VA Usage: 7753728. Handle count: 125
+10/09/2013 12:40:39.390 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:40.062 [2036]: Operation completed. VA Usage: 8085504. Handle count: 126
+10/09/2013 12:40:40.109 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:40.546 [2036]: Operation completed. VA Usage: 7630848. Handle count: 126
+10/09/2013 12:40:40.609 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:40.796 [2036]: 1>Began compiling: System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:40:41.046 [2036]: 1>System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:40:41.046 [2036]: 1>	Source MVID:	{4F252A34-4C92-4E9B-A4C0-81C83D8D3FCE}
+	Source HASH:	91522c416ce640a0aa0fb27b926c59f07345964d
+	NGen GUID sign:	{0503C817-A26E-5EAF-2E28-CBBF50981620}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.ComponentMod#\17c803056ea2af5e2e28cbbf50981620\System.ComponentModel.DataAnnotations.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.ComponentModel.DataAnnotations, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{4F252A34-4C92-4E9B-A4C0-81C83D8D3FCE}
+			Sign:91522c416ce640a0aa0fb27b926c59f07345964d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:40:41.046 [2036]: 1>Successfully compiled: System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:40:41.328 [2036]: Operation completed. VA Usage: 7704576. Handle count: 126
+10/09/2013 12:40:41.375 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:41.609 [2036]: Operation completed. VA Usage: 7614464. Handle count: 127
+10/09/2013 12:40:41.656 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:41.734 [2036]: Operation completed. VA Usage: 7700480. Handle count: 126
+10/09/2013 12:40:41.796 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:42.015 [2036]: 1>Began compiling: System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:40:42.406 [2036]: 1>System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:40:42.406 [2036]: 1>	Source MVID:	{F27FD3DE-B9C5-4623-BFA1-B3906243D08F}
+	Source HASH:	7d59d8e932988d8034d3e03511bd052145586ffe
+	NGen GUID sign:	{F85DC58D-56C9-594A-8BE1-AF42BBA12414}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.DataSet#\8dc55df8c9564a598be1af42bba12414\System.Data.DataSetExtensions.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.DataSetExtensions, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{F27FD3DE-B9C5-4623-BFA1-B3906243D08F}
+			Sign:7d59d8e932988d8034d3e03511bd052145586ffe
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:40:42.421 [2036]: 1>Successfully compiled: System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:40:42.828 [2036]: Operation completed. VA Usage: 8105984. Handle count: 130
+10/09/2013 12:40:42.875 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:43.187 [2036]: 1>Began compiling: System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:22.453 [2036]: 1>System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:22.453 [2036]: 1>	Source MVID:	{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+	Source HASH:	8802b5dfcbafec39219878246d191c72c6c2d9cd
+	NGen GUID sign:	{9AA12966-3E89-DB05-CCE1-3417CA774D0A}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Entity\6629a19a893e05dbcce13417ca774d0a\System.Data.Entity.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+10/09/2013 12:41:22.468 [2036]: 1>Successfully compiled: System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:24.906 [2036]: Operation completed. VA Usage: 8495104. Handle count: 126
+10/09/2013 12:41:24.953 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:25.390 [2036]: 1>Began compiling: System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:26.625 [2036]: 1>System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:26.640 [2036]: 1>	Source MVID:	{7EFAE28D-7EFA-45D2-90EB-FB74D7B4E642}
+	Source HASH:	0910e4e9a55bafbb4252ed6f4b3adfc18e259c1d
+	NGen GUID sign:	{9228B1F3-D918-3665-BA89-6E4D10ED1FEF}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Entity.#\f3b1289218d96536ba896e4d10ed1fef\System.Data.Entity.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Entity.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{7EFAE28D-7EFA-45D2-90EB-FB74D7B4E642}
+			Sign:0910e4e9a55bafbb4252ed6f4b3adfc18e259c1d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+
+10/09/2013 12:41:26.640 [2036]: 1>Successfully compiled: System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:27.390 [2036]: Operation completed. VA Usage: 8585216. Handle count: 126
+10/09/2013 12:41:27.437 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:27.718 [2036]: Operation completed. VA Usage: 8093696. Handle count: 130
+10/09/2013 12:41:27.765 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:28.218 [2036]: 1>Began compiling: System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:31.125 [2036]: 1>System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:31.140 [2036]: 1>	Source MVID:	{98C895D7-D08D-4E52-A357-97B2B97AC2E1}
+	Source HASH:	0cf7b2e80ccdef53b8da83e19f8fae598ed09a21
+	NGen GUID sign:	{7C2261BC-44CD-B2F7-84A9-5D2899CF1A82}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Services\bc61227ccd44f7b284a95d2899cf1a82\System.Data.Services.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{98C895D7-D08D-4E52-A357-97B2B97AC2E1}
+			Sign:0cf7b2e80ccdef53b8da83e19f8fae598ed09a21
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E5EBADF1-78D2-4487-BBC3-746BF6FA7D10}
+			Sign:92f1ac42158c42d45c1bd28783c98556a1ad1f1d
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Data.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{12F4CE3D-8031-4D2B-8BD2-46FAD5B559B1}
+			Sign:b1cf1875852d465f76bab79febea351ed8679987
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+10/09/2013 12:41:31.140 [2036]: 1>Successfully compiled: System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:31.875 [2036]: Operation completed. VA Usage: 8507392. Handle count: 127
+10/09/2013 12:41:31.921 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:32.125 [2036]: 1>Began compiling: System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:33.562 [2036]: 1>System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:33.562 [2036]: 1>	Source MVID:	{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+	Source HASH:	261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+	NGen GUID sign:	{EDCC67FE-F3DB-D1F0-37B9-BFFCE7DC1B7D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\fe67cceddbf3f0d137b9bffce7dc1b7d\System.Data.Services.Client.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+
+10/09/2013 12:41:33.578 [2036]: 1>Successfully compiled: System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:33.718 [2036]: Operation completed. VA Usage: 7655424. Handle count: 126
+10/09/2013 12:41:33.765 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:34.031 [2036]: 1>Began compiling: System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:34.625 [2036]: 1>System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:34.625 [2036]: 1>	Source MVID:	{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+	Source HASH:	ff05c0084051102c5721a6c84cca7cfabf7c7fad
+	NGen GUID sign:	{89437D66-9E56-7448-AAEB-B21CC96D9D69}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\667d4389569e4874aaebb21cc96d9d69\System.Data.Services.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+			Sign:ff05c0084051102c5721a6c84cca7cfabf7c7fad
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+
+10/09/2013 12:41:34.640 [2036]: 1>Successfully compiled: System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:35.203 [2036]: Operation completed. VA Usage: 8503296. Handle count: 131
+10/09/2013 12:41:35.250 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:35.312 [2036]: Operation completed. VA Usage: 7630848. Handle count: 126
+10/09/2013 12:41:35.359 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:35.546 [2036]: 1>Began compiling: System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:41:36.843 [2036]: 1>System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:41:36.843 [2036]: 1>	Source MVID:	{77AC3459-1801-458D-A028-0A4061F900D7}
+	Source HASH:	13d2d635c31b9a39c9c880379f3b27a654150933
+	NGen GUID sign:	{E3F7737B-0182-2107-33EA-521FA104E260}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Deployment\7b73f7e38201072133ea521fa104e260\System.Deployment.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{675944B0-C88E-4ED1-9646-B59A336F9CF4}
+			Sign:cc6f497d2b9ed413114b78fb81583df094f8f521
+
+10/09/2013 12:41:36.859 [2036]: 1>Successfully compiled: System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:41:36.953 [2036]: Operation completed. VA Usage: 7659520. Handle count: 128
+10/09/2013 12:41:37.015 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:37.234 [2036]: Operation completed. VA Usage: 7630848. Handle count: 125
+10/09/2013 12:41:37.312 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:37.515 [2036]: Operation completed. VA Usage: 7667712. Handle count: 126
+10/09/2013 12:41:37.578 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:37.859 [2036]: Operation completed. VA Usage: 7663616. Handle count: 130
+10/09/2013 12:41:37.906 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:38.171 [2036]: Operation completed. VA Usage: 7663616. Handle count: 126
+10/09/2013 12:41:38.234 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:38.578 [2036]: Operation completed. VA Usage: 7766016. Handle count: 127
+10/09/2013 12:41:38.625 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:38.968 [2036]: Operation completed. VA Usage: 7745536. Handle count: 126
+10/09/2013 12:41:39.031 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:39.203 [2036]: Operation completed. VA Usage: 7741440. Handle count: 130
+10/09/2013 12:41:39.265 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:40.234 [2036]: 1>Began compiling: System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:40.703 [2036]: 1>System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:40.703 [2036]: 1>	Source MVID:	{EBBFD16B-E0F2-43B9-8A16-7496B7AA8559}
+	Source HASH:	33abc21a02ac562563c424c6d7aef3238213987d
+	NGen GUID sign:	{ECA2DE89-D36B-E03C-921D-BD985AEF9FFC}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Management.I#\89dea2ec6bd33ce0921dbd985aef9ffc\System.Management.Instrumentation.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Management.Instrumentation, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EBBFD16B-E0F2-43B9-8A16-7496B7AA8559}
+			Sign:33abc21a02ac562563c424c6d7aef3238213987d
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:41:40.718 [2036]: 1>Successfully compiled: System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:40.968 [2036]: Operation completed. VA Usage: 7720960. Handle count: 126
+10/09/2013 12:41:41.031 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:41.296 [2036]: Operation completed. VA Usage: 8081408. Handle count: 126
+10/09/2013 12:41:41.359 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:41.796 [2036]: Operation completed. VA Usage: 7663616. Handle count: 130
+10/09/2013 12:41:41.843 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:43.062 [2036]: Operation completed. VA Usage: 8286208. Handle count: 132
+10/09/2013 12:41:43.109 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:43.296 [2036]: Operation completed. VA Usage: 7794688. Handle count: 126
+10/09/2013 12:41:43.437 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:43.703 [2036]: Operation completed. VA Usage: 8097792. Handle count: 130
+10/09/2013 12:41:43.765 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:44.078 [2036]: Operation completed. VA Usage: 7745536. Handle count: 126
+10/09/2013 12:41:44.156 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:44.218 [2036]: Operation completed. VA Usage: 7639040. Handle count: 126
+10/09/2013 12:41:44.281 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:44.515 [2036]: Operation completed. VA Usage: 7643136. Handle count: 130
+10/09/2013 12:41:44.578 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:45.093 [2036]: Operation completed. VA Usage: 7929856. Handle count: 126
+10/09/2013 12:41:45.140 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:45.375 [2036]: Operation completed. VA Usage: 8040448. Handle count: 126
+10/09/2013 12:41:45.421 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:45.609 [2036]: Operation completed. VA Usage: 7831552. Handle count: 127
+10/09/2013 12:41:45.671 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:45.937 [2036]: Operation completed. VA Usage: 7753728. Handle count: 126
+10/09/2013 12:41:46.015 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:46.250 [2036]: Operation completed. VA Usage: 7766016. Handle count: 126
+10/09/2013 12:41:46.296 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:46.515 [2036]: 1>Began compiling: System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:41:46.875 [2036]: 1>Warning: Failed to load method token 69000029 from profile data.
+10/09/2013 12:41:46.875 [2036]: 1>Warning: Failed to load method token 6900002a from profile data.
+10/09/2013 12:41:46.875 [2036]: 1>Warning: Failed to load method token 6900002e from profile data.
+10/09/2013 12:41:47.359 [2036]: 1>Warning: Failed to load method token 69000029 from profile data.
+10/09/2013 12:41:47.359 [2036]: 1>Warning: Failed to load method token 6900002a from profile data.
+10/09/2013 12:41:47.359 [2036]: 1>Warning: Failed to load method token 6900002e from profile data.
+10/09/2013 12:41:49.359 [2036]: 1>Warning: Failed to load method token 69000029 from profile data.
+10/09/2013 12:41:49.375 [2036]: 1>Warning: Failed to load method token 6900002a from profile data.
+10/09/2013 12:41:49.375 [2036]: 1>Warning: Failed to load method token 6900002e from profile data.
+10/09/2013 12:41:49.734 [2036]: 1>System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:41:49.734 [2036]: 1>	Source MVID:	{E5EBADF1-78D2-4487-BBC3-746BF6FA7D10}
+	Source HASH:	92f1ac42158c42d45c1bd28783c98556a1ad1f1d
+	NGen GUID sign:	{B79C09A8-B38B-A56C-4DC4-D28F2E4A21C9}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.ServiceModel#\a8099cb78bb36ca54dc4d28f2e4a21c9\System.ServiceModel.Web.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E5EBADF1-78D2-4487-BBC3-746BF6FA7D10}
+			Sign:92f1ac42158c42d45c1bd28783c98556a1ad1f1d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+
+10/09/2013 12:41:49.734 [2036]: 1>Successfully compiled: System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:41:49.984 [2036]: Operation completed. VA Usage: 7872512. Handle count: 129
+10/09/2013 12:41:50.046 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:50.312 [2036]: Operation completed. VA Usage: 7659520. Handle count: 127
+10/09/2013 12:41:50.375 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:50.609 [2036]: Operation completed. VA Usage: 7643136. Handle count: 126
+10/09/2013 12:41:50.656 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:51.015 [2036]: Operation completed. VA Usage: 7888896. Handle count: 127
+10/09/2013 12:41:51.062 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:51.703 [2036]: Operation completed. VA Usage: 8073216. Handle count: 127
+10/09/2013 12:41:51.828 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:52.406 [2036]: Operation completed. VA Usage: 8089600. Handle count: 126
+10/09/2013 12:41:52.468 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:52.796 [2036]: Operation completed. VA Usage: 8105984. Handle count: 126
+10/09/2013 12:41:52.859 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:53.515 [2036]: Operation completed. VA Usage: 8630272. Handle count: 130
+10/09/2013 12:41:53.593 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:54.156 [2036]: Operation completed. VA Usage: 8638464. Handle count: 130
+10/09/2013 12:41:54.218 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:54.453 [2036]: 1>Began compiling: System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:55.234 [2036]: 1>System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:55.234 [2036]: 1>	Source MVID:	{44A236F0-81B1-4636-BDB8-039C3EB1DEB3}
+	Source HASH:	27825075f4581766d0796f9c506d6069c7540c63
+	NGen GUID sign:	{4ABE267F-8A8B-8805-6E51-8FAB3EAE7AB9}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Web.Entity\7f26be4a8b8a05886e518fab3eae7ab9\System.Web.Entity.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Web.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{44A236F0-81B1-4636-BDB8-039C3EB1DEB3}
+			Sign:27825075f4581766d0796f9c506d6069c7540c63
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+10/09/2013 12:41:55.234 [2036]: 1>Successfully compiled: System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:55.781 [2036]: Operation completed. VA Usage: 8593408. Handle count: 126
+10/09/2013 12:41:55.828 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:56.078 [2036]: 1>Began compiling: System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:56.718 [2036]: 1>System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:56.718 [2036]: 1>	Source MVID:	{2CC9A798-EAC6-415C-9293-04CC1D055F84}
+	Source HASH:	2c142d78fe3a1c935bd6afd5f605b8a88b954b32
+	NGen GUID sign:	{94C1E942-BD31-8135-A12F-38B603137300}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Web.Entity.D#\42e9c19431bd3581a12f38b603137300\System.Web.Entity.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Web.Entity.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{2CC9A798-EAC6-415C-9293-04CC1D055F84}
+			Sign:2c142d78fe3a1c935bd6afd5f605b8a88b954b32
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Web.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{44A236F0-81B1-4636-BDB8-039C3EB1DEB3}
+			Sign:27825075f4581766d0796f9c506d6069c7540c63
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+10/09/2013 12:41:56.734 [2036]: 1>Successfully compiled: System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:57.406 [2036]: Operation completed. VA Usage: 8740864. Handle count: 130
+10/09/2013 12:41:57.453 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:57.828 [2036]: 1>Began compiling: System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:00.406 [2036]: 1>System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:00.406 [2036]: 1>	Source MVID:	{C2B5A2F3-2711-4E71-B087-B34E92289501}
+	Source HASH:	8e924b679731b115e2876707064337b966640d00
+	NGen GUID sign:	{B56E138A-E507-6682-C72B-C5C23745937D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Web.Extensio#\8a136eb507e58266c72bc5c23745937d\System.Web.Extensions.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Web.Abstractions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9CD818DB-A75D-45B5-948E-BBBF08BAD89B}
+			Sign:bb83db07673aa6f4f5e611e7038ab27b9e127c97
+			Hardbound Guid:{F79C431F-0A39-E315-AE5E-2A35DE7FCE6B}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+			Hardbound Guid:{98CF2D97-A630-984E-02AA-CA3A83CAE24B}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Data.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{12F4CE3D-8031-4D2B-8BD2-46FAD5B559B1}
+			Sign:b1cf1875852d465f76bab79febea351ed8679987
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E5EBADF1-78D2-4487-BBC3-746BF6FA7D10}
+			Sign:92f1ac42158c42d45c1bd28783c98556a1ad1f1d
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		System.Data.Services.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+			Sign:ff05c0084051102c5721a6c84cca7cfabf7c7fad
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+10/09/2013 12:42:00.421 [2036]: 1>Successfully compiled: System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:00.968 [2036]: Operation completed. VA Usage: 8515584. Handle count: 131
+10/09/2013 12:42:01.015 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:01.265 [2036]: 1>Began compiling: System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:02.500 [2036]: 1>System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:02.500 [2036]: 1>	Source MVID:	{A15FE40F-113E-40B2-A2F5-0DE55C1D51A2}
+	Source HASH:	072e58861da89488216bafaf9e73f6fc7f0e98e2
+	NGen GUID sign:	{41E954CC-79C5-0CFB-7573-D864AD9FF773}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Web.Extensio#\cc54e941c579fb0c7573d864ad9ff773\System.Web.Extensions.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Web.Extensions.Design, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{A15FE40F-113E-40B2-A2F5-0DE55C1D51A2}
+			Sign:072e58861da89488216bafaf9e73f6fc7f0e98e2
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{12F4CE3D-8031-4D2B-8BD2-46FAD5B559B1}
+			Sign:b1cf1875852d465f76bab79febea351ed8679987
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+
+10/09/2013 12:42:02.500 [2036]: 1>Successfully compiled: System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:03.140 [2036]: Operation completed. VA Usage: 8495104. Handle count: 127
+10/09/2013 12:42:03.203 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:03.968 [2036]: Operation completed. VA Usage: 7823360. Handle count: 130
+10/09/2013 12:42:04.031 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:04.250 [2036]: Operation completed. VA Usage: 7626752. Handle count: 126
+10/09/2013 12:42:04.390 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:04.765 [2036]: Operation completed. VA Usage: 8077312. Handle count: 126
+10/09/2013 12:42:04.812 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:05.125 [2036]: Operation completed. VA Usage: 7737344. Handle count: 126
+10/09/2013 12:42:05.218 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:05.687 [2036]: Operation completed. VA Usage: 8085504. Handle count: 126
+10/09/2013 12:42:05.750 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:06.109 [2036]: Operation completed. VA Usage: 8138752. Handle count: 130
+10/09/2013 12:42:06.156 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:06.734 [2036]: Operation completed. VA Usage: 7860224. Handle count: 128
+10/09/2013 12:42:06.796 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:08.265 [2036]: Operation completed. VA Usage: 7909376. Handle count: 126
+10/09/2013 12:42:08.312 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:08.953 [2036]: Operation completed. VA Usage: 7843840. Handle count: 126
+10/09/2013 12:42:09.015 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:09.734 [2036]: Operation completed. VA Usage: 7827456. Handle count: 128
+10/09/2013 12:42:09.781 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:10.343 [2036]: Operation completed. VA Usage: 8089600. Handle count: 126
+10/09/2013 12:42:10.406 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:10.515 [2036]: Operation completed. VA Usage: 7680000. Handle count: 126
+10/09/2013 12:42:10.578 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:10.718 [2036]: Operation completed. VA Usage: 7778304. Handle count: 130
+10/09/2013 12:42:10.781 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:10.968 [2036]: 1>Began compiling: System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:42:11.546 [2036]: 1>System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:42:11.546 [2036]: 1>	Source MVID:	{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+	Source HASH:	50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+	NGen GUID sign:	{C8E43E30-E5A3-6EEE-E63B-BB9DCCB3AE1D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Xml.Linq\303ee4c8a3e5ee6ee63bbb9dccb3ae1d\System.Xml.Linq.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:42:11.562 [2036]: 1>Successfully compiled: System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:42:11.671 [2036]: Operation completed. VA Usage: 7655424. Handle count: 126
+10/09/2013 12:42:11.750 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:11.953 [2036]: Operation completed. VA Usage: 7761920. Handle count: 130
+10/09/2013 12:42:12.031 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:12.234 [2036]: Operation completed. VA Usage: 7753728. Handle count: 126
+10/09/2013 12:42:12.296 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:12.421 [2036]: Operation completed. VA Usage: 7725056. Handle count: 125
+10/09/2013 12:42:12.468 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method CustomTaskPaneAdapter.OnDockPositionChanged
+10/09/2013 12:40:28.968 [2036]: 1>未能加载文件或程序集“office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c”或它的某一个依赖项。系统找不到指定的文件。 while compiling method Helpers.RemoveCachedData
+10/09/2013 12:40:29.125 [2036]: 1>Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:29.125 [2036]: 1>	Source MVID:	{D255D071-38FA-45A9-9769-95F057CF7454}
+	Source HASH:	bca6324561074108429018c1cc2e783c2b6d5b13
+	NGen GUID sign:	{15EB69B1-B1D8-F131-3D4A-5D53A0A5E03B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\b169eb15d8b131f13d4a5d53a0a5e03b\Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D255D071-38FA-45A9-9769-95F057CF7454}
+			Sign:bca6324561074108429018c1cc2e783c2b6d5b13
+		System.AddIn, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{204A7C94-7643-4867-9B91-E3AC66119A2A}
+			Sign:404a0bbe02663c80c891127aa779dd3214c12d9d
+			Hardbound Guid:{F3C8F42A-B613-5CEA-EB5D-837F57156CD1}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.AddIn.Contract, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A2BB5660-356C-4A05-AF5A-FDF10B7FBE78}
+			Sign:1b952854cc9e448b8639b041cfc66e9fdef4cc61
+		Microsoft.VisualStudio.Tools.Office.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6EFD4579-1744-4892-B7F3-2D6B5CA70B51}
+			Sign:7324b2ffc41155ef1a95320eb2fc86988c1eea31
+		Microsoft.VisualStudio.Tools.Office.Runtime.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C375B68B-479A-4756-BDD0-409028A1CFA0}
+			Sign:a82e03d7464fa2abedec9e7187c21d8f66cc04c8
+		Microsoft.VisualStudio.Tools.Applications.Contract.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{41AB7D9D-CCD2-46B5-93CD-2727F9B4F60D}
+			Sign:d06790efd76519a474f727435d323fa4cb2cf2f1
+		Microsoft.VisualStudio.Tools.Applications.Adapter.v9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CCC4717A-4958-4689-96B7-6D81DAE921EA}
+			Sign:9c2e9bd020e5c4d6a499b913c07c4780a2a41a6e
+		office, Version=12.0.0.0, PublicKeyToken=71e9bce111e9429c:
+			** Missing dependency assembly **
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:40:29.125 [2036]: 1>Successfully compiled: Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:40:29.531 [2036]: Failed to load dependency Microsoft.VisualStudio.Tools.Applications.Contract of assembly Microsoft.VisualStudio.Tools.Office.ProgrammingModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:30.843 [2036]: Failed to load dependency Microsoft.Office.Interop.Word of assembly Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+10/09/2013 12:40:34.328 [2036]: Operation completed. VA Usage: 7716864. Handle count: 126
+10/09/2013 12:40:34.421 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:34.687 [2036]: Operation completed. VA Usage: 7729152. Handle count: 126
+10/09/2013 12:40:34.750 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:34.875 [2036]: Operation completed. VA Usage: 7712768. Handle count: 126
+10/09/2013 12:40:34.937 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:35.390 [2036]: Operation completed. VA Usage: 8269824. Handle count: 131
+10/09/2013 12:40:35.531 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:35.875 [2036]: Operation completed. VA Usage: 8261632. Handle count: 127
+10/09/2013 12:40:35.968 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:36.312 [2036]: Operation completed. VA Usage: 7720960. Handle count: 126
+10/09/2013 12:40:36.359 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:36.640 [2036]: Operation completed. VA Usage: 7725056. Handle count: 126
+10/09/2013 12:40:36.687 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:37.234 [2036]: Operation completed. VA Usage: 7933952. Handle count: 130
+10/09/2013 12:40:37.359 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:38.343 [2036]: Operation completed. VA Usage: 8048640. Handle count: 126
+10/09/2013 12:40:38.421 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:38.640 [2036]: Operation completed. VA Usage: 7999488. Handle count: 127
+10/09/2013 12:40:38.734 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:39.046 [2036]: Operation completed. VA Usage: 7905280. Handle count: 127
+10/09/2013 12:40:39.093 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:39.343 [2036]: Operation completed. VA Usage: 7753728. Handle count: 125
+10/09/2013 12:40:39.390 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:40.062 [2036]: Operation completed. VA Usage: 8085504. Handle count: 126
+10/09/2013 12:40:40.109 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:40.546 [2036]: Operation completed. VA Usage: 7630848. Handle count: 126
+10/09/2013 12:40:40.609 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:40.796 [2036]: 1>Began compiling: System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:40:41.046 [2036]: 1>System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:40:41.046 [2036]: 1>	Source MVID:	{4F252A34-4C92-4E9B-A4C0-81C83D8D3FCE}
+	Source HASH:	91522c416ce640a0aa0fb27b926c59f07345964d
+	NGen GUID sign:	{0503C817-A26E-5EAF-2E28-CBBF50981620}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.ComponentMod#\17c803056ea2af5e2e28cbbf50981620\System.ComponentModel.DataAnnotations.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.ComponentModel.DataAnnotations, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{4F252A34-4C92-4E9B-A4C0-81C83D8D3FCE}
+			Sign:91522c416ce640a0aa0fb27b926c59f07345964d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:40:41.046 [2036]: 1>Successfully compiled: System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:40:41.328 [2036]: Operation completed. VA Usage: 7704576. Handle count: 126
+10/09/2013 12:40:41.375 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:41.609 [2036]: Operation completed. VA Usage: 7614464. Handle count: 127
+10/09/2013 12:40:41.656 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:41.734 [2036]: Operation completed. VA Usage: 7700480. Handle count: 126
+10/09/2013 12:40:41.796 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:42.015 [2036]: 1>Began compiling: System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:40:42.406 [2036]: 1>System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:40:42.406 [2036]: 1>	Source MVID:	{F27FD3DE-B9C5-4623-BFA1-B3906243D08F}
+	Source HASH:	7d59d8e932988d8034d3e03511bd052145586ffe
+	NGen GUID sign:	{F85DC58D-56C9-594A-8BE1-AF42BBA12414}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.DataSet#\8dc55df8c9564a598be1af42bba12414\System.Data.DataSetExtensions.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.DataSetExtensions, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{F27FD3DE-B9C5-4623-BFA1-B3906243D08F}
+			Sign:7d59d8e932988d8034d3e03511bd052145586ffe
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:40:42.421 [2036]: 1>Successfully compiled: System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:40:42.828 [2036]: Operation completed. VA Usage: 8105984. Handle count: 130
+10/09/2013 12:40:42.875 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:40:43.187 [2036]: 1>Began compiling: System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:22.453 [2036]: 1>System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:22.453 [2036]: 1>	Source MVID:	{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+	Source HASH:	8802b5dfcbafec39219878246d191c72c6c2d9cd
+	NGen GUID sign:	{9AA12966-3E89-DB05-CCE1-3417CA774D0A}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Entity\6629a19a893e05dbcce13417ca774d0a\System.Data.Entity.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+10/09/2013 12:41:22.468 [2036]: 1>Successfully compiled: System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:24.906 [2036]: Operation completed. VA Usage: 8495104. Handle count: 126
+10/09/2013 12:41:24.953 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:25.390 [2036]: 1>Began compiling: System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:26.625 [2036]: 1>System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:26.640 [2036]: 1>	Source MVID:	{7EFAE28D-7EFA-45D2-90EB-FB74D7B4E642}
+	Source HASH:	0910e4e9a55bafbb4252ed6f4b3adfc18e259c1d
+	NGen GUID sign:	{9228B1F3-D918-3665-BA89-6E4D10ED1FEF}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Entity.#\f3b1289218d96536ba896e4d10ed1fef\System.Data.Entity.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Entity.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{7EFAE28D-7EFA-45D2-90EB-FB74D7B4E642}
+			Sign:0910e4e9a55bafbb4252ed6f4b3adfc18e259c1d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+
+10/09/2013 12:41:26.640 [2036]: 1>Successfully compiled: System.Data.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:27.390 [2036]: Operation completed. VA Usage: 8585216. Handle count: 126
+10/09/2013 12:41:27.437 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:27.718 [2036]: Operation completed. VA Usage: 8093696. Handle count: 130
+10/09/2013 12:41:27.765 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:28.218 [2036]: 1>Began compiling: System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:31.125 [2036]: 1>System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:31.140 [2036]: 1>	Source MVID:	{98C895D7-D08D-4E52-A357-97B2B97AC2E1}
+	Source HASH:	0cf7b2e80ccdef53b8da83e19f8fae598ed09a21
+	NGen GUID sign:	{7C2261BC-44CD-B2F7-84A9-5D2899CF1A82}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Services\bc61227ccd44f7b284a95d2899cf1a82\System.Data.Services.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{98C895D7-D08D-4E52-A357-97B2B97AC2E1}
+			Sign:0cf7b2e80ccdef53b8da83e19f8fae598ed09a21
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E5EBADF1-78D2-4487-BBC3-746BF6FA7D10}
+			Sign:92f1ac42158c42d45c1bd28783c98556a1ad1f1d
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Data.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{12F4CE3D-8031-4D2B-8BD2-46FAD5B559B1}
+			Sign:b1cf1875852d465f76bab79febea351ed8679987
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+10/09/2013 12:41:31.140 [2036]: 1>Successfully compiled: System.Data.Services, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:31.875 [2036]: Operation completed. VA Usage: 8507392. Handle count: 127
+10/09/2013 12:41:31.921 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:32.125 [2036]: 1>Began compiling: System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:33.562 [2036]: 1>System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:33.562 [2036]: 1>	Source MVID:	{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+	Source HASH:	261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+	NGen GUID sign:	{EDCC67FE-F3DB-D1F0-37B9-BFFCE7DC1B7D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\fe67cceddbf3f0d137b9bffce7dc1b7d\System.Data.Services.Client.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+
+10/09/2013 12:41:33.578 [2036]: 1>Successfully compiled: System.Data.Services.Client, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:33.718 [2036]: Operation completed. VA Usage: 7655424. Handle count: 126
+10/09/2013 12:41:33.765 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:34.031 [2036]: 1>Began compiling: System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:34.625 [2036]: 1>System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:34.625 [2036]: 1>	Source MVID:	{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+	Source HASH:	ff05c0084051102c5721a6c84cca7cfabf7c7fad
+	NGen GUID sign:	{89437D66-9E56-7448-AAEB-B21CC96D9D69}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\667d4389569e4874aaebb21cc96d9d69\System.Data.Services.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.Services.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+			Sign:ff05c0084051102c5721a6c84cca7cfabf7c7fad
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+
+10/09/2013 12:41:34.640 [2036]: 1>Successfully compiled: System.Data.Services.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:35.203 [2036]: Operation completed. VA Usage: 8503296. Handle count: 131
+10/09/2013 12:41:35.250 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:35.312 [2036]: Operation completed. VA Usage: 7630848. Handle count: 126
+10/09/2013 12:41:35.359 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:35.546 [2036]: 1>Began compiling: System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:41:36.843 [2036]: 1>System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:41:36.843 [2036]: 1>	Source MVID:	{77AC3459-1801-458D-A028-0A4061F900D7}
+	Source HASH:	13d2d635c31b9a39c9c880379f3b27a654150933
+	NGen GUID sign:	{E3F7737B-0182-2107-33EA-521FA104E260}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Deployment\7b73f7e38201072133ea521fa104e260\System.Deployment.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Deployment, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{77AC3459-1801-458D-A028-0A4061F900D7}
+			Sign:13d2d635c31b9a39c9c880379f3b27a654150933
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{675944B0-C88E-4ED1-9646-B59A336F9CF4}
+			Sign:cc6f497d2b9ed413114b78fb81583df094f8f521
+
+10/09/2013 12:41:36.859 [2036]: 1>Successfully compiled: System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+10/09/2013 12:41:36.953 [2036]: Operation completed. VA Usage: 7659520. Handle count: 128
+10/09/2013 12:41:37.015 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:37.234 [2036]: Operation completed. VA Usage: 7630848. Handle count: 125
+10/09/2013 12:41:37.312 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:37.515 [2036]: Operation completed. VA Usage: 7667712. Handle count: 126
+10/09/2013 12:41:37.578 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:37.859 [2036]: Operation completed. VA Usage: 7663616. Handle count: 130
+10/09/2013 12:41:37.906 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:38.171 [2036]: Operation completed. VA Usage: 7663616. Handle count: 126
+10/09/2013 12:41:38.234 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:38.578 [2036]: Operation completed. VA Usage: 7766016. Handle count: 127
+10/09/2013 12:41:38.625 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:38.968 [2036]: Operation completed. VA Usage: 7745536. Handle count: 126
+10/09/2013 12:41:39.031 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:39.203 [2036]: Operation completed. VA Usage: 7741440. Handle count: 130
+10/09/2013 12:41:39.265 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:40.234 [2036]: 1>Began compiling: System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:40.703 [2036]: 1>System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:40.703 [2036]: 1>	Source MVID:	{EBBFD16B-E0F2-43B9-8A16-7496B7AA8559}
+	Source HASH:	33abc21a02ac562563c424c6d7aef3238213987d
+	NGen GUID sign:	{ECA2DE89-D36B-E03C-921D-BD985AEF9FFC}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Management.I#\89dea2ec6bd33ce0921dbd985aef9ffc\System.Management.Instrumentation.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Management.Instrumentation, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EBBFD16B-E0F2-43B9-8A16-7496B7AA8559}
+			Sign:33abc21a02ac562563c424c6d7aef3238213987d
+		System.Configuration.Install, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F167E6C7-6940-44F3-8968-E23E8ED3A61F}
+			Sign:b425a154cf890c0d5d50188cee6f9763f9080581
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:41:40.718 [2036]: 1>Successfully compiled: System.Management.Instrumentation, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:40.968 [2036]: Operation completed. VA Usage: 7720960. Handle count: 126
+10/09/2013 12:41:41.031 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:41.296 [2036]: Operation completed. VA Usage: 8081408. Handle count: 126
+10/09/2013 12:41:41.359 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:41.796 [2036]: Operation completed. VA Usage: 7663616. Handle count: 130
+10/09/2013 12:41:41.843 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:43.062 [2036]: Operation completed. VA Usage: 8286208. Handle count: 132
+10/09/2013 12:41:43.109 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:43.296 [2036]: Operation completed. VA Usage: 7794688. Handle count: 126
+10/09/2013 12:41:43.437 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:43.703 [2036]: Operation completed. VA Usage: 8097792. Handle count: 130
+10/09/2013 12:41:43.765 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:44.078 [2036]: Operation completed. VA Usage: 7745536. Handle count: 126
+10/09/2013 12:41:44.156 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:44.218 [2036]: Operation completed. VA Usage: 7639040. Handle count: 126
+10/09/2013 12:41:44.281 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:44.515 [2036]: Operation completed. VA Usage: 7643136. Handle count: 130
+10/09/2013 12:41:44.578 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:45.093 [2036]: Operation completed. VA Usage: 7929856. Handle count: 126
+10/09/2013 12:41:45.140 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:45.375 [2036]: Operation completed. VA Usage: 8040448. Handle count: 126
+10/09/2013 12:41:45.421 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:45.609 [2036]: Operation completed. VA Usage: 7831552. Handle count: 127
+10/09/2013 12:41:45.671 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:45.937 [2036]: Operation completed. VA Usage: 7753728. Handle count: 126
+10/09/2013 12:41:46.015 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:46.250 [2036]: Operation completed. VA Usage: 7766016. Handle count: 126
+10/09/2013 12:41:46.296 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:46.515 [2036]: 1>Began compiling: System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:41:46.875 [2036]: 1>Warning: Failed to load method token 69000029 from profile data.
+10/09/2013 12:41:46.875 [2036]: 1>Warning: Failed to load method token 6900002a from profile data.
+10/09/2013 12:41:46.875 [2036]: 1>Warning: Failed to load method token 6900002e from profile data.
+10/09/2013 12:41:47.359 [2036]: 1>Warning: Failed to load method token 69000029 from profile data.
+10/09/2013 12:41:47.359 [2036]: 1>Warning: Failed to load method token 6900002a from profile data.
+10/09/2013 12:41:47.359 [2036]: 1>Warning: Failed to load method token 6900002e from profile data.
+10/09/2013 12:41:49.359 [2036]: 1>Warning: Failed to load method token 69000029 from profile data.
+10/09/2013 12:41:49.375 [2036]: 1>Warning: Failed to load method token 6900002a from profile data.
+10/09/2013 12:41:49.375 [2036]: 1>Warning: Failed to load method token 6900002e from profile data.
+10/09/2013 12:41:49.734 [2036]: 1>System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:41:49.734 [2036]: 1>	Source MVID:	{E5EBADF1-78D2-4487-BBC3-746BF6FA7D10}
+	Source HASH:	92f1ac42158c42d45c1bd28783c98556a1ad1f1d
+	NGen GUID sign:	{B79C09A8-B38B-A56C-4DC4-D28F2E4A21C9}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.ServiceModel#\a8099cb78bb36ca54dc4d28f2e4a21c9\System.ServiceModel.Web.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E5EBADF1-78D2-4487-BBC3-746BF6FA7D10}
+			Sign:92f1ac42158c42d45c1bd28783c98556a1ad1f1d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+
+10/09/2013 12:41:49.734 [2036]: 1>Successfully compiled: System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:41:49.984 [2036]: Operation completed. VA Usage: 7872512. Handle count: 129
+10/09/2013 12:41:50.046 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:50.312 [2036]: Operation completed. VA Usage: 7659520. Handle count: 127
+10/09/2013 12:41:50.375 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:50.609 [2036]: Operation completed. VA Usage: 7643136. Handle count: 126
+10/09/2013 12:41:50.656 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:51.015 [2036]: Operation completed. VA Usage: 7888896. Handle count: 127
+10/09/2013 12:41:51.062 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:51.703 [2036]: Operation completed. VA Usage: 8073216. Handle count: 127
+10/09/2013 12:41:51.828 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:52.406 [2036]: Operation completed. VA Usage: 8089600. Handle count: 126
+10/09/2013 12:41:52.468 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:52.796 [2036]: Operation completed. VA Usage: 8105984. Handle count: 126
+10/09/2013 12:41:52.859 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:53.515 [2036]: Operation completed. VA Usage: 8630272. Handle count: 130
+10/09/2013 12:41:53.593 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:54.156 [2036]: Operation completed. VA Usage: 8638464. Handle count: 130
+10/09/2013 12:41:54.218 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:54.453 [2036]: 1>Began compiling: System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:55.234 [2036]: 1>System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:55.234 [2036]: 1>	Source MVID:	{44A236F0-81B1-4636-BDB8-039C3EB1DEB3}
+	Source HASH:	27825075f4581766d0796f9c506d6069c7540c63
+	NGen GUID sign:	{4ABE267F-8A8B-8805-6E51-8FAB3EAE7AB9}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Web.Entity\7f26be4a8b8a05886e518fab3eae7ab9\System.Web.Entity.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Web.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{44A236F0-81B1-4636-BDB8-039C3EB1DEB3}
+			Sign:27825075f4581766d0796f9c506d6069c7540c63
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+10/09/2013 12:41:55.234 [2036]: 1>Successfully compiled: System.Web.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:55.781 [2036]: Operation completed. VA Usage: 8593408. Handle count: 126
+10/09/2013 12:41:55.828 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:56.078 [2036]: 1>Began compiling: System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:56.718 [2036]: 1>System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:56.718 [2036]: 1>	Source MVID:	{2CC9A798-EAC6-415C-9293-04CC1D055F84}
+	Source HASH:	2c142d78fe3a1c935bd6afd5f605b8a88b954b32
+	NGen GUID sign:	{94C1E942-BD31-8135-A12F-38B603137300}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Web.Entity.D#\42e9c19431bd3581a12f38b603137300\System.Web.Entity.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Web.Entity.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{2CC9A798-EAC6-415C-9293-04CC1D055F84}
+			Sign:2c142d78fe3a1c935bd6afd5f605b8a88b954b32
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Web.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{44A236F0-81B1-4636-BDB8-039C3EB1DEB3}
+			Sign:27825075f4581766d0796f9c506d6069c7540c63
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+10/09/2013 12:41:56.734 [2036]: 1>Successfully compiled: System.Web.Entity.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:41:57.406 [2036]: Operation completed. VA Usage: 8740864. Handle count: 130
+10/09/2013 12:41:57.453 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:41:57.828 [2036]: 1>Began compiling: System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:00.406 [2036]: 1>System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:00.406 [2036]: 1>	Source MVID:	{C2B5A2F3-2711-4E71-B087-B34E92289501}
+	Source HASH:	8e924b679731b115e2876707064337b966640d00
+	NGen GUID sign:	{B56E138A-E507-6682-C72B-C5C23745937D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Web.Extensio#\8a136eb507e58266c72bc5c23745937d\System.Web.Extensions.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Web.Abstractions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9CD818DB-A75D-45B5-948E-BBBF08BAD89B}
+			Sign:bb83db07673aa6f4f5e611e7038ab27b9e127c97
+			Hardbound Guid:{F79C431F-0A39-E315-AE5E-2A35DE7FCE6B}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+			Hardbound Guid:{98CF2D97-A630-984E-02AA-CA3A83CAE24B}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+		System.Data.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{12F4CE3D-8031-4D2B-8BD2-46FAD5B559B1}
+			Sign:b1cf1875852d465f76bab79febea351ed8679987
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.ServiceModel.Web, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{E5EBADF1-78D2-4487-BBC3-746BF6FA7D10}
+			Sign:92f1ac42158c42d45c1bd28783c98556a1ad1f1d
+		System.Data.Services.Client, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{016EABFB-493E-44DE-BA5A-14B31A2ACC29}
+			Sign:261a07b2d9e9bfdfd4d6f39cbdbb140c3adfb0ca
+		System.Data.Services.Design, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{22A09C3F-AA5B-443A-B68A-6CF47C5BCC50}
+			Sign:ff05c0084051102c5721a6c84cca7cfabf7c7fad
+		System.Data.Entity, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DD0EE187-53F6-41A1-84C4-1FF562D072F8}
+			Sign:8802b5dfcbafec39219878246d191c72c6c2d9cd
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+10/09/2013 12:42:00.421 [2036]: 1>Successfully compiled: System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:00.968 [2036]: Operation completed. VA Usage: 8515584. Handle count: 131
+10/09/2013 12:42:01.015 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:01.265 [2036]: 1>Began compiling: System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:02.500 [2036]: 1>System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:02.500 [2036]: 1>	Source MVID:	{A15FE40F-113E-40B2-A2F5-0DE55C1D51A2}
+	Source HASH:	072e58861da89488216bafaf9e73f6fc7f0e98e2
+	NGen GUID sign:	{41E954CC-79C5-0CFB-7573-D864AD9FF773}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Web.Extensio#\cc54e941c579fb0c7573d864ad9ff773\System.Web.Extensions.Design.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Web.Extensions.Design, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{A15FE40F-113E-40B2-A2F5-0DE55C1D51A2}
+			Sign:072e58861da89488216bafaf9e73f6fc7f0e98e2
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Web.Extensions, Version=3.5.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C2B5A2F3-2711-4E71-B087-B34E92289501}
+			Sign:8e924b679731b115e2876707064337b966640d00
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{12F4CE3D-8031-4D2B-8BD2-46FAD5B559B1}
+			Sign:b1cf1875852d465f76bab79febea351ed8679987
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+
+10/09/2013 12:42:02.500 [2036]: 1>Successfully compiled: System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+10/09/2013 12:42:03.140 [2036]: Operation completed. VA Usage: 8495104. Handle count: 127
+10/09/2013 12:42:03.203 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:03.968 [2036]: Operation completed. VA Usage: 7823360. Handle count: 130
+10/09/2013 12:42:04.031 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:04.250 [2036]: Operation completed. VA Usage: 7626752. Handle count: 126
+10/09/2013 12:42:04.390 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:04.765 [2036]: Operation completed. VA Usage: 8077312. Handle count: 126
+10/09/2013 12:42:04.812 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:05.125 [2036]: Operation completed. VA Usage: 7737344. Handle count: 126
+10/09/2013 12:42:05.218 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:05.687 [2036]: Operation completed. VA Usage: 8085504. Handle count: 126
+10/09/2013 12:42:05.750 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:06.109 [2036]: Operation completed. VA Usage: 8138752. Handle count: 130
+10/09/2013 12:42:06.156 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:06.734 [2036]: Operation completed. VA Usage: 7860224. Handle count: 128
+10/09/2013 12:42:06.796 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:08.265 [2036]: Operation completed. VA Usage: 7909376. Handle count: 126
+10/09/2013 12:42:08.312 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:08.953 [2036]: Operation completed. VA Usage: 7843840. Handle count: 126
+10/09/2013 12:42:09.015 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:09.734 [2036]: Operation completed. VA Usage: 7827456. Handle count: 128
+10/09/2013 12:42:09.781 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:10.343 [2036]: Operation completed. VA Usage: 8089600. Handle count: 126
+10/09/2013 12:42:10.406 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:10.515 [2036]: Operation completed. VA Usage: 7680000. Handle count: 126
+10/09/2013 12:42:10.578 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:10.718 [2036]: Operation completed. VA Usage: 7778304. Handle count: 130
+10/09/2013 12:42:10.781 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:10.968 [2036]: 1>Began compiling: System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:42:11.546 [2036]: 1>System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:42:11.546 [2036]: 1>	Source MVID:	{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+	Source HASH:	50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+	NGen GUID sign:	{C8E43E30-E5A3-6EEE-E63B-BB9DCCB3AE1D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Xml.Linq\303ee4c8a3e5ee6ee63bbb9dccb3ae1d\System.Xml.Linq.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Xml.Linq, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{FF9BEB30-9302-4350-8D7F-F2CC15E57FD3}
+			Sign:50c929a683f2f5ee796d8665e3f2b7c3274a3ccb
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Core, Version=3.5.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7F19BA4-0112-4FD4-AFF1-636A620526F2}
+			Sign:50153ea977242f97609c6726572c51205a5dd0c2
+			Hardbound Guid:{E819CD83-9B25-D98D-435C-1C3F8F31B60C}
+
+10/09/2013 12:42:11.562 [2036]: 1>Successfully compiled: System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+10/09/2013 12:42:11.671 [2036]: Operation completed. VA Usage: 7655424. Handle count: 126
+10/09/2013 12:42:11.750 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:11.953 [2036]: Operation completed. VA Usage: 7761920. Handle count: 130
+10/09/2013 12:42:12.031 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:12.234 [2036]: Operation completed. VA Usage: 7753728. Handle count: 126
+10/09/2013 12:42:12.296 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+10/09/2013 12:42:12.421 [2036]: Operation completed. VA Usage: 7725056. Handle count: 125
+10/09/2013 12:42:12.468 [2036]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0

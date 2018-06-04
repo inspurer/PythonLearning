@@ -1,0 +1,2000 @@
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\0de98693e4dc692b1993828b8c41d472\Microsoft.VisualStudio.EnterpriseTools.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+
+02/12/2014 08:36:32.578 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:34.078 [41116]: 1>Began compiling: Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:35.265 [41116]: 1>Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:35.265 [41116]: 1>	Source MVID:	{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+	Source HASH:	53e5bfc834137842ff5f1793820a2431973c9877
+	NGen GUID sign:	{DB41606F-C9E6-337C-88DE-647654C9ED20}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\6f6041dbe6c97c3388de647654c9ed20\Microsoft.VisualStudio.Shell.9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		Microsoft.VisualStudio.ProjectAggregator, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{199BD7F1-5EEA-4E15-B023-400CC123700A}
+			Sign:2e32a9ff8037ec168ce487f9ace2a45e1b353c48
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		System.Drawing.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6F3DA73A-0E71-43D1-BD86-BD76C6630237}
+			Sign:cbd39a1354ac05782fb52c6d046e8444edab6659
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+
+02/12/2014 08:36:35.281 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:35.406 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:36.437 [41116]: 1>Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:36.437 [41116]: 1>	Source MVID:	{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+	Source HASH:	fe79d57745e3ed80f43a90bfd58ca79f1e194322
+	NGen GUID sign:	{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\2929b34592f0f243d2eeec87651d4d8d\Microsoft.VisualStudio.Modeling.ArtifactMapper.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+
+02/12/2014 08:36:36.453 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:36.546 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:37.671 [41116]: 1>Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:37.671 [41116]: 1>	Source MVID:	{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+	Source HASH:	fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+	NGen GUID sign:	{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\08deb5945635603ae22d0d4de42fb702\Microsoft.VisualStudio.Modeling.Diagrams.GraphObject.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+		Microsoft.VisualC, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EFBC60FC-EC15-4AD1-B123-6794626918BC}
+			Sign:f2d6828235b6713679fe84559c7325cd6d2ce5e6
+
+02/12/2014 08:36:37.687 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:37.781 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:40.093 [41116]: 1>Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:40.109 [41116]: 1>	Source MVID:	{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+	Source HASH:	75b995e0a81732999914c5e33197d36d0f4517f4
+	NGen GUID sign:	{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\9c4bff49271b36bf92b317b73587d18c\Microsoft.VisualStudio.Modeling.Diagrams.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+02/12/2014 08:36:40.125 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:40.250 [41116]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:41.406 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:41.421 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:41.921 [41116]: 1>Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:41.921 [41116]: 1>	Source MVID:	{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+	Source HASH:	f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+	NGen GUID sign:	{900880F6-D168-764B-EA9D-DD21E5949B1B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\f680089068d14b76ea9ddd21e5949b1b\Microsoft.VisualStudio.EnterpriseTools.Shell.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{3EEDCDE8-4FA4-4C4D-A560-AB434EA22E74}
+			Sign:1f04576810ff643460254ef64fac70b9a611966f
+
+02/12/2014 08:36:41.937 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:42.062 [41116]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:43.046 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:43.796 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:43.906 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:45.718 [41116]: 1>Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:45.718 [41116]: 1>	Source MVID:	{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+	Source HASH:	ac91f80881dfb522f7475d77d11d69f4a967538b
+	NGen GUID sign:	{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\7f9623322cc23dd7d62faf4b1c8d5b87\Microsoft.VisualStudio.EnterpriseTools.TypeSystem.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		Microsoft.VisualStudio.CSharp.Services.Language, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{46DC344D-195D-49B4-B071-5F876A425C28}
+			Sign:8884d74dd8bce222d73c290402d266fcff5fa4eb
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+
+02/12/2014 08:36:45.734 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:45.843 [41116]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:48.906 [41116]: 1>Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:48.921 [41116]: 1>	Source MVID:	{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+	Source HASH:	25481723e60896b93565c80d289d7e50e4bb498f
+	NGen GUID sign:	{F9542D28-46CE-ABD1-491F-BC5DE0F3A538}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\282d54f9ce46d1ab491fbc5de0f3a538\Microsoft.VisualStudio.EnterpriseTools.ClassDesigner.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+			Sign:25481723e60896b93565c80d289d7e50e4bb498f
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{900880F6-D168-764B-EA9D-DD21E5949B1B}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{9386E90D-DCE4-2B69-1993-828B8C41D472}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+
+02/12/2014 08:36:48.937 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:50.625 [41116]: 1>Began compiling: SdmCore, Version=1.0.50000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 08:36:51.937 [41116]: 1>SdmCore, Version=1.0.50000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 08:36:51.953 [41116]: 1>	Source MVID:	{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+	Source HASH:	5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+	NGen GUID sign:	{33EB035B-2384-E153-EED1-BB4912CFA42F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\SdmCore\5b03eb33842353e1eed1bb4912cfa42f\SdmCore.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		SdmCore, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+			Sign:5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		Microsoft.Sdm.Manager, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76D11D10-7330-4F84-B9A8-67A141BFA3E1}
+			Sign:34435b7892e79cd8f3f280bdfcd28d586733e21b
+
+02/12/2014 08:36:51.953 [41116]: 1>Successfully compiled: SdmCore, Version=1.0.50000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 08:36:52.062 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:57.515 [41116]: 1>Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:57.531 [41116]: 1>	Source MVID:	{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+	Source HASH:	089fd26135ecfe70a135a18810f3697bcc14eec0
+	NGen GUID sign:	{8155A4D7-B594-4BCC-6968-C03FE598AB4B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\d7a4558194b5cc4b6968c03fe598ab4b\Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		VsWebSite.Interop, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E5A3BF97-C49D-4401-8D1F-8F1E08FC4643}
+			Sign:973602631fec91d8142dc74562fc186d3afdb13e
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		VSLangProj80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CED080DA-2760-4EE5-AB33-4E13348CDF3C}
+			Sign:d6eb50506bb48e5d02dfb841639bc0ba6e152535
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		Microsoft.VisualStudio.VCCodeModel, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF6E4A24-9A34-4CE4-9AA3-F27FFEE0929A}
+			Sign:b6d8cfe23ec2beef185ee64f03a61ae980bb685b
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Web.Mobile, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F18852F6-7AAA-46E2-AED7-F29F20603FBD}
+			Sign:7269a55fd77119e4ba61dc1afde50147e211f9e5
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+			Original Ref: EnvDTE, Version=7.0.3300.0
+		VSLangProj2, Version=7.0.5000.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D89D9018-6BB3-4B85-B760-2A00E37E4992}
+			Sign:746c3a7cd841bc764665f01abb079d87308b45f0
+		VsWebSite.Interop90, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{BD7893CF-55A4-434A-8091-F5E579FFFE3C}
+			Sign:89c12dce514854e577ae904be637b6ae2c526c78
+		Microsoft.VisualStudio.VCProjectEngine, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9002A81A-F550-4A50-A73C-091F62E86BE2}
+			Sign:799fbe5ec5403957c57d31a9a02d6c1b01ce1345
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+02/12/2014 08:36:57.546 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:57.656 [41116]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:11.531 [41116]: 1>Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:11.546 [41116]: 1>	Source MVID:	{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+	Source HASH:	e4e7860af7bf6403e2ca737547419cf68ca834c5
+	NGen GUID sign:	{6FAFAC7A-38CD-AE11-CEA2-C6DBEC5EFAC1}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\7aacaf6fcd3811aecea2c6dbec5efac1\Microsoft.VisualStudio.EnterpriseTools.SdmDesigners.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+			Sign:e4e7860af7bf6403e2ca737547419cf68ca834c5
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{900880F6-D168-764B-EA9D-DD21E5949B1B}
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{9386E90D-DCE4-2B69-1993-828B8C41D472}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.WizardFramework, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F95F2C16-C489-4B95-A3C6-9201CD02C0B2}
+			Sign:8b4937e29e8c6c17bc43de4b0f091528b126bc13
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		Microsoft.VisualStudio.Data.Interop, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{46BA0BCB-F085-4EC6-8F24-B018A13EEABB}
+			Sign:6c4e701bcf47114fea7adb1eba2591a31e3eca0e
+		VsWebSite.Interop, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E5A3BF97-C49D-4401-8D1F-8F1E08FC4643}
+			Sign:973602631fec91d8142dc74562fc186d3afdb13e
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		SdmCompile, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C3C4B598-B13C-4A26-AAA4-DD326F042936}
+			Sign:1bbed903c9142731c5641d36e5c52b1d41fade7b
+		SdmCore, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+			Sign:5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+			Hardbound Guid:{33EB035B-2384-E153-EED1-BB4912CFA42F}
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+			Hardbound Guid:{8155A4D7-B594-4BCC-6968-C03FE598AB4B}
+		Microsoft.VisualStudio.Data, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{96BB0E3A-4E89-4DDC-95B0-26AAAED76265}
+			Sign:618f3e242d32a976a81dee2e2e14dbe82d4c1497
+		Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{19EAA005-72CE-437B-9E8D-EE5441E6B8B7}
+			Sign:10d7790d5ed48234273377cb2c8744e136335d77
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.Sdm.Iis, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{FA01E7C3-55FA-45B7-9976-5A16BC5BFFD0}
+			Sign:86c1b4ccefb8dff48d44b4b2ed8011cd673392c9
+		Microsoft.Sdm.System, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B53AFE68-264F-4802-8F79-2C12410C4831}
+			Sign:094e8dc2c1b4581689d8fc536bb7496ebbbe2c8b
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+		System.Web.Mobile, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F18852F6-7AAA-46E2-AED7-F29F20603FBD}
+			Sign:7269a55fd77119e4ba61dc1afde50147e211f9e5
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+
+02/12/2014 08:37:11.578 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:15.062 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:16.109 [41116]: 1>Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:16.109 [41116]: 1>	Source MVID:	{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+	Source HASH:	004b3f1499eff150d919b0158568f8f6dd724166
+	NGen GUID sign:	{F6829A43-B5BD-4C49-B3DC-214302A39C40}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\439a82f6bdb5494cb3dc214302a39c40\Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+			Sign:004b3f1499eff150d919b0158568f8f6dd724166
+		Microsoft.VisualC, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EFBC60FC-EC15-4AD1-B123-6794626918BC}
+			Sign:f2d6828235b6713679fe84559c7325cd6d2ce5e6
+
+02/12/2014 08:37:16.109 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:16.812 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:18.734 [41116]: 1>Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:18.734 [41116]: 1>	Source MVID:	{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+	Source HASH:	b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+	NGen GUID sign:	{3E67E5D0-FD5C-C504-39B2-0C4579503DC8}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\d0e5673e5cfd04c539b20c4579503dc8\Microsoft.VisualStudio.Modeling.Sdk.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+			Sign:b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+
+02/12/2014 08:37:18.750 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:18.843 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:21.687 [41116]: 1>Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:21.687 [41116]: 1>	Source MVID:	{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+	Source HASH:	0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+	NGen GUID sign:	{EE570B17-A64F-CEF4-6444-22CEFF86D41F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\170b57ee4fa6f4ce644422ceff86d41f\Microsoft.VisualStudio.Modeling.Sdk.Diagrams.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+			Sign:0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+			Sign:b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+			Hardbound Guid:{3E67E5D0-FD5C-C504-39B2-0C4579503DC8}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+			Sign:004b3f1499eff150d919b0158568f8f6dd724166
+			Hardbound Guid:{F6829A43-B5BD-4C49-B3DC-214302A39C40}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+02/12/2014 08:37:21.703 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\0de98693e4dc692b1993828b8c41d472\Microsoft.VisualStudio.EnterpriseTools.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+
+02/12/2014 08:36:32.578 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:34.078 [41116]: 1>Began compiling: Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:35.265 [41116]: 1>Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:35.265 [41116]: 1>	Source MVID:	{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+	Source HASH:	53e5bfc834137842ff5f1793820a2431973c9877
+	NGen GUID sign:	{DB41606F-C9E6-337C-88DE-647654C9ED20}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\6f6041dbe6c97c3388de647654c9ed20\Microsoft.VisualStudio.Shell.9.0.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		Microsoft.VisualStudio.ProjectAggregator, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{199BD7F1-5EEA-4E15-B023-400CC123700A}
+			Sign:2e32a9ff8037ec168ce487f9ace2a45e1b353c48
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		System.Drawing.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6F3DA73A-0E71-43D1-BD86-BD76C6630237}
+			Sign:cbd39a1354ac05782fb52c6d046e8444edab6659
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+
+02/12/2014 08:36:35.281 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:35.406 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:36.437 [41116]: 1>Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:36.437 [41116]: 1>	Source MVID:	{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+	Source HASH:	fe79d57745e3ed80f43a90bfd58ca79f1e194322
+	NGen GUID sign:	{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\2929b34592f0f243d2eeec87651d4d8d\Microsoft.VisualStudio.Modeling.ArtifactMapper.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+
+02/12/2014 08:36:36.453 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:36.546 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:37.671 [41116]: 1>Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:37.671 [41116]: 1>	Source MVID:	{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+	Source HASH:	fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+	NGen GUID sign:	{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\08deb5945635603ae22d0d4de42fb702\Microsoft.VisualStudio.Modeling.Diagrams.GraphObject.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+		Microsoft.VisualC, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EFBC60FC-EC15-4AD1-B123-6794626918BC}
+			Sign:f2d6828235b6713679fe84559c7325cd6d2ce5e6
+
+02/12/2014 08:36:37.687 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:37.781 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:40.093 [41116]: 1>Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:40.109 [41116]: 1>	Source MVID:	{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+	Source HASH:	75b995e0a81732999914c5e33197d36d0f4517f4
+	NGen GUID sign:	{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\9c4bff49271b36bf92b317b73587d18c\Microsoft.VisualStudio.Modeling.Diagrams.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+02/12/2014 08:36:40.125 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:40.250 [41116]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:41.406 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:41.421 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:41.921 [41116]: 1>Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:41.921 [41116]: 1>	Source MVID:	{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+	Source HASH:	f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+	NGen GUID sign:	{900880F6-D168-764B-EA9D-DD21E5949B1B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\f680089068d14b76ea9ddd21e5949b1b\Microsoft.VisualStudio.EnterpriseTools.Shell.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{3EEDCDE8-4FA4-4C4D-A560-AB434EA22E74}
+			Sign:1f04576810ff643460254ef64fac70b9a611966f
+
+02/12/2014 08:36:41.937 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:42.062 [41116]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:43.046 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:43.796 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:43.906 [41116]: 1>WARNING: Cannot hardbind to Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because dependency does not have a native image (check FusLogVw for reason)
+02/12/2014 08:36:45.718 [41116]: 1>Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:45.718 [41116]: 1>	Source MVID:	{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+	Source HASH:	ac91f80881dfb522f7475d77d11d69f4a967538b
+	NGen GUID sign:	{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\7f9623322cc23dd7d62faf4b1c8d5b87\Microsoft.VisualStudio.EnterpriseTools.TypeSystem.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CFE49CE0-436A-49B7-8236-08C6E3A08A6D}
+			Sign:03243085c800320fcbaf0847fa2fe92773196612
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		Microsoft.VisualStudio.CSharp.Services.Language, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{46DC344D-195D-49B4-B071-5F876A425C28}
+			Sign:8884d74dd8bce222d73c290402d266fcff5fa4eb
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+
+02/12/2014 08:36:45.734 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:45.843 [41116]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:48.906 [41116]: 1>Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:48.921 [41116]: 1>	Source MVID:	{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+	Source HASH:	25481723e60896b93565c80d289d7e50e4bb498f
+	NGen GUID sign:	{F9542D28-46CE-ABD1-491F-BC5DE0F3A538}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\282d54f9ce46d1ab491fbc5de0f3a538\Microsoft.VisualStudio.EnterpriseTools.ClassDesigner.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A1B530D-26A4-4B19-9C10-00D0FE85FB13}
+			Sign:25481723e60896b93565c80d289d7e50e4bb498f
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{900880F6-D168-764B-EA9D-DD21E5949B1B}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{9386E90D-DCE4-2B69-1993-828B8C41D472}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+
+02/12/2014 08:36:48.937 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:50.625 [41116]: 1>Began compiling: SdmCore, Version=1.0.50000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 08:36:51.937 [41116]: 1>SdmCore, Version=1.0.50000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 08:36:51.953 [41116]: 1>	Source MVID:	{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+	Source HASH:	5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+	NGen GUID sign:	{33EB035B-2384-E153-EED1-BB4912CFA42F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\SdmCore\5b03eb33842353e1eed1bb4912cfa42f\SdmCore.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		SdmCore, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+			Sign:5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		Microsoft.Sdm.Manager, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{76D11D10-7330-4F84-B9A8-67A141BFA3E1}
+			Sign:34435b7892e79cd8f3f280bdfcd28d586733e21b
+
+02/12/2014 08:36:51.953 [41116]: 1>Successfully compiled: SdmCore, Version=1.0.50000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+02/12/2014 08:36:52.062 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:57.515 [41116]: 1>Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:57.531 [41116]: 1>	Source MVID:	{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+	Source HASH:	089fd26135ecfe70a135a18810f3697bcc14eec0
+	NGen GUID sign:	{8155A4D7-B594-4BCC-6968-C03FE598AB4B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\d7a4558194b5cc4b6968c03fe598ab4b\Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		VsWebSite.Interop, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E5A3BF97-C49D-4401-8D1F-8F1E08FC4643}
+			Sign:973602631fec91d8142dc74562fc186d3afdb13e
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		VSLangProj80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{CED080DA-2760-4EE5-AB33-4E13348CDF3C}
+			Sign:d6eb50506bb48e5d02dfb841639bc0ba6e152535
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		Microsoft.VisualStudio.VCCodeModel, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF6E4A24-9A34-4CE4-9AA3-F27FFEE0929A}
+			Sign:b6d8cfe23ec2beef185ee64f03a61ae980bb685b
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Web.Mobile, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F18852F6-7AAA-46E2-AED7-F29F20603FBD}
+			Sign:7269a55fd77119e4ba61dc1afde50147e211f9e5
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+			Original Ref: EnvDTE, Version=7.0.3300.0
+		VSLangProj2, Version=7.0.5000.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D89D9018-6BB3-4B85-B760-2A00E37E4992}
+			Sign:746c3a7cd841bc764665f01abb079d87308b45f0
+		VsWebSite.Interop90, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{BD7893CF-55A4-434A-8091-F5E579FFFE3C}
+			Sign:89c12dce514854e577ae904be637b6ae2c526c78
+		Microsoft.VisualStudio.VCProjectEngine, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9002A81A-F550-4A50-A73C-091F62E86BE2}
+			Sign:799fbe5ec5403957c57d31a9a02d6c1b01ce1345
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+02/12/2014 08:36:57.546 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:36:57.656 [41116]: 1>Began compiling: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:11.531 [41116]: 1>Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:11.546 [41116]: 1>	Source MVID:	{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+	Source HASH:	e4e7860af7bf6403e2ca737547419cf68ca834c5
+	NGen GUID sign:	{6FAFAC7A-38CD-AE11-CEA2-C6DBEC5EFAC1}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\7aacaf6fcd3811aecea2c6dbec5efac1\Microsoft.VisualStudio.EnterpriseTools.SdmDesigners.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{62742BDF-4910-4607-B20C-A1D50CBA1D03}
+			Sign:e4e7860af7bf6403e2ca737547419cf68ca834c5
+		Microsoft.VisualStudio.Modeling, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{6E4B1E8C-28C7-444B-BB4F-951E4C340972}
+			Sign:7489ff7ff47f8000ea40764712e2b3969a7d3c03
+			Hardbound Guid:{B0BA75DF-94AE-F62D-BAA7-F287C0211C44}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.EnterpriseTools.TypeSystem, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF73C4C4-B6E9-4F32-9421-9D74C25F60EF}
+			Sign:ac91f80881dfb522f7475d77d11d69f4a967538b
+			Hardbound Guid:{3223967F-C22C-D73D-D62F-AF4B1C8D5B87}
+		Microsoft.VisualStudio.Modeling.ArtifactMapper, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B5288766-60FD-4A2B-ACAB-39ECC597A346}
+			Sign:fe79d57745e3ed80f43a90bfd58ca79f1e194322
+			Hardbound Guid:{45B32929-F092-43F2-D2EE-EC87651D4D8D}
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+			Hardbound Guid:{DB41606F-C9E6-337C-88DE-647654C9ED20}
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Microsoft.VisualStudio.Modeling.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F5D5672C-9D85-4695-8DC6-0FF4EB269F0F}
+			Sign:75b995e0a81732999914c5e33197d36d0f4517f4
+			Hardbound Guid:{49FF4B9C-1B27-BF36-92B3-17B73587D18C}
+		Microsoft.VisualStudio.Modeling.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C50AF7D2-7A98-4163-8EDA-9C561908B7B4}
+			Sign:fd1491ec299aa4f32d97a1bd34d796d4141f27b4
+			Hardbound Guid:{94B5DE08-3556-3A60-E22D-0D4DE42FB702}
+		System.Web.Services, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{DC66D7A2-0976-4C0B-8BEB-40FC43964755}
+			Sign:164bfa999c2f348fdd69230f725baaa5c8abb8a3
+		Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A02B37F2-B5C0-4726-99C2-9369E4B30475}
+			Sign:f1bfc46357a869f547ee58ae785d7acfb8cf2d92
+			Hardbound Guid:{900880F6-D168-764B-EA9D-DD21E5949B1B}
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.TextManager.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{285FF720-B48A-489D-B772-9F2B56C3D307}
+			Sign:d73a9e223b01c15e283eb1fdef0d83e2e5813bdc
+		EnvDTE, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{3C713AD5-025D-4106-B7DD-99D8FEBDA721}
+			Sign:16d7ed6edf9ba565aaa42afe169c39ce3663e4a5
+		Microsoft.VisualStudio.EnterpriseTools, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{4A8FF858-6AD2-43C0-9D6A-B4D35B751D48}
+			Sign:a61d498e964dc3c6feffa8272234768d144ab1ac
+			Hardbound Guid:{9386E90D-DCE4-2B69-1993-828B8C41D472}
+		Microsoft.VisualStudio.VirtualTreeGrid, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5301CC01-0DDE-45D1-A2B9-7A535C22901A}
+			Sign:b79b2690d88fa9749a09e02aedfaa8be41a4c829
+			Hardbound Guid:{4B4495A6-2293-F201-C5DE-294903600907}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+			Hardbound Guid:{3654B406-1615-5EE6-CA55-A743CD93CEFC}
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.WizardFramework, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F95F2C16-C489-4B95-A3C6-9201CD02C0B2}
+			Sign:8b4937e29e8c6c17bc43de4b0f091528b126bc13
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		Microsoft.VisualStudio.Data.Interop, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{46BA0BCB-F085-4EC6-8F24-B018A13EEABB}
+			Sign:6c4e701bcf47114fea7adb1eba2591a31e3eca0e
+		VsWebSite.Interop, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E5A3BF97-C49D-4401-8D1F-8F1E08FC4643}
+			Sign:973602631fec91d8142dc74562fc186d3afdb13e
+		EnvDTE80, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C9DFEAD5-C2B8-4FA1-BB98-EE247508CAA0}
+			Sign:4c6656bc0d4962528a58fa790da77948885e8425
+		SdmCompile, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{C3C4B598-B13C-4A26-AAA4-DD326F042936}
+			Sign:1bbed903c9142731c5641d36e5c52b1d41fade7b
+		SdmCore, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9EC62764-B8A6-4ACC-9003-B2008BB47FF8}
+			Sign:5bdf13a32f76fcfc2fe640f20cb3055d465984ba
+			Hardbound Guid:{33EB035B-2384-E153-EED1-BB4912CFA42F}
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		Microsoft.VisualStudio.Modeling.ArtifactMapper.VSHost, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{8D4000CD-6EA5-45F9-9345-C9157D70B849}
+			Sign:089fd26135ecfe70a135a18810f3697bcc14eec0
+			Hardbound Guid:{8155A4D7-B594-4BCC-6968-C03FE598AB4B}
+		Microsoft.VisualStudio.Data, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{96BB0E3A-4E89-4DDC-95B0-26AAAED76265}
+			Sign:618f3e242d32a976a81dee2e2e14dbe82d4c1497
+		Microsoft.VisualStudio.TemplateWizardInterface, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{19EAA005-72CE-437B-9E8D-EE5441E6B8B7}
+			Sign:10d7790d5ed48234273377cb2c8744e136335d77
+		VSLangProj, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5562100C-4E47-428E-9315-BA04C3319B0C}
+			Sign:ee62bf20bff8d96c0d29a4df882e8debfd7a5bf5
+		Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.Sdm.Iis, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{FA01E7C3-55FA-45B7-9976-5A16BC5BFFD0}
+			Sign:86c1b4ccefb8dff48d44b4b2ed8011cd673392c9
+		Microsoft.Sdm.System, Version=1.0.50000.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{B53AFE68-264F-4802-8F79-2C12410C4831}
+			Sign:094e8dc2c1b4581689d8fc536bb7496ebbbe2c8b
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+		System.Web.Mobile, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F18852F6-7AAA-46E2-AED7-F29F20603FBD}
+			Sign:7269a55fd77119e4ba61dc1afde50147e211f9e5
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+
+02/12/2014 08:37:11.578 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:15.062 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:16.109 [41116]: 1>Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:16.109 [41116]: 1>	Source MVID:	{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+	Source HASH:	004b3f1499eff150d919b0158568f8f6dd724166
+	NGen GUID sign:	{F6829A43-B5BD-4C49-B3DC-214302A39C40}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\439a82f6bdb5494cb3dc214302a39c40\Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+			Sign:004b3f1499eff150d919b0158568f8f6dd724166
+		Microsoft.VisualC, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EFBC60FC-EC15-4AD1-B123-6794626918BC}
+			Sign:f2d6828235b6713679fe84559c7325cd6d2ce5e6
+
+02/12/2014 08:37:16.109 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:16.812 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:18.734 [41116]: 1>Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:18.734 [41116]: 1>	Source MVID:	{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+	Source HASH:	b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+	NGen GUID sign:	{3E67E5D0-FD5C-C504-39B2-0C4579503DC8}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\d0e5673e5cfd04c539b20c4579503dc8\Microsoft.VisualStudio.Modeling.Sdk.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+			Sign:b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+
+02/12/2014 08:37:18.750 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:18.843 [41116]: 1>Began compiling: Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:21.687 [41116]: 1>Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+02/12/2014 08:37:21.687 [41116]: 1>	Source MVID:	{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+	Source HASH:	0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+	NGen GUID sign:	{EE570B17-A64F-CEF4-6444-22CEFF86D41F}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\170b57ee4fa6f4ce644422ceff86d41f\Microsoft.VisualStudio.Modeling.Sdk.Diagrams.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{389D0840-7F4F-46DB-B0FD-0CAACEDEACE6}
+			Sign:0408de8940bf3f5ffa70a5ae2ad96e97d86975e3
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+			Hardbound Guid:{99E1DF1C-D68A-4D79-B323-7006906C6FA2}
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+			Hardbound Guid:{32FF4B42-C695-53E7-9CC6-DF62B9425BD0}
+		Accessibility, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EBB5DA76-E655-4EF9-B80E-7BE755DCC9F0}
+			Sign:265c33859266f9316aefe9844e022db187b343df
+		Microsoft.VisualStudio.Modeling.Sdk, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0F96C19-1AFB-462B-AF4D-F5A86742EF3C}
+			Sign:b53193f41bf5d40f11b6c9565bbd52a64de00d9e
+			Hardbound Guid:{3E67E5D0-FD5C-C504-39B2-0C4579503DC8}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{5D64AF7F-67C4-2281-5CB7-22EDF9E1E738}
+		Microsoft.VisualStudio.Modeling.Sdk.Diagrams.GraphObject, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{0CD5BBDE-3542-4531-B2AA-ED2AE8CC85A9}
+			Sign:004b3f1499eff150d919b0158568f8f6dd724166
+			Hardbound Guid:{F6829A43-B5BD-4C49-B3DC-214302A39C40}
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+02/12/2014 08:37:21.703 [41116]: 1>Successfully compiled: Microsoft.VisualStudio.Modeling.Sdk.Diagrams, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a

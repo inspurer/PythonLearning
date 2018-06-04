@@ -1,0 +1,2000 @@
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.SqlServer.BatchParser, Version=9.0.242.0, PublicKeyToken=89845dcd8080cc91:
+			** Missing dependency assembly **
+		Microsoft.VisualStudio.TeamSystem.Data.UnitTesting, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{02B79D30-7704-4C18-9033-15980C97A2DC}
+			Sign:1bb312189be15bfa9a0206a601fb919fdc479127
+		Microsoft.SqlServer.ConnectionInfo, Version=9.0.242.0, PublicKeyToken=89845dcd8080cc91:
+			** Missing dependency assembly **
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5DBD4116-DCB5-4780-B308-733B18728ED0}
+			Sign:7028e11ee8aa4dd32ba1b39d5a4bea49b0b6f787
+
+08/15/2013 19:53:05.500 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\URTInstallPath_GAC\Microsoft.VisualStudio.TeamSystem.DataPackage.dll
+08/15/2013 19:53:06.515 [2248]: 1>Began compiling: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+08/15/2013 19:53:07.437 [2248]: 1>ComSvcConfig, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:07.437 [2248]: 1>	Source MVID:	{BE0A5A81-2F07-469A-B4F2-54DA4E7D9000}
+	Source HASH:	f62ef667db21800a1164cc77d326f4a1cf221883
+	NGen GUID sign:	{78982D64-B872-1D40-3DA7-DD0BA5D15365}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\ComSvcConfig\642d987872b8401d3da7dd0ba5d15365\ComSvcConfig.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		ComSvcConfig, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{BE0A5A81-2F07-469A-B4F2-54DA4E7D9000}
+			Sign:f62ef667db21800a1164cc77d326f4a1cf221883
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.DirectoryServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{99762AEF-6716-46A9-B853-B974F553535E}
+			Sign:4133032008c9c8ad863b31e1c9b01284ee2611bf
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+08/15/2013 19:53:07.453 [2248]: 1>Successfully compiled: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+08/15/2013 19:53:07.859 [2248]: 1>Began compiling: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\Microsoft.Transactions.Bridge.dll
+08/15/2013 19:53:09.437 [2248]: 1>Microsoft.Transactions.Bridge, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:09.437 [2248]: 1>	Source MVID:	{AE3FC32C-06B3-4889-8791-DA0B8D6212D2}
+	Source HASH:	dbe6444d1b40c9c97ee11ed936954e82668e007d
+	NGen GUID sign:	{0CCD3FCF-FD40-E288-BD10-803344010DAA}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Transacti#\cf3fcd0c40fd88e2bd10803344010daa\Microsoft.Transactions.Bridge.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Transactions.Bridge, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AE3FC32C-06B3-4889-8791-DA0B8D6212D2}
+			Sign:dbe6444d1b40c9c97ee11ed936954e82668e007d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.IdentityModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9878EB2F-4090-4613-9842-1DB4B755F993}
+			Sign:2d6a11afa2ca1b115f562ffc7b2f48e99e3712a0
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+08/15/2013 19:53:09.453 [2248]: 1>Successfully compiled: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\Microsoft.Transactions.Bridge.dll
+08/15/2013 19:53:10.000 [2248]: 1>Began compiling: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\Microsoft.Transactions.Bridge.Dtc.dll
+08/15/2013 19:53:10.640 [2248]: 1>Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:10.640 [2248]: 1>	Source MVID:	{BB41AD25-9CE1-466E-BE63-45ED93F54F4F}
+	Source HASH:	92a50c343c6c25c952a1f6a0c2e3a7df574eed8c
+	NGen GUID sign:	{29D8BAEA-9799-6935-11D3-91AF92B76349}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Transacti#\eabad8299997356911d391af92b76349\Microsoft.Transactions.Bridge.Dtc.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{BB41AD25-9CE1-466E-BE63-45ED93F54F4F}
+			Sign:92a50c343c6c25c952a1f6a0c2e3a7df574eed8c
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.Transactions.Bridge, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AE3FC32C-06B3-4889-8791-DA0B8D6212D2}
+			Sign:dbe6444d1b40c9c97ee11ed936954e82668e007d
+		Microsoft.VisualC, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EFBC60FC-EC15-4AD1-B123-6794626918BC}
+			Sign:f2d6828235b6713679fe84559c7325cd6d2ce5e6
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+
+08/15/2013 19:53:10.640 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\Microsoft.Transactions.Bridge.Dtc.dll
+08/15/2013 19:53:11.250 [2248]: Failed to load dependency Microsoft.Web.Administration of assembly ServiceModelReg, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+08/15/2013 19:53:11.343 [2248]: 1>Began compiling: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ServiceModelReg.exe
+08/15/2013 19:53:11.703 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.703 [2248]: 1> while resolving 0x1000026 - Microsoft.Web.Administration.ServerManager.
+08/15/2013 19:53:11.718 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.718 [2248]: 1> while resolving 0x1000027 - Microsoft.Web.Administration.Configuration.
+08/15/2013 19:53:11.718 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.718 [2248]: 1> while resolving 0x1000028 - Microsoft.Web.Administration.ConfigurationSection.
+08/15/2013 19:53:11.718 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.718 [2248]: 1> while resolving 0x1000029 - Microsoft.Web.Administration.ConfigurationElement.
+08/15/2013 19:53:11.734 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.734 [2248]: 1> while resolving 0x10000d2 - Microsoft.Web.Administration.ConfigurationAttribute.
+08/15/2013 19:53:11.734 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.734 [2248]: 1> while resolving 0x10000d3 - Microsoft.Web.Administration.ConfigurationElementCollection.
+08/15/2013 19:53:11.734 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.734 [2248]: 1> while resolving 0x10000d4 - Microsoft.Web.Administration.ConfigurationElementCollectionBase`1.
+08/15/2013 19:53:11.734 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.750 [2248]: 1> while resolving 0x1b000010 - .
+08/15/2013 19:53:11.750 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.750 [2248]: 1> while resolving 0x1b000011 - .
+08/15/2013 19:53:11.750 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.750 [2248]: 1> while resolving 0x1b000018 - .
+08/15/2013 19:53:11.750 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.750 [2248]: 1> while resolving 0xa00018b - Microsoft.Web.Administration.ServerManager..ctor.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa00018c - Microsoft.Web.Administration.ServerManager.GetApplicationHostConfiguration.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa00018d - Microsoft.Web.Administration.Configuration.GetSection.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa00018e - Microsoft.Web.Administration.ServerManager.CommitChanges.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa00018f - Microsoft.Web.Administration.ConfigurationElement.GetAttribute.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa000190 - Microsoft.Web.Administration.ConfigurationAttribute.get_Value.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa000191 - Microsoft.Web.Administration.ConfigurationElement.GetCollection.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa000195 - Microsoft.Web.Administration.ConfigurationAttribute.set_Value.
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.CheckApplicationHostInstalled
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.get_ApplicationHostConfiguration
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.get_HttpHandlersSection
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.get_HttpModulesSection
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.get_ListenerAdaptersSection
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.Save
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.get_InstalledVersions
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.get_IsInstalled
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.GetListenerAdapterFromCollection
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.Install
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.Uninstall
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.VerifyInstall
+08/15/2013 19:53:11.968 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.get_InstalledVersions
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.get_IsInstalled
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.GetHttpHandlerFromCollection
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.Install
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.CopyHandlerAttributes
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.AddSvcHandlers
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.Uninstall
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.VerifyInstall
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.get_InstalledVersions
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.get_IsInstalled
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.GetHttpModuleFromCollection
+08/15/2013 19:53:12.000 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.Install
+08/15/2013 19:53:12.000 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.Uninstall
+08/15/2013 19:53:12.000 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.VerifyInstall
+08/15/2013 19:53:12.281 [2248]: 1>ServiceModelReg, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:12.281 [2248]: 1>	Source MVID:	{D0CD9E82-4A42-4024-820C-8CD0BF4F3B2A}
+	Source HASH:	bea9b82e42ccfad45906637676f2fcfd1983f048
+	NGen GUID sign:	{E676E801-F185-DB2F-7847-264299417503}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\ServiceModelReg\01e876e685f12fdb7847264299417503\ServiceModelReg.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		ServiceModelReg, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0CD9E82-4A42-4024-820C-8CD0BF4F3B2A}
+			Sign:bea9b82e42ccfad45906637676f2fcfd1983f048
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+		System.DirectoryServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{99762AEF-6716-46A9-B853-B974F553535E}
+			Sign:4133032008c9c8ad863b31e1c9b01284ee2611bf
+		System.ServiceModel.Install, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{41F7D0C4-16FE-41E3-8457-E34ABE982AB0}
+			Sign:0d580d2913a919ded4459f4234b14a75f6843a28
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		Microsoft.Web.Administration, Version=7.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			** Missing dependency assembly **
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+08/15/2013 19:53:12.296 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ServiceModelReg.exe
+08/15/2013 19:53:12.593 [2248]: 1>Began compiling: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMdiagnostics.dll
+08/15/2013 19:53:12.796 [2248]: 1>Warning: Failed to load method token 690000d9 from profile data.
+08/15/2013 19:53:12.796 [2248]: 1>Warning: Failed to load method token 690000da from profile data.
+08/15/2013 19:53:12.796 [2248]: 1>Warning: Failed to load method token 690000d9 from profile data.
+08/15/2013 19:53:12.796 [2248]: 1>Warning: Failed to load method token 690000da from profile data.
+08/15/2013 19:53:12.937 [2248]: 1>Warning: Failed to load method token 690000d9 from profile data.
+08/15/2013 19:53:12.937 [2248]: 1>Warning: Failed to load method token 690000da from profile data.
+08/15/2013 19:53:13.156 [2248]: 1>SMDiagnostics, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:13.171 [2248]: 1>	Source MVID:	{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+	Source HASH:	e8a327a89b108957e440269fd7999dec2d6b6ecd
+	NGen GUID sign:	{C0AE1056-6044-685E-4808-6B4454EE2E15}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\SMDiagnostics\5610aec044605e6848086b4454ee2e15\SMDiagnostics.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:53:13.171 [2248]: 1>Successfully compiled: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMdiagnostics.dll
+08/15/2013 19:53:13.640 [2248]: 1>Began compiling: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe
+08/15/2013 19:53:14.562 [2248]: 1>SMSvcHost, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:14.578 [2248]: 1>	Source MVID:	{FB0D83CD-FBFF-4877-9634-E36ACE2067DC}
+	Source HASH:	5b60712f128923e1559c740476a92f24b5fc0e67
+	NGen GUID sign:	{7C0183F4-4791-8934-833E-9F7190A4010E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\SMSvcHost\f483017c91473489833e9f7190a4010e\SMSvcHost.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		SMSvcHost, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FB0D83CD-FBFF-4877-9634-E36ACE2067DC}
+			Sign:5b60712f128923e1559c740476a92f24b5fc0e67
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Messaging, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{79F2D44A-73DD-466E-A8DF-BFA7DC161D43}
+			Sign:49970fc02f54b501d4a50c9533ab49f6137f2975
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+
+08/15/2013 19:53:14.578 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe
+08/15/2013 19:53:15.000 [2248]: 1>Began compiling: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\WsatConfig.exe
+08/15/2013 19:53:15.656 [2248]: 1>WsatConfig, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:15.656 [2248]: 1>	Source MVID:	{837862A7-95B9-4054-B419-6317D4ED1375}
+	Source HASH:	b5899c13a8ba73e6d321f71c3552ee4c0f7089b6
+	NGen GUID sign:	{2D384EF0-097B-435C-380A-A1E1019222E9}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WsatConfig\f04e382d7b095c43380aa1e1019222e9\WsatConfig.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WsatConfig, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{837862A7-95B9-4054-B419-6317D4ED1375}
+			Sign:b5899c13a8ba73e6d321f71c3552ee4c0f7089b6
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+
+08/15/2013 19:53:15.671 [2248]: 1>Successfully compiled: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\WsatConfig.exe
+08/15/2013 19:53:16.109 [2248]: 1>Began compiling: C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild.exe
+08/15/2013 19:53:16.687 [2248]: 1>MSBuild, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:16.687 [2248]: 1>	Source MVID:	{2F56FA1C-12AD-4C29-980A-76BD7816BD43}
+	Source HASH:	b0f8115bc2e0415b2dc748022e76096ac15c5244
+	NGen GUID sign:	{14EDBB7B-B0AF-798E-702B-A5AA12688EE0}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\MSBuild\7bbbed14afb08e79702ba5aa12688ee0\MSBuild.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		MSBuild, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2F56FA1C-12AD-4C29-980A-76BD7816BD43}
+			Sign:b0f8115bc2e0415b2dc748022e76096ac15c5244
+		Microsoft.Build.Framework, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A69C53AA-7281-4A22-86E9-0CEF46E796B1}
+			Sign:b41bc6b83bd13b5d87a797d071e51f86ca0908f4
+		Microsoft.Build.Engine, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5DA9F1ED-78E8-4EFF-BB9C-C0C472F21B31}
+			Sign:1f6d4630569006c6267867ab7de54c214023f3d0
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:53:16.703 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild.exe
+08/15/2013 19:53:16.750 [2248]: 1>Began compiling: Microsoft.Build.Engine, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:18.453 [2248]: 1>Microsoft.Build.Engine, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:18.453 [2248]: 1>	Source MVID:	{5DA9F1ED-78E8-4EFF-BB9C-C0C472F21B31}
+	Source HASH:	1f6d4630569006c6267867ab7de54c214023f3d0
+	NGen GUID sign:	{E4FB0FEA-558C-C585-4F0F-86B96B7E37A3}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Eng#\ea0ffbe48c5585c54f0f86b96b7e37a3\Microsoft.Build.Engine.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Engine, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5DA9F1ED-78E8-4EFF-BB9C-C0C472F21B31}
+			Sign:1f6d4630569006c6267867ab7de54c214023f3d0
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		Microsoft.Build.Framework, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A69C53AA-7281-4A22-86E9-0CEF46E796B1}
+			Sign:b41bc6b83bd13b5d87a797d071e51f86ca0908f4
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:18.453 [2248]: 1>Successfully compiled: Microsoft.Build.Engine, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:18.500 [2248]: 1>Began compiling: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:19.468 [2248]: 1>System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:19.468 [2248]: 1>	Source MVID:	{7E049989-D489-44F6-8F68-96848E714655}
+	Source HASH:	facf8289233b71777082492ddbf71ab4ebf5bd02
+	NGen GUID sign:	{86A2D114-A974-8CF7-5759-E7DCF74A13FD}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Configuration\14d1a28674a9f78c5759e7dcf74a13fd\System.Configuration.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+08/15/2013 19:53:19.484 [2248]: 1>Successfully compiled: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:19.562 [2248]: 1>Began compiling: System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:22.281 [2248]: 1>System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:22.281 [2248]: 1>	Source MVID:	{9672B716-FF4F-4A88-8518-DAE435F8A310}
+	Source HASH:	e710182b38849dba4c4a2f2d0e7ce63d79281fda
+	NGen GUID sign:	{6487C784-DA1C-DAC9-938A-495A878925F3}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.SqlXml\84c787641cdac9da938a495a878925f3\System.Data.SqlXml.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:53:22.281 [2248]: 1>Successfully compiled: System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:22.328 [2248]: 1>Began compiling: System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:23.140 [2248]: 1>System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:23.140 [2248]: 1>	Source MVID:	{58E412B3-B781-4386-BB89-92BABA3B917F}
+	Source HASH:	696c1421264c579745f53ba4dcc2991d76ef3595
+	NGen GUID sign:	{A14D9BC2-3BFA-032C-7513-FA96EE0B475E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Security\c29b4da1fa3b2c037513fa96ee0b475e\System.Security.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:53:23.140 [2248]: 1>Successfully compiled: System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:24.906 [2248]: Operation completed. VA Usage: 7806976. Handle count: 125
+08/15/2013 19:53:24.968 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:25.031 [2248]: Operation completed. VA Usage: 7725056. Handle count: 127
+08/15/2013 19:53:25.093 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:25.937 [2248]: Operation completed. VA Usage: 7860224. Handle count: 126
+08/15/2013 19:53:26.000 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:26.734 [2248]: Operation completed. VA Usage: 7864320. Handle count: 126
+08/15/2013 19:53:26.828 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:27.250 [2248]: Operation completed. VA Usage: 7757824. Handle count: 126
+08/15/2013 19:53:27.296 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:28.000 [2248]: Operation completed. VA Usage: 7704576. Handle count: 126
+08/15/2013 19:53:28.046 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:28.625 [2248]: Operation completed. VA Usage: 7766016. Handle count: 127
+08/15/2013 19:53:28.703 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:29.000 [2248]: 1>Began compiling: Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:29.437 [2248]: 1>Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:29.453 [2248]: 1>	Source MVID:	{5689BC02-432A-4B96-9A2F-8B77F12E82E1}
+	Source HASH:	4056244bf45acaf04d5b923b97b70ae5fc3f1a27
+	NGen GUID sign:	{CD7A48ED-521E-4EBC-5B3E-8679957BF401}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Con#\ed487acd1e52bc4e5b3e8679957bf401\Microsoft.Build.Conversion.v3.5.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5689BC02-432A-4B96-9A2F-8B77F12E82E1}
+			Sign:4056244bf45acaf04d5b923b97b70ae5fc3f1a27
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		Microsoft.Build.Engine, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5DA9F1ED-78E8-4EFF-BB9C-C0C472F21B31}
+			Sign:1f6d4630569006c6267867ab7de54c214023f3d0
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.Build.Framework, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A69C53AA-7281-4A22-86E9-0CEF46E796B1}
+			Sign:b41bc6b83bd13b5d87a797d071e51f86ca0908f4
+
+08/15/2013 19:53:29.453 [2248]: 1>Successfully compiled: Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:29.734 [2248]: Operation completed. VA Usage: 7737344. Handle count: 126
+08/15/2013 19:53:29.796 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:30.031 [2248]: Operation completed. VA Usage: 7757824. Handle count: 126
+08/15/2013 19:53:30.078 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:30.250 [2248]: 1>Began compiling: Microsoft.Build.Engine, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:31.234 [2248]: 1>Microsoft.Build.Engine, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:31.234 [2248]: 1>	Source MVID:	{5AD5E149-F9AF-4799-907D-925C96501801}
+	Source HASH:	870b31385efcc5aa6647944fbb89afdd13393944
+	NGen GUID sign:	{01F72F33-275B-71D0-01B3-C0964C0F5F10}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Eng#\332ff7015b27d07101b3c0964c0f5f10\Microsoft.Build.Engine.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Engine, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5AD5E149-F9AF-4799-907D-925C96501801}
+			Sign:870b31385efcc5aa6647944fbb89afdd13393944
+		Microsoft.Build.Framework, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{109B6028-D29E-4A6F-9B41-8BC460927BBC}
+			Sign:7a0b472d513209569bfba566bdb59759a2b26f9c
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:31.234 [2248]: 1>Successfully compiled: Microsoft.Build.Engine, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:31.515 [2248]: Operation completed. VA Usage: 7737344. Handle count: 126
+08/15/2013 19:53:31.593 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:32.015 [2248]: Operation completed. VA Usage: 7782400. Handle count: 126
+08/15/2013 19:53:32.046 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:32.281 [2248]: 1>Began compiling: Microsoft.Build.Tasks, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:33.703 [2248]: 1>Microsoft.Build.Tasks, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:33.718 [2248]: 1>	Source MVID:	{1C9CA184-07DB-4AF6-988B-69C14E7BE126}
+	Source HASH:	4bd2cf4cf03f9e5b5f1a308ae3d1519ad1d93347
+	NGen GUID sign:	{8217166C-4293-5183-0877-1F04DC5BF32B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Tas#\6c1617829342835108771f04dc5bf32b\Microsoft.Build.Tasks.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Tasks, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1C9CA184-07DB-4AF6-988B-69C14E7BE126}
+			Sign:4bd2cf4cf03f9e5b5f1a308ae3d1519ad1d93347
+		Microsoft.Build.Utilities, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E7DA4EE3-CCDE-4875-895B-669578A827EC}
+			Sign:61fe750e75171734486387fb6843ba0479253951
+		Microsoft.Build.Framework, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{109B6028-D29E-4A6F-9B41-8BC460927BBC}
+			Sign:7a0b472d513209569bfba566bdb59759a2b26f9c
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+08/15/2013 19:53:33.718 [2248]: 1>Successfully compiled: Microsoft.Build.Tasks, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:35.265 [2248]: Operation completed. VA Usage: 8208384. Handle count: 126
+08/15/2013 19:53:35.343 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:35.500 [2248]: Operation completed. VA Usage: 7909376. Handle count: 126
+08/15/2013 19:53:35.546 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:35.703 [2248]: 1>Began compiling: Microsoft.Build.Utilities, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.062 [2248]: 1>Microsoft.Build.Utilities, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.062 [2248]: 1>	Source MVID:	{E7DA4EE3-CCDE-4875-895B-669578A827EC}
+	Source HASH:	61fe750e75171734486387fb6843ba0479253951
+	NGen GUID sign:	{6B24CF20-10F6-24AA-3711-49C71D0263AC}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Uti#\20cf246bf610aa24371149c71d0263ac\Microsoft.Build.Utilities.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Utilities, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E7DA4EE3-CCDE-4875-895B-669578A827EC}
+			Sign:61fe750e75171734486387fb6843ba0479253951
+		Microsoft.Build.Framework, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{109B6028-D29E-4A6F-9B41-8BC460927BBC}
+			Sign:7a0b472d513209569bfba566bdb59759a2b26f9c
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:36.078 [2248]: 1>Successfully compiled: Microsoft.Build.Utilities, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.281 [2248]: 1>Began compiling: Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.656 [2248]: 1>Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.656 [2248]: 1>	Source MVID:	{89A273A1-6F25-4FA1-B742-7160A6A007F2}
+	Source HASH:	37055f2c6e314aea7e32a9f3e7c36eb81261d9b4
+	NGen GUID sign:	{9021E60F-A7C6-56E3-4E7B-9B5F253D1A8D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Uti#\0fe62190c6a7e3564e7b9b5f253d1a8d\Microsoft.Build.Utilities.v3.5.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{89A273A1-6F25-4FA1-B742-7160A6A007F2}
+			Sign:37055f2c6e314aea7e32a9f3e7c36eb81261d9b4
+		Microsoft.Build.Framework, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A69C53AA-7281-4A22-86E9-0CEF46E796B1}
+			Sign:b41bc6b83bd13b5d87a797d071e51f86ca0908f4
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:36.656 [2248]: 1>Successfully compiled: Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.765 [2248]: Operation completed. VA Usage: 7741440. Handle count: 126
+08/15/2013 19:53:36.812 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:36.875 [2248]: Operation completed. VA Usage: 7749632. Handle count: 126
+08/15/2013 19:53:36.921 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:37.796 [2248]: 1>Began compiling: Microsoft.CompactFramework.Design.WindowsCE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:38.937 [2248]: 1>Microsoft.CompactFramework.Design.WindowsCE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:38.937 [2248]: 1>	Source MVID:	{AED0F9CB-525B-4B63-9E49-ED9AEA933624}
+	Source HASH:	ec1a19d301613cfe7b5d2aef9d60178f911c74f5
+	NGen GUID sign:	{4F2D2F46-D2DA-E084-AC65-143E23DDA002}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.CompactFr#\462f2d4fdad284e0ac65143e23dda002\Microsoft.CompactFramework.Design.WindowsCE.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.CompactFramework.Design.WindowsCE, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AED0F9CB-525B-4B63-9E49-ED9AEA933624}
+			Sign:ec1a19d301613cfe7b5d2aef9d60178f911c74f5
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.CompactFramework.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C38DB051-5B1B-40C6-8575-C8EB4896FFAB}
+			Sign:dbfb406a7f0441cd0ed1e559549c775816ddf988
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		Microsoft.CompactFramework.Design.Data, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F6BD0501-5D9A-4D27-91A6-2FAF61D22A06}
+			Sign:1e7eaccdf944427fb6565dff9f7af10d6982fe07
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{259AA1EE-7C88-48ED-A896-A2A6FA7FE4FD}
+			Sign:7c96fb0f7c31d92e72ce1f5b5334923fe2a8d3e3
+		Microsoft.SqlServer.BatchParser, Version=9.0.242.0, PublicKeyToken=89845dcd8080cc91:
+			** Missing dependency assembly **
+		Microsoft.VisualStudio.TeamSystem.Data.UnitTesting, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{02B79D30-7704-4C18-9033-15980C97A2DC}
+			Sign:1bb312189be15bfa9a0206a601fb919fdc479127
+		Microsoft.SqlServer.ConnectionInfo, Version=9.0.242.0, PublicKeyToken=89845dcd8080cc91:
+			** Missing dependency assembly **
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5DBD4116-DCB5-4780-B308-733B18728ED0}
+			Sign:7028e11ee8aa4dd32ba1b39d5a4bea49b0b6f787
+
+08/15/2013 19:53:05.500 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\URTInstallPath_GAC\Microsoft.VisualStudio.TeamSystem.DataPackage.dll
+08/15/2013 19:53:06.515 [2248]: 1>Began compiling: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+08/15/2013 19:53:07.437 [2248]: 1>ComSvcConfig, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:07.437 [2248]: 1>	Source MVID:	{BE0A5A81-2F07-469A-B4F2-54DA4E7D9000}
+	Source HASH:	f62ef667db21800a1164cc77d326f4a1cf221883
+	NGen GUID sign:	{78982D64-B872-1D40-3DA7-DD0BA5D15365}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\ComSvcConfig\642d987872b8401d3da7dd0ba5d15365\ComSvcConfig.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		ComSvcConfig, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{BE0A5A81-2F07-469A-B4F2-54DA4E7D9000}
+			Sign:f62ef667db21800a1164cc77d326f4a1cf221883
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.EnterpriseServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{967C73B3-EDCF-4C0D-A78C-08C4F1B99510}
+			Sign:edc55c6e0f7291b5c0b15cc2360c1a50ca9c1c8a
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.DirectoryServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{99762AEF-6716-46A9-B853-B974F553535E}
+			Sign:4133032008c9c8ad863b31e1c9b01284ee2611bf
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+08/15/2013 19:53:07.453 [2248]: 1>Successfully compiled: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+08/15/2013 19:53:07.859 [2248]: 1>Began compiling: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\Microsoft.Transactions.Bridge.dll
+08/15/2013 19:53:09.437 [2248]: 1>Microsoft.Transactions.Bridge, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:09.437 [2248]: 1>	Source MVID:	{AE3FC32C-06B3-4889-8791-DA0B8D6212D2}
+	Source HASH:	dbe6444d1b40c9c97ee11ed936954e82668e007d
+	NGen GUID sign:	{0CCD3FCF-FD40-E288-BD10-803344010DAA}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Transacti#\cf3fcd0c40fd88e2bd10803344010daa\Microsoft.Transactions.Bridge.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Transactions.Bridge, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AE3FC32C-06B3-4889-8791-DA0B8D6212D2}
+			Sign:dbe6444d1b40c9c97ee11ed936954e82668e007d
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.IdentityModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9878EB2F-4090-4613-9842-1DB4B755F993}
+			Sign:2d6a11afa2ca1b115f562ffc7b2f48e99e3712a0
+		System.Runtime.Serialization, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C854EC4A-4592-41F1-814C-5EDA1C3DDE00}
+			Sign:32867590c66335ec1b94a00ea6ca8aa1b3ea1ff4
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+08/15/2013 19:53:09.453 [2248]: 1>Successfully compiled: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\Microsoft.Transactions.Bridge.dll
+08/15/2013 19:53:10.000 [2248]: 1>Began compiling: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\Microsoft.Transactions.Bridge.Dtc.dll
+08/15/2013 19:53:10.640 [2248]: 1>Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:10.640 [2248]: 1>	Source MVID:	{BB41AD25-9CE1-466E-BE63-45ED93F54F4F}
+	Source HASH:	92a50c343c6c25c952a1f6a0c2e3a7df574eed8c
+	NGen GUID sign:	{29D8BAEA-9799-6935-11D3-91AF92B76349}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Transacti#\eabad8299997356911d391af92b76349\Microsoft.Transactions.Bridge.Dtc.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{BB41AD25-9CE1-466E-BE63-45ED93F54F4F}
+			Sign:92a50c343c6c25c952a1f6a0c2e3a7df574eed8c
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.Transactions.Bridge, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AE3FC32C-06B3-4889-8791-DA0B8D6212D2}
+			Sign:dbe6444d1b40c9c97ee11ed936954e82668e007d
+		Microsoft.VisualC, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{EFBC60FC-EC15-4AD1-B123-6794626918BC}
+			Sign:f2d6828235b6713679fe84559c7325cd6d2ce5e6
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+
+08/15/2013 19:53:10.640 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\Microsoft.Transactions.Bridge.Dtc.dll
+08/15/2013 19:53:11.250 [2248]: Failed to load dependency Microsoft.Web.Administration of assembly ServiceModelReg, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a because of the following error : 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+08/15/2013 19:53:11.343 [2248]: 1>Began compiling: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ServiceModelReg.exe
+08/15/2013 19:53:11.703 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.703 [2248]: 1> while resolving 0x1000026 - Microsoft.Web.Administration.ServerManager.
+08/15/2013 19:53:11.718 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.718 [2248]: 1> while resolving 0x1000027 - Microsoft.Web.Administration.Configuration.
+08/15/2013 19:53:11.718 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.718 [2248]: 1> while resolving 0x1000028 - Microsoft.Web.Administration.ConfigurationSection.
+08/15/2013 19:53:11.718 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.718 [2248]: 1> while resolving 0x1000029 - Microsoft.Web.Administration.ConfigurationElement.
+08/15/2013 19:53:11.734 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.734 [2248]: 1> while resolving 0x10000d2 - Microsoft.Web.Administration.ConfigurationAttribute.
+08/15/2013 19:53:11.734 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.734 [2248]: 1> while resolving 0x10000d3 - Microsoft.Web.Administration.ConfigurationElementCollection.
+08/15/2013 19:53:11.734 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.734 [2248]: 1> while resolving 0x10000d4 - Microsoft.Web.Administration.ConfigurationElementCollectionBase`1.
+08/15/2013 19:53:11.734 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.750 [2248]: 1> while resolving 0x1b000010 - .
+08/15/2013 19:53:11.750 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.750 [2248]: 1> while resolving 0x1b000011 - .
+08/15/2013 19:53:11.750 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.750 [2248]: 1> while resolving 0x1b000018 - .
+08/15/2013 19:53:11.750 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.750 [2248]: 1> while resolving 0xa00018b - Microsoft.Web.Administration.ServerManager..ctor.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa00018c - Microsoft.Web.Administration.ServerManager.GetApplicationHostConfiguration.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa00018d - Microsoft.Web.Administration.Configuration.GetSection.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa00018e - Microsoft.Web.Administration.ServerManager.CommitChanges.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa00018f - Microsoft.Web.Administration.ConfigurationElement.GetAttribute.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa000190 - Microsoft.Web.Administration.ConfigurationAttribute.get_Value.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa000191 - Microsoft.Web.Administration.ConfigurationElement.GetCollection.
+08/15/2013 19:53:11.765 [2248]: 1>Warning: System.IO.FileNotFoundException: 未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+
+警告: 程序集绑定日志记录被关闭。
+要启用程序集绑定失败日志记录，请将注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD)设置为 1。
+注意: 会有一些与程序集绑定失败日志记录关联的性能损失。
+要关闭此功能，请移除注册表值 [HKLM\Software\Microsoft\Fusion!EnableLog]。
+08/15/2013 19:53:11.765 [2248]: 1> while resolving 0xa000195 - Microsoft.Web.Administration.ConfigurationAttribute.set_Value.
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.CheckApplicationHostInstalled
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.get_ApplicationHostConfiguration
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.get_HttpHandlersSection
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.get_HttpModulesSection
+08/15/2013 19:53:11.937 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.get_ListenerAdaptersSection
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method IIS7ConfigurationLoader.Save
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.get_InstalledVersions
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.get_IsInstalled
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.GetListenerAdapterFromCollection
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.Install
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.Uninstall
+08/15/2013 19:53:11.953 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method ListenerAdaptersInstallComponent.VerifyInstall
+08/15/2013 19:53:11.968 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.get_InstalledVersions
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.get_IsInstalled
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.GetHttpHandlerFromCollection
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.Install
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.CopyHandlerAttributes
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.AddSvcHandlers
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.Uninstall
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpHandlersInstallComponent.VerifyInstall
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.get_InstalledVersions
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.get_IsInstalled
+08/15/2013 19:53:11.984 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.GetHttpModuleFromCollection
+08/15/2013 19:53:12.000 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.Install
+08/15/2013 19:53:12.000 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.Uninstall
+08/15/2013 19:53:12.000 [2248]: 1>未能加载文件或程序集“Microsoft.Web.Administration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。 while compiling method WasHttpModulesInstallComponent.VerifyInstall
+08/15/2013 19:53:12.281 [2248]: 1>ServiceModelReg, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:12.281 [2248]: 1>	Source MVID:	{D0CD9E82-4A42-4024-820C-8CD0BF4F3B2A}
+	Source HASH:	bea9b82e42ccfad45906637676f2fcfd1983f048
+	NGen GUID sign:	{E676E801-F185-DB2F-7847-264299417503}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\ServiceModelReg\01e876e685f12fdb7847264299417503\ServiceModelReg.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		ServiceModelReg, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{D0CD9E82-4A42-4024-820C-8CD0BF4F3B2A}
+			Sign:bea9b82e42ccfad45906637676f2fcfd1983f048
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+		System.DirectoryServices, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{99762AEF-6716-46A9-B853-B974F553535E}
+			Sign:4133032008c9c8ad863b31e1c9b01284ee2611bf
+		System.ServiceModel.Install, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{41F7D0C4-16FE-41E3-8457-E34ABE982AB0}
+			Sign:0d580d2913a919ded4459f4234b14a75f6843a28
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1668117B-BDBE-484C-AA0F-E8D96A151F3A}
+			Sign:e3a4e1a56a9522c13b6ccd75f3581a337171fcd7
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		Microsoft.Web.Administration, Version=7.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			** Missing dependency assembly **
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+
+08/15/2013 19:53:12.296 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ServiceModelReg.exe
+08/15/2013 19:53:12.593 [2248]: 1>Began compiling: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMdiagnostics.dll
+08/15/2013 19:53:12.796 [2248]: 1>Warning: Failed to load method token 690000d9 from profile data.
+08/15/2013 19:53:12.796 [2248]: 1>Warning: Failed to load method token 690000da from profile data.
+08/15/2013 19:53:12.796 [2248]: 1>Warning: Failed to load method token 690000d9 from profile data.
+08/15/2013 19:53:12.796 [2248]: 1>Warning: Failed to load method token 690000da from profile data.
+08/15/2013 19:53:12.937 [2248]: 1>Warning: Failed to load method token 690000d9 from profile data.
+08/15/2013 19:53:12.937 [2248]: 1>Warning: Failed to load method token 690000da from profile data.
+08/15/2013 19:53:13.156 [2248]: 1>SMDiagnostics, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:13.171 [2248]: 1>	Source MVID:	{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+	Source HASH:	e8a327a89b108957e440269fd7999dec2d6b6ecd
+	NGen GUID sign:	{C0AE1056-6044-685E-4808-6B4454EE2E15}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\SMDiagnostics\5610aec044605e6848086b4454ee2e15\SMDiagnostics.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+
+08/15/2013 19:53:13.171 [2248]: 1>Successfully compiled: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMdiagnostics.dll
+08/15/2013 19:53:13.640 [2248]: 1>Began compiling: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe
+08/15/2013 19:53:14.562 [2248]: 1>SMSvcHost, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:14.578 [2248]: 1>	Source MVID:	{FB0D83CD-FBFF-4877-9634-E36ACE2067DC}
+	Source HASH:	5b60712f128923e1559c740476a92f24b5fc0e67
+	NGen GUID sign:	{7C0183F4-4791-8934-833E-9F7190A4010E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\SMSvcHost\f483017c91473489833e9f7190a4010e\SMSvcHost.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		SMSvcHost, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{FB0D83CD-FBFF-4877-9634-E36ACE2067DC}
+			Sign:5b60712f128923e1559c740476a92f24b5fc0e67
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.ServiceModel, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{1305F7C9-4DC5-48A1-AC5A-8271AE9F0849}
+			Sign:335e53dfbb5bca62f5d45fda3a176ad0a6bbfe78
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+		SMDiagnostics, Version=3.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{CDCA8EE1-E8C1-4BD6-A63C-F133BFE7586E}
+			Sign:e8a327a89b108957e440269fd7999dec2d6b6ecd
+		System.Messaging, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{79F2D44A-73DD-466E-A8DF-BFA7DC161D43}
+			Sign:49970fc02f54b501d4a50c9533ab49f6137f2975
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+
+08/15/2013 19:53:14.578 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe
+08/15/2013 19:53:15.000 [2248]: 1>Began compiling: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\WsatConfig.exe
+08/15/2013 19:53:15.656 [2248]: 1>WsatConfig, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:15.656 [2248]: 1>	Source MVID:	{837862A7-95B9-4054-B419-6317D4ED1375}
+	Source HASH:	b5899c13a8ba73e6d321f71c3552ee4c0f7089b6
+	NGen GUID sign:	{2D384EF0-097B-435C-380A-A1E1019222E9}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\WsatConfig\f04e382d7b095c43380aa1e1019222e9\WsatConfig.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		WsatConfig, Version=3.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{837862A7-95B9-4054-B419-6317D4ED1375}
+			Sign:b5899c13a8ba73e6d321f71c3552ee4c0f7089b6
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.ServiceProcess, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B0E5DB05-2098-48D5-AF4F-79028FC447D1}
+			Sign:0be9e9d643b5ec29e298194f50188a3463df4dc3
+		System.Management, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AF45D323-32D3-41B9-AD23-D349C201311B}
+			Sign:9867053012d2e908c160d1c442cc231ab4e8884a
+
+08/15/2013 19:53:15.671 [2248]: 1>Successfully compiled: c:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\WsatConfig.exe
+08/15/2013 19:53:16.109 [2248]: 1>Began compiling: C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild.exe
+08/15/2013 19:53:16.687 [2248]: 1>MSBuild, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:16.687 [2248]: 1>	Source MVID:	{2F56FA1C-12AD-4C29-980A-76BD7816BD43}
+	Source HASH:	b0f8115bc2e0415b2dc748022e76096ac15c5244
+	NGen GUID sign:	{14EDBB7B-B0AF-798E-702B-A5AA12688EE0}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\MSBuild\7bbbed14afb08e79702ba5aa12688ee0\MSBuild.ni.exe
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		MSBuild, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2F56FA1C-12AD-4C29-980A-76BD7816BD43}
+			Sign:b0f8115bc2e0415b2dc748022e76096ac15c5244
+		Microsoft.Build.Framework, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A69C53AA-7281-4A22-86E9-0CEF46E796B1}
+			Sign:b41bc6b83bd13b5d87a797d071e51f86ca0908f4
+		Microsoft.Build.Engine, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5DA9F1ED-78E8-4EFF-BB9C-C0C472F21B31}
+			Sign:1f6d4630569006c6267867ab7de54c214023f3d0
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:53:16.703 [2248]: 1>Successfully compiled: C:\WINDOWS\Microsoft.NET\Framework\v3.5\MSBuild.exe
+08/15/2013 19:53:16.750 [2248]: 1>Began compiling: Microsoft.Build.Engine, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:18.453 [2248]: 1>Microsoft.Build.Engine, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:18.453 [2248]: 1>	Source MVID:	{5DA9F1ED-78E8-4EFF-BB9C-C0C472F21B31}
+	Source HASH:	1f6d4630569006c6267867ab7de54c214023f3d0
+	NGen GUID sign:	{E4FB0FEA-558C-C585-4F0F-86B96B7E37A3}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Eng#\ea0ffbe48c5585c54f0f86b96b7e37a3\Microsoft.Build.Engine.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Engine, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5DA9F1ED-78E8-4EFF-BB9C-C0C472F21B31}
+			Sign:1f6d4630569006c6267867ab7de54c214023f3d0
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		Microsoft.Build.Framework, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A69C53AA-7281-4A22-86E9-0CEF46E796B1}
+			Sign:b41bc6b83bd13b5d87a797d071e51f86ca0908f4
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:18.453 [2248]: 1>Successfully compiled: Microsoft.Build.Engine, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:18.500 [2248]: 1>Began compiling: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:19.468 [2248]: 1>System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:19.468 [2248]: 1>	Source MVID:	{7E049989-D489-44F6-8F68-96848E714655}
+	Source HASH:	facf8289233b71777082492ddbf71ab4ebf5bd02
+	NGen GUID sign:	{86A2D114-A974-8CF7-5759-E7DCF74A13FD}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Configuration\14d1a28674a9f78c5759e7dcf74a13fd\System.Configuration.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+08/15/2013 19:53:19.484 [2248]: 1>Successfully compiled: System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:19.562 [2248]: 1>Began compiling: System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:22.281 [2248]: 1>System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:22.281 [2248]: 1>	Source MVID:	{9672B716-FF4F-4A88-8518-DAE435F8A310}
+	Source HASH:	e710182b38849dba4c4a2f2d0e7ce63d79281fda
+	NGen GUID sign:	{6487C784-DA1C-DAC9-938A-495A878925F3}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Data.SqlXml\84c787641cdac9da938a495a878925f3\System.Data.SqlXml.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+			Hardbound Guid:{AC0036F9-6B83-4091-E1DF-13BB0F6BFCCF}
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:53:22.281 [2248]: 1>Successfully compiled: System.Data.SqlXml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+08/15/2013 19:53:22.328 [2248]: 1>Began compiling: System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:23.140 [2248]: 1>System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:23.140 [2248]: 1>	Source MVID:	{58E412B3-B781-4386-BB89-92BABA3B917F}
+	Source HASH:	696c1421264c579745f53ba4dcc2991d76ef3595
+	NGen GUID sign:	{A14D9BC2-3BFA-032C-7513-FA96EE0B475E}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Security\c29b4da1fa3b2c037513fa96ee0b475e\System.Security.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Data.SqlXml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{9672B716-FF4F-4A88-8518-DAE435F8A310}
+			Sign:e710182b38849dba4c4a2f2d0e7ce63d79281fda
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+
+08/15/2013 19:53:23.140 [2248]: 1>Successfully compiled: System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:24.906 [2248]: Operation completed. VA Usage: 7806976. Handle count: 125
+08/15/2013 19:53:24.968 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:25.031 [2248]: Operation completed. VA Usage: 7725056. Handle count: 127
+08/15/2013 19:53:25.093 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:25.937 [2248]: Operation completed. VA Usage: 7860224. Handle count: 126
+08/15/2013 19:53:26.000 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:26.734 [2248]: Operation completed. VA Usage: 7864320. Handle count: 126
+08/15/2013 19:53:26.828 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:27.250 [2248]: Operation completed. VA Usage: 7757824. Handle count: 126
+08/15/2013 19:53:27.296 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:28.000 [2248]: Operation completed. VA Usage: 7704576. Handle count: 126
+08/15/2013 19:53:28.046 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:28.625 [2248]: Operation completed. VA Usage: 7766016. Handle count: 127
+08/15/2013 19:53:28.703 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:29.000 [2248]: 1>Began compiling: Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:29.437 [2248]: 1>Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:29.453 [2248]: 1>	Source MVID:	{5689BC02-432A-4B96-9A2F-8B77F12E82E1}
+	Source HASH:	4056244bf45acaf04d5b923b97b70ae5fc3f1a27
+	NGen GUID sign:	{CD7A48ED-521E-4EBC-5B3E-8679957BF401}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Con#\ed487acd1e52bc4e5b3e8679957bf401\Microsoft.Build.Conversion.v3.5.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5689BC02-432A-4B96-9A2F-8B77F12E82E1}
+			Sign:4056244bf45acaf04d5b923b97b70ae5fc3f1a27
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		Microsoft.Build.Engine, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5DA9F1ED-78E8-4EFF-BB9C-C0C472F21B31}
+			Sign:1f6d4630569006c6267867ab7de54c214023f3d0
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		Microsoft.Build.Framework, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A69C53AA-7281-4A22-86E9-0CEF46E796B1}
+			Sign:b41bc6b83bd13b5d87a797d071e51f86ca0908f4
+
+08/15/2013 19:53:29.453 [2248]: 1>Successfully compiled: Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:29.734 [2248]: Operation completed. VA Usage: 7737344. Handle count: 126
+08/15/2013 19:53:29.796 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:30.031 [2248]: Operation completed. VA Usage: 7757824. Handle count: 126
+08/15/2013 19:53:30.078 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:30.250 [2248]: 1>Began compiling: Microsoft.Build.Engine, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:31.234 [2248]: 1>Microsoft.Build.Engine, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:31.234 [2248]: 1>	Source MVID:	{5AD5E149-F9AF-4799-907D-925C96501801}
+	Source HASH:	870b31385efcc5aa6647944fbb89afdd13393944
+	NGen GUID sign:	{01F72F33-275B-71D0-01B3-C0964C0F5F10}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Eng#\332ff7015b27d07101b3c0964c0f5f10\Microsoft.Build.Engine.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Engine, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{5AD5E149-F9AF-4799-907D-925C96501801}
+			Sign:870b31385efcc5aa6647944fbb89afdd13393944
+		Microsoft.Build.Framework, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{109B6028-D29E-4A6F-9B41-8BC460927BBC}
+			Sign:7a0b472d513209569bfba566bdb59759a2b26f9c
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:31.234 [2248]: 1>Successfully compiled: Microsoft.Build.Engine, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:31.515 [2248]: Operation completed. VA Usage: 7737344. Handle count: 126
+08/15/2013 19:53:31.593 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:32.015 [2248]: Operation completed. VA Usage: 7782400. Handle count: 126
+08/15/2013 19:53:32.046 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:32.281 [2248]: 1>Began compiling: Microsoft.Build.Tasks, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:33.703 [2248]: 1>Microsoft.Build.Tasks, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:33.718 [2248]: 1>	Source MVID:	{1C9CA184-07DB-4AF6-988B-69C14E7BE126}
+	Source HASH:	4bd2cf4cf03f9e5b5f1a308ae3d1519ad1d93347
+	NGen GUID sign:	{8217166C-4293-5183-0877-1F04DC5BF32B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Tas#\6c1617829342835108771f04dc5bf32b\Microsoft.Build.Tasks.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Tasks, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{1C9CA184-07DB-4AF6-988B-69C14E7BE126}
+			Sign:4bd2cf4cf03f9e5b5f1a308ae3d1519ad1d93347
+		Microsoft.Build.Utilities, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E7DA4EE3-CCDE-4875-895B-669578A827EC}
+			Sign:61fe750e75171734486387fb6843ba0479253951
+		Microsoft.Build.Framework, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{109B6028-D29E-4A6F-9B41-8BC460927BBC}
+			Sign:7a0b472d513209569bfba566bdb59759a2b26f9c
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Security, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{58E412B3-B781-4386-BB89-92BABA3B917F}
+			Sign:696c1421264c579745f53ba4dcc2991d76ef3595
+
+08/15/2013 19:53:33.718 [2248]: 1>Successfully compiled: Microsoft.Build.Tasks, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:35.265 [2248]: Operation completed. VA Usage: 8208384. Handle count: 126
+08/15/2013 19:53:35.343 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:35.500 [2248]: Operation completed. VA Usage: 7909376. Handle count: 126
+08/15/2013 19:53:35.546 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:35.703 [2248]: 1>Began compiling: Microsoft.Build.Utilities, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.062 [2248]: 1>Microsoft.Build.Utilities, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.062 [2248]: 1>	Source MVID:	{E7DA4EE3-CCDE-4875-895B-669578A827EC}
+	Source HASH:	61fe750e75171734486387fb6843ba0479253951
+	NGen GUID sign:	{6B24CF20-10F6-24AA-3711-49C71D0263AC}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Uti#\20cf246bf610aa24371149c71d0263ac\Microsoft.Build.Utilities.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Utilities, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E7DA4EE3-CCDE-4875-895B-669578A827EC}
+			Sign:61fe750e75171734486387fb6843ba0479253951
+		Microsoft.Build.Framework, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{109B6028-D29E-4A6F-9B41-8BC460927BBC}
+			Sign:7a0b472d513209569bfba566bdb59759a2b26f9c
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:36.078 [2248]: 1>Successfully compiled: Microsoft.Build.Utilities, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.281 [2248]: 1>Began compiling: Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.656 [2248]: 1>Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.656 [2248]: 1>	Source MVID:	{89A273A1-6F25-4FA1-B742-7160A6A007F2}
+	Source HASH:	37055f2c6e314aea7e32a9f3e7c36eb81261d9b4
+	NGen GUID sign:	{9021E60F-A7C6-56E3-4E7B-9B5F253D1A8D}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.Build.Uti#\0fe62190c6a7e3564e7b9b5f253d1a8d\Microsoft.Build.Utilities.v3.5.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{89A273A1-6F25-4FA1-B742-7160A6A007F2}
+			Sign:37055f2c6e314aea7e32a9f3e7c36eb81261d9b4
+		Microsoft.Build.Framework, Version=3.5.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{A69C53AA-7281-4A22-86E9-0CEF46E796B1}
+			Sign:b41bc6b83bd13b5d87a797d071e51f86ca0908f4
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+
+08/15/2013 19:53:36.656 [2248]: 1>Successfully compiled: Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:36.765 [2248]: Operation completed. VA Usage: 7741440. Handle count: 126
+08/15/2013 19:53:36.812 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:36.875 [2248]: Operation completed. VA Usage: 7749632. Handle count: 126
+08/15/2013 19:53:36.921 [2248]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+08/15/2013 19:53:37.796 [2248]: 1>Began compiling: Microsoft.CompactFramework.Design.WindowsCE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:38.937 [2248]: 1>Microsoft.CompactFramework.Design.WindowsCE, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+08/15/2013 19:53:38.937 [2248]: 1>	Source MVID:	{AED0F9CB-525B-4B63-9E49-ED9AEA933624}
+	Source HASH:	ec1a19d301613cfe7b5d2aef9d60178f911c74f5
+	NGen GUID sign:	{4F2D2F46-D2DA-E084-AC65-143E23DDA002}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3649
+	mscorwks.dll:	TimeStamp=5174DCD3, CheckSum=005A5985
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\Microsoft.CompactFr#\462f2d4fdad284e0ac65143e23dda002\Microsoft.CompactFramework.Design.WindowsCE.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{C9F63B3E-6875-4400-98F5-69C16F8D0201}
+			Sign:7dca848ce17406dc03cd742755682ff02c76b0a4
+			Hardbound Guid:{475943B1-4407-40C8-C59F-BE4E58034FD6}
+		Microsoft.CompactFramework.Design.WindowsCE, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AED0F9CB-525B-4B63-9E49-ED9AEA933624}
+			Sign:ec1a19d301613cfe7b5d2aef9d60178f911c74f5
+		System.Drawing, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{05B3B4BE-F0ED-495C-B278-BE0688A3B995}
+			Sign:942cacb0d801761bf4f2e60e0cc9aa20f60e5c3f
+		Microsoft.CompactFramework.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{C38DB051-5B1B-40C6-8575-C8EB4896FFAB}
+			Sign:dbfb406a7f0441cd0ed1e559549c775816ddf988
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{5439DF10-F72D-84D4-6245-1FC39BCE8418}
+		System.Windows.Forms, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{26CEB4AA-EAD0-40A7-A383-AD3779B31A51}
+			Sign:40fe1f678e20d761c207cb5ddf36cf74bd903a95
+		Microsoft.VisualStudio.Shell.9.0, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9BDCF51A-9C40-4F52-805B-DD201EEC9080}
+			Sign:53e5bfc834137842ff5f1793820a2431973c9877
+		Microsoft.VisualStudio.Shell.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{9269D484-EC82-40D9-A9D6-0BB693B24E0B}
+			Sign:9e72317ed462aeba16fde8037ab352850eefdb8b
+		Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{B830701B-F04A-4248-9982-32D1A5F22B23}
+			Sign:952137b27599e27a952986f8686db6b7d484b68b
+		Microsoft.VisualStudio.Shell.Interop.8.0, Version=8.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2C0184BA-37F3-424C-B60E-D201CD73970B}
+			Sign:7f4ba3742eb310e5b655b3ad25c26e0568654a74
+		Microsoft.VisualStudio.Shell.Interop.9.0, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7BD3C5FA-D2A9-418F-A710-5C2083A902B1}
+			Sign:bafbb10584c157594c661a1eae54a49885ef784d
+		Microsoft.VisualStudio.Shell.Design, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7B035AC1-6685-470C-BDD9-1E31EF5E2653}
+			Sign:e1a6e34b2503779940ea1ef5679895b634443ace
+		Microsoft.CompactFramework.Design.Data, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{F6BD0501-5D9A-4D27-91A6-2FAF61D22A06}
+			Sign:1e7eaccdf944427fb6565dff9f7af10d6982fe07
+		Microsoft.VSDesigner, Version=9.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{E6FE41B0-5A6E-4625-BD11-94C229B17880}
+			Sign:a79a532c3e10fe95c7f6d3dc88c1da01f03d457a
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:

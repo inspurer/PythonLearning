@@ -1,0 +1,498 @@
+05/14/2014 12:20:32.765 [1764]: Operation completed. VA Usage: 7733248. Handle count: 127
+05/14/2014 12:20:32.828 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:33.000 [1764]: Operation completed. VA Usage: 7712768. Handle count: 126
+05/14/2014 12:20:33.062 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:34.250 [1764]: Operation completed. VA Usage: 7753728. Handle count: 125
+05/14/2014 12:20:34.296 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:34.562 [1764]: Operation completed. VA Usage: 8081408. Handle count: 126
+05/14/2014 12:20:34.625 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:34.968 [1764]: Operation completed. VA Usage: 7634944. Handle count: 126
+05/14/2014 12:20:35.015 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:36.203 [1764]: Operation completed. VA Usage: 8261632. Handle count: 127
+05/14/2014 12:20:36.250 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:36.406 [1764]: Operation completed. VA Usage: 7798784. Handle count: 127
+05/14/2014 12:20:36.468 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:36.718 [1764]: Operation completed. VA Usage: 8073216. Handle count: 126
+05/14/2014 12:20:36.765 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:37.062 [1764]: Operation completed. VA Usage: 7725056. Handle count: 126
+05/14/2014 12:20:37.109 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:37.171 [1764]: Operation completed. VA Usage: 7639040. Handle count: 126
+05/14/2014 12:20:37.218 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:37.421 [1764]: Operation completed. VA Usage: 7622656. Handle count: 126
+05/14/2014 12:20:37.546 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:38.109 [1764]: Operation completed. VA Usage: 7933952. Handle count: 126
+05/14/2014 12:20:38.187 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:38.421 [1764]: Operation completed. VA Usage: 8048640. Handle count: 126
+05/14/2014 12:20:38.468 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:38.640 [1764]: Operation completed. VA Usage: 7839744. Handle count: 126
+05/14/2014 12:20:38.703 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:38.953 [1764]: Operation completed. VA Usage: 7757824. Handle count: 126
+05/14/2014 12:20:39.015 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:39.218 [1764]: Operation completed. VA Usage: 7774208. Handle count: 129
+05/14/2014 12:20:39.265 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:39.687 [1764]: Operation completed. VA Usage: 7864320. Handle count: 127
+05/14/2014 12:20:39.734 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:39.984 [1764]: Operation completed. VA Usage: 7659520. Handle count: 126
+05/14/2014 12:20:40.031 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:40.265 [1764]: Operation completed. VA Usage: 7643136. Handle count: 126
+05/14/2014 12:20:40.312 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:40.671 [1764]: Operation completed. VA Usage: 7888896. Handle count: 127
+05/14/2014 12:20:40.718 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:41.359 [1764]: Operation completed. VA Usage: 8085504. Handle count: 126
+05/14/2014 12:20:41.453 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:41.937 [1764]: Operation completed. VA Usage: 8089600. Handle count: 126
+05/14/2014 12:20:42.000 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:42.328 [1764]: Operation completed. VA Usage: 8110080. Handle count: 126
+05/14/2014 12:20:42.390 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:42.937 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:43.031 [1764]: Operation completed. VA Usage: 8593408. Handle count: 132
+05/14/2014 12:20:43.125 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:43.593 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:43.671 [1764]: Operation completed. VA Usage: 8617984. Handle count: 132
+05/14/2014 12:20:43.750 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:44.453 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:44.531 [1764]: Operation completed. VA Usage: 8572928. Handle count: 132
+05/14/2014 12:20:44.609 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:45.406 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:45.484 [1764]: Operation completed. VA Usage: 8736768. Handle count: 132
+05/14/2014 12:20:45.546 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:46.265 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:46.343 [1764]: Operation completed. VA Usage: 8507392. Handle count: 132
+05/14/2014 12:20:46.421 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:47.203 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:47.296 [1764]: Operation completed. VA Usage: 8482816. Handle count: 134
+05/14/2014 12:20:47.343 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:47.968 [1764]: Operation completed. VA Usage: 7811072. Handle count: 126
+05/14/2014 12:20:48.015 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:48.234 [1764]: Operation completed. VA Usage: 7622656. Handle count: 127
+05/14/2014 12:20:48.343 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:48.671 [1764]: Operation completed. VA Usage: 8081408. Handle count: 126
+05/14/2014 12:20:48.718 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:49.015 [1764]: Operation completed. VA Usage: 7737344. Handle count: 127
+05/14/2014 12:20:49.140 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:49.531 [1764]: Operation completed. VA Usage: 8081408. Handle count: 126
+05/14/2014 12:20:49.578 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:49.906 [1764]: Operation completed. VA Usage: 8097792. Handle count: 126
+05/14/2014 12:20:49.968 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:50.453 [1764]: Operation completed. VA Usage: 7868416. Handle count: 127
+05/14/2014 12:20:50.515 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:52.093 [1764]: Operation completed. VA Usage: 7909376. Handle count: 126
+05/14/2014 12:20:52.234 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:52.859 [1764]: Operation completed. VA Usage: 7843840. Handle count: 126
+05/14/2014 12:20:52.906 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:53.125 [1764]: 1>Began compiling: System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+05/14/2014 12:20:53.593 [1764]: 1>Warning: Failed to load method token 69000012 from profile data.
+05/14/2014 12:20:53.593 [1764]: 1>Warning: Failed to load method token 69000013 from profile data.
+05/14/2014 12:20:53.609 [1764]: 1>Warning: Failed to load method token 69000054 from profile data.
+05/14/2014 12:20:53.609 [1764]: 1>Warning: Failed to load method token 69000055 from profile data.
+05/14/2014 12:20:53.625 [1764]: 1>Warning: Failed to load method token 6900008e from profile data.
+05/14/2014 12:20:53.625 [1764]: 1>Warning: Failed to load method token 69000095 from profile data.
+05/14/2014 12:20:53.625 [1764]: 1>Warning: Failed to load method token 6900009a from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009b from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009c from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009d from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009e from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009f from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a0 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a1 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a2 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a3 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a4 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a5 from profile data.
+05/14/2014 12:20:53.656 [1764]: 1>Warning: Failed to load method token 690000a8 from profile data.
+05/14/2014 12:20:53.656 [1764]: 1>Warning: Failed to load method token 690000b5 from profile data.
+05/14/2014 12:20:53.656 [1764]: 1>Warning: Failed to load method token 690000bd from profile data.
+05/14/2014 12:20:53.656 [1764]: 1>Warning: Failed to load method token 690000c0 from profile data.
+05/14/2014 12:20:53.812 [1764]: 1>Warning: Failed to load method token 69000012 from profile data.
+05/14/2014 12:20:53.812 [1764]: 1>Warning: Failed to load method token 69000013 from profile data.
+05/14/2014 12:20:54.078 [1764]: 1>Warning: Failed to load method token 69000054 from profile data.
+05/14/2014 12:20:54.078 [1764]: 1>Warning: Failed to load method token 69000055 from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900008e from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 69000095 from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009a from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009b from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009c from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009d from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009e from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 6900009f from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a0 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a1 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a2 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a3 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a4 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a5 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a8 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000b5 from profile data.
+05/14/2014 12:20:54.187 [1764]: 1>Warning: Failed to load method token 690000bd from profile data.
+05/14/2014 12:20:54.187 [1764]: 1>Warning: Failed to load method token 690000c0 from profile data.
+05/14/2014 12:20:55.468 [1764]: 1>Warning: Failed to load method token 69000012 from profile data.
+05/14/2014 12:20:55.468 [1764]: 1>Warning: Failed to load method token 69000013 from profile data.
+05/14/2014 12:20:55.484 [1764]: 1>Warning: Failed to load method token 69000054 from profile data.
+05/14/2014 12:20:55.484 [1764]: 1>Warning: Failed to load method token 69000055 from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900008e from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 69000095 from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009a from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009b from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009c from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009d from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009e from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009f from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 690000a0 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a1 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a2 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a3 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a4 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a5 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a8 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000b5 from profile data.
+05/14/2014 12:20:55.531 [1764]: 1>Warning: Failed to load method token 690000bd from profile data.
+05/14/2014 12:20:55.531 [1764]: 1>Warning: Failed to load method token 690000c0 from profile data.
+05/14/2014 12:20:56.296 [1764]: 1>System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+05/14/2014 12:20:56.296 [1764]: 1>	Source MVID:	{3975F1CD-08C7-4F65-AABC-AE417F0717CC}
+	Source HASH:	811e2a188549206f2550f25f2b49f9fb3199b2f3
+	NGen GUID sign:	{19CCE7ED-0CC5-482B-5B55-B85671EFC06B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Workflow.Run#\ede7cc19c50c2b485b55b85671efc06b\System.Workflow.Runtime.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		System.Workflow.Runtime, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{3975F1CD-08C7-4F65-AABC-AE417F0717CC}
+			Sign:811e2a188549206f2550f25f2b49f9fb3199b2f3
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Workflow.ComponentModel, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9BB13B3A-E61C-4AA3-A9FC-527C46854B21}
+			Sign:de0dd268798ca3c82f76853ea8a18024455ae293
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Messaging, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{79F2D44A-73DD-466E-A8DF-BFA7DC161D43}
+			Sign:49970fc02f54b501d4a50c9533ab49f6137f2975
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D38ECBB5-031A-424A-A97B-8035A8F8CE72}
+			Sign:35d83b7722be062e09349938db1d028bd40e9d6f
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+05/14/2014 12:20:56.312 [1764]: 1>Successfully compiled: System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+05/14/2014 12:20:56.812 [1764]: Operation completed. VA Usage: 7839744. Handle count: 126
+05/14/2014 12:20:56.890 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:57.453 [1764]: Operation completed. VA Usage: 8097792. Handle count: 126
+05/14/2014 12:20:57.500 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:57.609 [1764]: Operation completed. VA Usage: 7680000. Handle count: 126
+05/14/2014 12:20:57.656 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:57.796 [1764]: Operation completed. VA Usage: 7745536. Handle count: 126
+05/14/2014 12:20:57.843 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.078 [1764]: Operation completed. VA Usage: 7651328. Handle count: 126
+05/14/2014 12:20:58.234 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.421 [1764]: Operation completed. VA Usage: 7729152. Handle count: 126
+05/14/2014 12:20:58.500 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.687 [1764]: Operation completed. VA Usage: 7745536. Handle count: 126
+05/14/2014 12:20:58.734 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.859 [1764]: Operation completed. VA Usage: 7720960. Handle count: 126
+05/14/2014 12:20:58.890 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.968 [1764]: Operation completed. VA Usage: 7639040. Handle count: 126
+05/14/2014 12:20:59.046 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:59.375 [1764]: Operation completed. VA Usage: 8265728. Handle count: 128
+05/14/2014 12:20:59.453 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:59.656 [1764]: Operation completed. VA Usage: 7741440. Handle count: 126
+05/14/2014 12:20:59.781 [1764]: Deleting native image for assembly Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:59.828 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:59.875 [1764]: Deleting native image for assembly Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:59.937 [1764]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.000 [1764]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.062 [1764]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.140 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.203 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.265 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.312 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.375 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.421 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.484 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.531 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.578 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Word.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.640 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.843 [1764]: Deleting native image for assembly System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:01.093 [1764]: Deleting native image for assembly System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 12:21:01.171 [1764]: Deleting native image for assembly System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+05/14/2014 12:21:01.281 [1764]: Total number of workers used: 283
+05/14/2014 12:21:01.312 [1764]: Completed all work. Shutting down.
+05/14/2014 12:21:01.312 [1764]: SetServiceStartType(): Setting start type as 3
+05/14/2014 12:21:01.328 [1764]: Service state is now SERVICE_STOP_PENDING
+05/14/2014 12:20:32.765 [1764]: Operation completed. VA Usage: 7733248. Handle count: 127
+05/14/2014 12:20:32.828 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:33.000 [1764]: Operation completed. VA Usage: 7712768. Handle count: 126
+05/14/2014 12:20:33.062 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:34.250 [1764]: Operation completed. VA Usage: 7753728. Handle count: 125
+05/14/2014 12:20:34.296 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:34.562 [1764]: Operation completed. VA Usage: 8081408. Handle count: 126
+05/14/2014 12:20:34.625 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:34.968 [1764]: Operation completed. VA Usage: 7634944. Handle count: 126
+05/14/2014 12:20:35.015 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:36.203 [1764]: Operation completed. VA Usage: 8261632. Handle count: 127
+05/14/2014 12:20:36.250 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:36.406 [1764]: Operation completed. VA Usage: 7798784. Handle count: 127
+05/14/2014 12:20:36.468 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:36.718 [1764]: Operation completed. VA Usage: 8073216. Handle count: 126
+05/14/2014 12:20:36.765 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:37.062 [1764]: Operation completed. VA Usage: 7725056. Handle count: 126
+05/14/2014 12:20:37.109 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:37.171 [1764]: Operation completed. VA Usage: 7639040. Handle count: 126
+05/14/2014 12:20:37.218 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:37.421 [1764]: Operation completed. VA Usage: 7622656. Handle count: 126
+05/14/2014 12:20:37.546 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:38.109 [1764]: Operation completed. VA Usage: 7933952. Handle count: 126
+05/14/2014 12:20:38.187 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:38.421 [1764]: Operation completed. VA Usage: 8048640. Handle count: 126
+05/14/2014 12:20:38.468 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:38.640 [1764]: Operation completed. VA Usage: 7839744. Handle count: 126
+05/14/2014 12:20:38.703 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:38.953 [1764]: Operation completed. VA Usage: 7757824. Handle count: 126
+05/14/2014 12:20:39.015 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:39.218 [1764]: Operation completed. VA Usage: 7774208. Handle count: 129
+05/14/2014 12:20:39.265 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:39.687 [1764]: Operation completed. VA Usage: 7864320. Handle count: 127
+05/14/2014 12:20:39.734 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:39.984 [1764]: Operation completed. VA Usage: 7659520. Handle count: 126
+05/14/2014 12:20:40.031 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:40.265 [1764]: Operation completed. VA Usage: 7643136. Handle count: 126
+05/14/2014 12:20:40.312 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:40.671 [1764]: Operation completed. VA Usage: 7888896. Handle count: 127
+05/14/2014 12:20:40.718 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:41.359 [1764]: Operation completed. VA Usage: 8085504. Handle count: 126
+05/14/2014 12:20:41.453 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:41.937 [1764]: Operation completed. VA Usage: 8089600. Handle count: 126
+05/14/2014 12:20:42.000 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:42.328 [1764]: Operation completed. VA Usage: 8110080. Handle count: 126
+05/14/2014 12:20:42.390 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:42.937 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:43.031 [1764]: Operation completed. VA Usage: 8593408. Handle count: 132
+05/14/2014 12:20:43.125 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:43.593 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:43.671 [1764]: Operation completed. VA Usage: 8617984. Handle count: 132
+05/14/2014 12:20:43.750 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:44.453 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:44.531 [1764]: Operation completed. VA Usage: 8572928. Handle count: 132
+05/14/2014 12:20:44.609 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:45.406 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:45.484 [1764]: Operation completed. VA Usage: 8736768. Handle count: 132
+05/14/2014 12:20:45.546 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:46.265 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:46.343 [1764]: Operation completed. VA Usage: 8507392. Handle count: 132
+05/14/2014 12:20:46.421 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:47.203 [1764]: Failed to load dependency Microsoft.VisualBasic.Activities.Compiler of assembly System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 because of the following error : 找不到指定的模块。 (Exception from HRESULT: 0x8007007E)
+05/14/2014 12:20:47.296 [1764]: Operation completed. VA Usage: 8482816. Handle count: 134
+05/14/2014 12:20:47.343 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:47.968 [1764]: Operation completed. VA Usage: 7811072. Handle count: 126
+05/14/2014 12:20:48.015 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:48.234 [1764]: Operation completed. VA Usage: 7622656. Handle count: 127
+05/14/2014 12:20:48.343 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:48.671 [1764]: Operation completed. VA Usage: 8081408. Handle count: 126
+05/14/2014 12:20:48.718 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:49.015 [1764]: Operation completed. VA Usage: 7737344. Handle count: 127
+05/14/2014 12:20:49.140 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:49.531 [1764]: Operation completed. VA Usage: 8081408. Handle count: 126
+05/14/2014 12:20:49.578 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:49.906 [1764]: Operation completed. VA Usage: 8097792. Handle count: 126
+05/14/2014 12:20:49.968 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:50.453 [1764]: Operation completed. VA Usage: 7868416. Handle count: 127
+05/14/2014 12:20:50.515 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:52.093 [1764]: Operation completed. VA Usage: 7909376. Handle count: 126
+05/14/2014 12:20:52.234 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:52.859 [1764]: Operation completed. VA Usage: 7843840. Handle count: 126
+05/14/2014 12:20:52.906 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:53.125 [1764]: 1>Began compiling: System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+05/14/2014 12:20:53.593 [1764]: 1>Warning: Failed to load method token 69000012 from profile data.
+05/14/2014 12:20:53.593 [1764]: 1>Warning: Failed to load method token 69000013 from profile data.
+05/14/2014 12:20:53.609 [1764]: 1>Warning: Failed to load method token 69000054 from profile data.
+05/14/2014 12:20:53.609 [1764]: 1>Warning: Failed to load method token 69000055 from profile data.
+05/14/2014 12:20:53.625 [1764]: 1>Warning: Failed to load method token 6900008e from profile data.
+05/14/2014 12:20:53.625 [1764]: 1>Warning: Failed to load method token 69000095 from profile data.
+05/14/2014 12:20:53.625 [1764]: 1>Warning: Failed to load method token 6900009a from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009b from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009c from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009d from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009e from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 6900009f from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a0 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a1 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a2 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a3 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a4 from profile data.
+05/14/2014 12:20:53.640 [1764]: 1>Warning: Failed to load method token 690000a5 from profile data.
+05/14/2014 12:20:53.656 [1764]: 1>Warning: Failed to load method token 690000a8 from profile data.
+05/14/2014 12:20:53.656 [1764]: 1>Warning: Failed to load method token 690000b5 from profile data.
+05/14/2014 12:20:53.656 [1764]: 1>Warning: Failed to load method token 690000bd from profile data.
+05/14/2014 12:20:53.656 [1764]: 1>Warning: Failed to load method token 690000c0 from profile data.
+05/14/2014 12:20:53.812 [1764]: 1>Warning: Failed to load method token 69000012 from profile data.
+05/14/2014 12:20:53.812 [1764]: 1>Warning: Failed to load method token 69000013 from profile data.
+05/14/2014 12:20:54.078 [1764]: 1>Warning: Failed to load method token 69000054 from profile data.
+05/14/2014 12:20:54.078 [1764]: 1>Warning: Failed to load method token 69000055 from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900008e from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 69000095 from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009a from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009b from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009c from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009d from profile data.
+05/14/2014 12:20:54.156 [1764]: 1>Warning: Failed to load method token 6900009e from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 6900009f from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a0 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a1 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a2 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a3 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a4 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a5 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000a8 from profile data.
+05/14/2014 12:20:54.171 [1764]: 1>Warning: Failed to load method token 690000b5 from profile data.
+05/14/2014 12:20:54.187 [1764]: 1>Warning: Failed to load method token 690000bd from profile data.
+05/14/2014 12:20:54.187 [1764]: 1>Warning: Failed to load method token 690000c0 from profile data.
+05/14/2014 12:20:55.468 [1764]: 1>Warning: Failed to load method token 69000012 from profile data.
+05/14/2014 12:20:55.468 [1764]: 1>Warning: Failed to load method token 69000013 from profile data.
+05/14/2014 12:20:55.484 [1764]: 1>Warning: Failed to load method token 69000054 from profile data.
+05/14/2014 12:20:55.484 [1764]: 1>Warning: Failed to load method token 69000055 from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900008e from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 69000095 from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009a from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009b from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009c from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009d from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009e from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 6900009f from profile data.
+05/14/2014 12:20:55.500 [1764]: 1>Warning: Failed to load method token 690000a0 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a1 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a2 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a3 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a4 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a5 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000a8 from profile data.
+05/14/2014 12:20:55.515 [1764]: 1>Warning: Failed to load method token 690000b5 from profile data.
+05/14/2014 12:20:55.531 [1764]: 1>Warning: Failed to load method token 690000bd from profile data.
+05/14/2014 12:20:55.531 [1764]: 1>Warning: Failed to load method token 690000c0 from profile data.
+05/14/2014 12:20:56.296 [1764]: 1>System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+05/14/2014 12:20:56.296 [1764]: 1>	Source MVID:	{3975F1CD-08C7-4F65-AABC-AE417F0717CC}
+	Source HASH:	811e2a188549206f2550f25f2b49f9fb3199b2f3
+	NGen GUID sign:	{19CCE7ED-0CC5-482B-5B55-B85671EFC06B}
+	OS:		WinNT
+	Processor:	x86(Pentium 4) (features: 00008001)
+	Runtime:	2.0.50727.3655
+	mscorwks.dll:	TimeStamp=5266E523, CheckSum=005B31A7
+	Flags:		
+	Scenarios:		<no debug info> <no debugger> <no profiler> <no instrumentation> 
+	Granted set:	<PermissionSet class="System.Security.PermissionSet"
+version="1"
+Unrestricted="true"/>
+
+	File:		C:\WINDOWS\assembly\NativeImages_v2.0.50727_32\System.Workflow.Run#\ede7cc19c50c2b485b55b85671efc06b\System.Workflow.Runtime.ni.dll
+	Dependencies:
+		mscorlib, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{EFA0ED04-B35E-48BD-8B8E-5B8F775B0128}
+			Sign:3f87628dd776a0e192563562aff6a7d94d5d193e
+			Hardbound Guid:{3123E0DA-43A4-52FB-216C-A83292CB2F21}
+		System.Workflow.Runtime, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{3975F1CD-08C7-4F65-AABC-AE417F0717CC}
+			Sign:811e2a188549206f2550f25f2b49f9fb3199b2f3
+		System.Configuration, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{7E049989-D489-44F6-8F68-96848E714655}
+			Sign:facf8289233b71777082492ddbf71ab4ebf5bd02
+		System.Workflow.ComponentModel, Version=3.0.0.0, PublicKeyToken=31bf3856ad364e35:
+			Guid:{9BB13B3A-E61C-4AA3-A9FC-527C46854B21}
+			Sign:de0dd268798ca3c82f76853ea8a18024455ae293
+		System, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D7DEBA0B-8704-411F-A483-BCE8246198E9}
+			Sign:71b2a284a3c673c78dec5802a1c7f836f368027b
+			Hardbound Guid:{AE55044B-E394-CCCE-A4BB-3BA8C96828C9}
+		System.Messaging, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{79F2D44A-73DD-466E-A8DF-BFA7DC161D43}
+			Sign:49970fc02f54b501d4a50c9533ab49f6137f2975
+		System.Transactions, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{0255EA2C-D704-4D8A-A5D5-93199CD4B04E}
+			Sign:a46b567f9b5cd8268e37329e3b10604b797b614d
+		System.Data, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{DB6A09C4-FB30-4F2B-8ABF-A66BEE80F05B}
+			Sign:d07c19fb9e063858145902a6ef162c6e92c7c12f
+		System.Xml, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{E7253B8F-ADCD-45D9-A4C5-04BDC515ED14}
+			Sign:56a22bcf2b30290d64a02761738fc5fbbbdbf0c3
+		System.Web, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{2776EE43-5AEF-462C-B64D-8313695783D3}
+			Sign:efac856a1720169f44e8e9d61f0f6aabdd52646c
+		System.Runtime.Remoting, Version=2.0.0.0, PublicKeyToken=b77a5c561934e089:
+			Guid:{D38ECBB5-031A-424A-A97B-8035A8F8CE72}
+			Sign:35d83b7722be062e09349938db1d028bd40e9d6f
+		System.Design, Version=2.0.0.0, PublicKeyToken=b03f5f7f11d50a3a:
+			Guid:{AA309C59-9194-435A-BC64-D20BAB4DFC25}
+			Sign:870783ecf344db0f1b9732224cd86f7823568880
+
+05/14/2014 12:20:56.312 [1764]: 1>Successfully compiled: System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+05/14/2014 12:20:56.812 [1764]: Operation completed. VA Usage: 7839744. Handle count: 126
+05/14/2014 12:20:56.890 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:57.453 [1764]: Operation completed. VA Usage: 8097792. Handle count: 126
+05/14/2014 12:20:57.500 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:57.609 [1764]: Operation completed. VA Usage: 7680000. Handle count: 126
+05/14/2014 12:20:57.656 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:57.796 [1764]: Operation completed. VA Usage: 7745536. Handle count: 126
+05/14/2014 12:20:57.843 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.078 [1764]: Operation completed. VA Usage: 7651328. Handle count: 126
+05/14/2014 12:20:58.234 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.421 [1764]: Operation completed. VA Usage: 7729152. Handle count: 126
+05/14/2014 12:20:58.500 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.687 [1764]: Operation completed. VA Usage: 7745536. Handle count: 126
+05/14/2014 12:20:58.734 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.859 [1764]: Operation completed. VA Usage: 7720960. Handle count: 126
+05/14/2014 12:20:58.890 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:58.968 [1764]: Operation completed. VA Usage: 7639040. Handle count: 126
+05/14/2014 12:20:59.046 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:59.375 [1764]: Operation completed. VA Usage: 8265728. Handle count: 128
+05/14/2014 12:20:59.453 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:59.656 [1764]: Operation completed. VA Usage: 7741440. Handle count: 126
+05/14/2014 12:20:59.781 [1764]: Deleting native image for assembly Microsoft.Office.Tools.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:59.828 [1764]: Service worker shutting down. Dependency walks performed: 1. Compilations performed: 0
+05/14/2014 12:20:59.875 [1764]: Deleting native image for assembly Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:20:59.937 [1764]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.ClassDesigner, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.000 [1764]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.SdmDesigners, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.062 [1764]: Deleting native image for assembly Microsoft.VisualStudio.EnterpriseTools.Shell, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.140 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.203 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.265 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.312 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.375 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.421 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.484 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Excel.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.531 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.HostAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.578 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Word.AddInAdapter.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.640 [1764]: Deleting native image for assembly Microsoft.VisualStudio.Tools.Office.Word.AddInProxy.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:00.843 [1764]: Deleting native image for assembly System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+05/14/2014 12:21:01.093 [1764]: Deleting native image for assembly System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+05/14/2014 12:21:01.171 [1764]: Deleting native image for assembly System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+05/14/2014 12:21:01.281 [1764]: Total number of workers used: 283
+05/14/2014 12:21:01.312 [1764]: Completed all work. Shutting down.
+05/14/2014 12:21:01.312 [1764]: SetServiceStartType(): Setting start type as 3
+05/14/2014 12:21:01.328 [1764]: Service state is now SERVICE_STOP_PENDING
