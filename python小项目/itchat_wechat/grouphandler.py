@@ -2,6 +2,7 @@ import itchat
 import requests
 def get_response(msg):
     apiUrl = 'http://www.tuling123.com/openapi/api'   #改成你自己的图灵机器人的api
+    data={
         'key': 'ce697b3fc8b54d5f88c2fa59772cb2cf',  # Tuling Key 
         'info': msg,  # 这是我们发出去的消息
         'userid': 'wechat-robot',  # 这里可随意修改
